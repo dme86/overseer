@@ -124,7 +124,7 @@ fn sync(data_dir: &Path) -> Result<()> {
 
         let atomic_dir = locale_root.join("atomic-shop");
 
-        // Only offers that are active right now.
+        // Offers available right now.
         store::write_stable(
             &atomic_dir.join("current.json"),
             &json!({
@@ -137,7 +137,7 @@ fn sync(data_dir: &Path) -> Result<()> {
             }),
         )?;
 
-        // Everything already announced that starts in the future.
+        // Offers already announced but not yet available.
         let upcoming: Vec<_> = atomic
             .offers
             .iter()
@@ -167,13 +167,52 @@ fn sync(data_dir: &Path) -> Result<()> {
             }),
         )?;
 
-        // Full monthly Bethesda Atomic Shop schedule.
-        let archive_path = atomic_dir.join("archive").join(format!(
-            "{:04}-{:02}.json",
-            atomic.article_year, atomic.article_month
-        ));
+        /*
+         * Atomic Shop monthly archive
+         *
+         * The archive intentionally does not contain the dynamic "active"
+         * state. It represents Bethesda's published monthly schedule only.
+         */
 
-        store::write_stable(&archive_path, &serde_json::to_value(&atomic)?)?;
+        let archived_offers: Vec<_> = atomic
+            .offers
+            .iter()
+            .map(|offer| {
+                json!({
+                    "item": offer.item.clone(),
+                    "price_atoms": offer.price_atoms,
+                    "price_text": offer.price_text.clone(),
+                    "discount_percent": offer.discount_percent,
+                    "section": offer.section.clone(),
+                    "subsection": offer.subsection.clone(),
+                    "offer_type": offer.offer_type.clone(),
+                    "starts_at": offer.starts_at,
+                    "ends_at": offer.ends_at,
+                    "starts_at_local": offer.starts_at_local.clone(),
+                    "ends_at_local": offer.ends_at_local.clone(),
+                })
+            })
+            .collect();
+
+        let archive_path = atomic_dir
+            .join("archive")
+            .join(format!("{:04}", atomic.article_year))
+            .join(format!("{:02}.json", atomic.article_month));
+
+        store::write_stable(
+            &archive_path,
+            &json!({
+                "schema_version": 1,
+                "generated_at": generated_at,
+                "locale": locale.code,
+                "timezone": locale.timezone.name(),
+                "source": atomic.source.clone(),
+                "article_title": atomic.article_title.clone(),
+                "article_year": atomic.article_year,
+                "article_month": atomic.article_month,
+                "offers": archived_offers,
+            }),
+        )?;
 
         /*
          * Locale index

@@ -40,6 +40,13 @@ https://dme86.github.io/overseer/de-DE/minerva/schedule.json
 https://dme86.github.io/overseer/en-US/minerva/schedule.json
 ```
 
+Historical Minerva snapshots are stored by year and month:
+
+```text
+/de-DE/minerva/archive/YYYY/MM/<timestamp>.json
+/en-US/minerva/archive/YYYY/MM/<timestamp>.json
+```
+
 ### Atomic Shop
 
 Currently available offers:
@@ -59,15 +66,32 @@ https://dme86.github.io/overseer/en-US/atomic-shop/upcoming.json
 Monthly archives:
 
 ```text
-https://dme86.github.io/overseer/de-DE/atomic-shop/archive/YYYY-MM.json
-https://dme86.github.io/overseer/en-US/atomic-shop/archive/YYYY-MM.json
+https://dme86.github.io/overseer/de-DE/atomic-shop/archive/YYYY/MM.json
+https://dme86.github.io/overseer/en-US/atomic-shop/archive/YYYY/MM.json
 ```
 
+Example:
+
+```text
+https://dme86.github.io/overseer/de-DE/atomic-shop/archive/2026/09.json
+```
+
+Atomic Shop archives contain the published monthly schedule and do not contain dynamic `active` state.
+
 ### Events
+
+Current event data:
 
 ```text
 https://dme86.github.io/overseer/de-DE/events/current.json
 https://dme86.github.io/overseer/en-US/events/current.json
+```
+
+Historical event snapshots are stored by year and month:
+
+```text
+/de-DE/events/archive/YYYY/MM/<timestamp>.json
+/en-US/events/archive/YYYY/MM/<timestamp>.json
 ```
 
 ## Discovery
