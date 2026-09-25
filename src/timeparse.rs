@@ -29,7 +29,7 @@ pub fn parse_nuka_moment(text: &str, locale: &str, timezone: Tz) -> Option<DateT
     }
 }
 
-fn local_to_utc(
+pub fn local_to_utc(
     timezone: Tz,
     year: i32,
     month: u32,

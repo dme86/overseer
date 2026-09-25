@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Sammle Energiemunition.",
+      "score_reward": 250,
+      "target": 20
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Sammle eine Nuka-Cola Quantum auf.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Schließe die Quest \"Geschändete Gräber\" ab.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Trinke Nuka-Cola Quantum.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Töte einen brennenden RAD-Skorpion.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Töte einen Mirelurk.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Gehe zu Fuß (km).",
+      "score_reward": 250,
+      "target": 10
+    }
+  ],
+  "generated_at": "2026-09-25T12:09:09.537073Z",
+  "locale": "de-DE",
+  "period_start": "2026-09-24T16:00:00Z",
+  "period_start_local": "2026-09-24T18:00:00+02:00",
+  "reset_at": "2026-09-25T16:00:00Z",
+  "reset_at_local": "2026-09-25T18:00:00+02:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

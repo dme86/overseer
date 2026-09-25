@@ -9,7 +9,7 @@ mod util;
 use std::path::{Path, PathBuf};
 
 use anyhow::{Context, Result};
-use chrono::Utc;
+use chrono::{DateTime, Datelike, Utc};
 use clap::{Parser, Subcommand};
 use serde_json::json;
 
@@ -54,7 +54,10 @@ fn sync(data_dir: &Path) -> Result<()> {
         println!("syncing {}", locale.code);
         let locale_root = data_dir.join(locale.code);
 
-        let minerva = nukaknights::fetch_minerva(&client, locale, generated_at)
+        let home = nukaknights::fetch_home(&client, locale, generated_at)
+            .with_context(|| format!("sync Nuka Knights homepage for {}", locale.code))?;
+
+        let minerva = nukaknights::fetch_minerva(&client, locale, generated_at, &home.html)
             .with_context(|| format!("sync Minerva for {}", locale.code))?;
 
         let events = nukaknights::fetch_events(&client, locale, generated_at)
@@ -62,6 +65,53 @@ fn sync(data_dir: &Path) -> Result<()> {
 
         let atomic = bethesda::fetch_atomic_shop(&client, locale, generated_at)
             .with_context(|| format!("sync Atomic Shop for {}", locale.code))?;
+
+        /*
+         * Homepage feeds and semantic-period archives
+         */
+
+        write_dated_feed(
+            &locale_root,
+            "challenges/daily.json",
+            "challenges/daily/archive",
+            home.daily_challenges.period_start,
+            locale.timezone,
+            &serde_json::to_value(&home.daily_challenges)?,
+        )?;
+        write_dated_feed(
+            &locale_root,
+            "challenges/weekly.json",
+            "challenges/weekly/archive",
+            home.weekly_challenges.period_start,
+            locale.timezone,
+            &serde_json::to_value(&home.weekly_challenges)?,
+        )?;
+        write_dated_feed(
+            &locale_root,
+            "daily-ops/current.json",
+            "daily-ops/archive",
+            home.daily_ops.period_start,
+            locale.timezone,
+            &serde_json::to_value(&home.daily_ops)?,
+        )?;
+        write_dated_feed(
+            &locale_root,
+            "nuke-codes/current.json",
+            "nuke-codes/archive",
+            home.nuke_codes.valid_from,
+            locale.timezone,
+            &serde_json::to_value(&home.nuke_codes)?,
+        )?;
+
+        let season_dir = locale_root.join("season");
+        let season_value = serde_json::to_value(&home.season)?;
+        store::write_stable(
+            &season_dir
+                .join("archive")
+                .join(format!("{}.json", home.season.season_number)),
+            &season_value,
+        )?;
+        store::write_stable(&season_dir.join("current.json"), &season_value)?;
 
         /*
          * Minerva
@@ -229,6 +279,11 @@ fn sync(data_dir: &Path) -> Result<()> {
                     "minerva_next": "minerva/next.json",
                     "minerva_schedule": "minerva/schedule.json",
                     "events": "events/current.json",
+                    "daily_challenges": "challenges/daily.json",
+                    "weekly_challenges": "challenges/weekly.json",
+                    "daily_ops": "daily-ops/current.json",
+                    "nuke_codes": "nuke-codes/current.json",
+                    "season": "season/current.json",
                     "atomic_shop_current": "atomic-shop/current.json",
                     "atomic_shop_upcoming": "atomic-shop/upcoming.json"
                 }
@@ -256,5 +311,25 @@ fn sync(data_dir: &Path) -> Result<()> {
         }),
     )?;
 
+    Ok(())
+}
+
+fn write_dated_feed(
+    locale_root: &Path,
+    current_path: &str,
+    archive_dir: &str,
+    period_start: DateTime<Utc>,
+    timezone: chrono_tz::Tz,
+    value: &serde_json::Value,
+) -> Result<()> {
+    let period_start = period_start.with_timezone(&timezone);
+    let filename = format!(
+        "{:04}/{:02}/{:02}.json",
+        period_start.year(),
+        period_start.month(),
+        period_start.day()
+    );
+    store::write_stable(&locale_root.join(archive_dir).join(filename), value)?;
+    store::write_stable(&locale_root.join(current_path), value)?;
     Ok(())
 }

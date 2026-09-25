@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Collect Energy Ammo",
+      "score_reward": 250,
+      "target": 20
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Collect a Nuka-Cola Quantum",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Complete the Quest: \"Disturbed Grave\"",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Drink Nuka-Cola Quantum",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Kill a Burning Radscorpion",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Kill a Mirelurk",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Travel on foot (KM)",
+      "score_reward": 250,
+      "target": 10
+    }
+  ],
+  "generated_at": "2026-09-25T12:09:09.537073Z",
+  "locale": "en-US",
+  "period_start": "2026-09-24T16:00:00Z",
+  "period_start_local": "2026-09-24T12:00:00-04:00",
+  "reset_at": "2026-09-25T16:00:00Z",
+  "reset_at_local": "2026-09-25T12:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

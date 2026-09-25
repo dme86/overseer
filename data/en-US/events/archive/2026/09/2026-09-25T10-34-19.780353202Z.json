@@ -6,17 +6,11 @@
       "ends_at_local": "2026-09-28T12:00:00-04:00",
       "starts_at": "2026-09-24T16:00:00Z",
       "starts_at_local": "2026-09-24T12:00:00-04:00",
-      "tags": [
-        "double_mutations",
-        "seasonal_event",
-        "seasonal_fish",
-        "treasure_hunter"
-      ],
       "title": "Seasonal Fish Run, Treasure Hunter and Double Mutations",
       "url": "https://nukaknights.com/events/6260987344018944/seasonal-fish-run-treasure-hunter-and-double-mutations/"
     }
   ],
-  "generated_at": "2026-09-25T12:09:09.537073Z",
+  "generated_at": "2026-09-25T10:34:19.780353202Z",
   "locale": "en-US",
   "schema_version": 1,
   "source": {
@@ -31,9 +25,6 @@
       "ends_at_local": "2026-09-30T12:00:00-04:00",
       "starts_at": "2026-09-28T16:00:00Z",
       "starts_at_local": "2026-09-28T12:00:00-04:00",
-      "tags": [
-        "minerva"
-      ],
       "title": "Minerva (List 3)",
       "url": "https://nukaknights.com/events/6260987344018964/minerva-list-3/"
     },
@@ -43,9 +34,6 @@
       "ends_at_local": null,
       "starts_at": "2026-09-29T14:00:00Z",
       "starts_at_local": "2026-09-29T10:00:00-04:00",
-      "tags": [
-        "maintenance"
-      ],
       "title": "Update / Maintenance for Patch 70 Hotfix (stability)",
       "url": "https://nukaknights.com/events/6260987344018995/update--maintenance-for-patch-70-hotfix-stability/"
     },
@@ -55,9 +43,6 @@
       "ends_at_local": "2026-10-06T12:00:00-04:00",
       "starts_at": "2026-09-29T16:00:00Z",
       "starts_at_local": "2026-09-29T12:00:00-04:00",
-      "tags": [
-        "mutated_events"
-      ],
       "title": "Mutated Public Events",
       "url": "https://nukaknights.com/events/6260987344018945/mutated-public-events/"
     },
@@ -67,9 +52,6 @@
       "ends_at_local": "2026-10-05T12:00:00-04:00",
       "starts_at": "2026-10-01T16:00:00Z",
       "starts_at_local": "2026-10-01T12:00:00-04:00",
-      "tags": [
-        "double_score"
-      ],
       "title": "Double SCORE Weekend",
       "url": "https://nukaknights.com/events/6260987344018979/double-score-weekend/"
     },
@@ -79,7 +61,6 @@
       "ends_at_local": "2026-10-20T12:00:00-04:00",
       "starts_at": "2026-10-02T16:00:00Z",
       "starts_at_local": "2026-10-02T12:00:00-04:00",
-      "tags": [],
       "title": "Slasher C.A.M.P. Contest",
       "url": "https://nukaknights.com/events/6260987344018980/slasher-c-a-m-p-contest/"
     },
@@ -89,10 +70,6 @@
       "ends_at_local": "2026-10-20T12:00:00-04:00",
       "starts_at": "2026-10-06T16:00:00Z",
       "starts_at_local": "2026-10-06T12:00:00-04:00",
-      "tags": [
-        "mischief_night",
-        "seasonal_event"
-      ],
       "title": "Mischief Night",
       "url": "https://nukaknights.com/events/6260987344018981/mischief-night/"
     },
@@ -102,9 +79,6 @@
       "ends_at_local": "2026-10-12T12:00:00-04:00",
       "starts_at": "2026-10-08T16:00:00Z",
       "starts_at_local": "2026-10-08T12:00:00-04:00",
-      "tags": [
-        "minerva"
-      ],
       "title": "Minerva`s Big Sale (List 4)",
       "url": "https://nukaknights.com/events/6260987344018965/minerva-s-big-sale-list-4/"
     },
@@ -114,9 +88,6 @@
       "ends_at_local": "2026-10-19T12:00:00-04:00",
       "starts_at": "2026-10-15T16:00:00Z",
       "starts_at_local": "2026-10-15T12:00:00-04:00",
-      "tags": [
-        "double_mutations"
-      ],
       "title": "Double Mutations",
       "url": "https://nukaknights.com/events/6260987344018982/double-mutations/"
     },
@@ -126,10 +97,6 @@
       "ends_at_local": "2026-11-03T12:00:00-05:00",
       "starts_at": "2026-10-20T16:00:00Z",
       "starts_at_local": "2026-10-20T12:00:00-04:00",
-      "tags": [
-        "seasonal_event",
-        "spooky_scorched"
-      ],
       "title": "Spooky Scorched",
       "url": "https://nukaknights.com/events/6260987344018983/spooky-scorched/"
     },
@@ -139,10 +106,6 @@
       "ends_at_local": "2026-10-26T13:00:00-04:00",
       "starts_at": "2026-10-22T16:00:00Z",
       "starts_at_local": "2026-10-22T12:00:00-04:00",
-      "tags": [
-        "double_xp",
-        "legendary_sale"
-      ],
       "title": "Double XP and Legendary Sale",
       "url": "https://nukaknights.com/events/6260987344018984/double-xp-and-legendary-sale/"
     },
@@ -152,10 +115,6 @@
       "ends_at_local": "2026-11-09T12:00:00-05:00",
       "starts_at": "2026-11-05T17:00:00Z",
       "starts_at_local": "2026-11-05T12:00:00-05:00",
-      "tags": [
-        "caps_a_plenty",
-        "double_score"
-      ],
       "title": "Double SCORE and Caps-A-Plenty",
       "url": "https://nukaknights.com/events/6260987344018985/double-score-and-caps-a-plenty/"
     },
@@ -165,9 +124,6 @@
       "ends_at_local": "2026-11-17T12:00:00-05:00",
       "starts_at": "2026-11-10T17:00:00Z",
       "starts_at_local": "2026-11-10T12:00:00-05:00",
-      "tags": [
-        "anniversary"
-      ],
       "title": "Anniversary Events",
       "url": "https://nukaknights.com/events/6260987344018986/anniversary-events/"
     },
@@ -177,9 +133,6 @@
       "ends_at_local": "2026-11-16T12:00:00-05:00",
       "starts_at": "2026-11-12T17:00:00Z",
       "starts_at_local": "2026-11-12T12:00:00-05:00",
-      "tags": [
-        "minerva"
-      ],
       "title": "Minerva`s Big Sale (List 8)",
       "url": "https://nukaknights.com/events/6260987344018969/minerva-s-big-sale-list-8/"
     },
@@ -189,10 +142,6 @@
       "ends_at_local": "2026-11-23T12:00:00-05:00",
       "starts_at": "2026-11-19T17:00:00Z",
       "starts_at_local": "2026-11-19T12:00:00-05:00",
-      "tags": [
-        "double_mutations",
-        "gold_rush"
-      ],
       "title": "Gold Rush and Double Mutations",
       "url": "https://nukaknights.com/events/6260987344018987/gold-rush-and-double-mutations/"
     },
@@ -202,9 +151,6 @@
       "ends_at_local": "2026-12-01T12:00:00-05:00",
       "starts_at": "2026-11-24T17:00:00Z",
       "starts_at_local": "2026-11-24T12:00:00-05:00",
-      "tags": [
-        "mutated_events"
-      ],
       "title": "Mutated Public Events",
       "url": "https://nukaknights.com/events/6260987344018988/mutated-public-events/"
     },
@@ -214,9 +160,6 @@
       "ends_at_local": "2026-11-30T12:00:00-05:00",
       "starts_at": "2026-11-26T17:00:00Z",
       "starts_at_local": "2026-11-26T12:00:00-05:00",
-      "tags": [
-        "double_xp"
-      ],
       "title": "Double XP Weekend",
       "url": "https://nukaknights.com/events/6260987344018989/double-xp-weekend/"
     },
@@ -226,11 +169,6 @@
       "ends_at_local": "2026-12-07T12:00:00-05:00",
       "starts_at": "2026-12-03T17:00:00Z",
       "starts_at_local": "2026-12-03T12:00:00-05:00",
-      "tags": [
-        "double_mutations",
-        "seasonal_event",
-        "treasure_hunter"
-      ],
       "title": "Treasure Hunter and Double Mutations",
       "url": "https://nukaknights.com/events/6260987344018990/treasure-hunter-and-double-mutations/"
     },
@@ -240,7 +178,6 @@
       "ends_at_local": "2026-12-14T12:00:00-05:00",
       "starts_at": "2026-12-10T17:00:00Z",
       "starts_at_local": "2026-12-10T12:00:00-05:00",
-      "tags": [],
       "title": "Murmrgh`s Special Pick",
       "url": "https://nukaknights.com/events/6260987344018991/murmrgh-s-special-pick/"
     },
@@ -250,10 +187,6 @@
       "ends_at_local": "2026-12-29T12:00:00-05:00",
       "starts_at": "2026-12-15T17:00:00Z",
       "starts_at_local": "2026-12-15T12:00:00-05:00",
-      "tags": [
-        "holiday_scorched",
-        "seasonal_event"
-      ],
       "title": "Holiday Scorched",
       "url": "https://nukaknights.com/events/6260987344018992/holiday-scorched/"
     },
@@ -263,9 +196,6 @@
       "ends_at_local": "2026-12-21T12:00:00-05:00",
       "starts_at": "2026-12-17T17:00:00Z",
       "starts_at_local": "2026-12-17T12:00:00-05:00",
-      "tags": [
-        "minerva"
-      ],
       "title": "Minerva`s Big Sale (List 12)",
       "url": "https://nukaknights.com/events/6260987344018974/minerva-s-big-sale-list-12/"
     },
@@ -275,11 +205,6 @@
       "ends_at_local": "2026-12-21T12:00:00-05:00",
       "starts_at": "2026-12-17T17:00:00Z",
       "starts_at_local": "2026-12-17T12:00:00-05:00",
-      "tags": [
-        "caps_a_plenty",
-        "double_mutations",
-        "double_score"
-      ],
       "title": "Double SCORE, Caps-A-Plenty and Double Mutations",
       "url": "https://nukaknights.com/events/6260987344018993/double-score-caps-a-plenty-and-double-mutations/"
     },
@@ -289,9 +214,6 @@
       "ends_at_local": "2026-12-28T12:00:00-05:00",
       "starts_at": "2026-12-24T17:00:00Z",
       "starts_at_local": "2026-12-24T12:00:00-05:00",
-      "tags": [
-        "double_xp"
-      ],
       "title": "Double XP Weekend",
       "url": "https://nukaknights.com/events/6260987344018994/double-xp-weekend/"
     },
@@ -301,9 +223,6 @@
       "ends_at_local": "2027-01-25T12:00:00-05:00",
       "starts_at": "2027-01-21T17:00:00Z",
       "starts_at_local": "2027-01-21T12:00:00-05:00",
-      "tags": [
-        "minerva"
-      ],
       "title": "Minerva`s Big Sale (List 16)",
       "url": "https://nukaknights.com/events/6260987344018978/minerva-s-big-sale-list-16/"
     }

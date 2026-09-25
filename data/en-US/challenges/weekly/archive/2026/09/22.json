@@ -1,0 +1,76 @@
+{
+  "challenges": [
+    {
+      "name": "Complete a Gold Star Daily Challenge!",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Repeatable Under Rank 100: Gain XP",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Repeatable at Rank 100 or above: Complete a Public Event",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Build Anything in a Workshop or C.A.M.P.",
+      "score_reward": 1000,
+      "target": 25
+    },
+    {
+      "name": "Collect a Garden Gnome",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Collect any flavor of Nuka-Cola",
+      "score_reward": 1000,
+      "target": 20
+    },
+    {
+      "name": "Complete a Head Hunt",
+      "score_reward": 1000,
+      "target": 4
+    },
+    {
+      "name": "Complete the Quest: \"Disturbed Grave\"",
+      "score_reward": 1000,
+      "target": 4
+    },
+    {
+      "name": "Drink Nuka-Cola",
+      "score_reward": 1000,
+      "target": 25
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom while in a Team",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom while on a Team and wearing a Costume",
+      "score_reward": 1000,
+      "target": 18
+    },
+    {
+      "name": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
+      "score_reward": 1000,
+      "target": 20
+    }
+  ],
+  "generated_at": "2026-09-25T12:09:09.537073Z",
+  "locale": "en-US",
+  "period_start": "2026-09-22T16:00:00Z",
+  "period_start_local": "2026-09-22T12:00:00-04:00",
+  "reset_at": "2026-09-29T16:00:00Z",
+  "reset_at_local": "2026-09-29T12:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

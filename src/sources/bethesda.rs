@@ -11,6 +11,8 @@ use crate::timeparse::{
 };
 use crate::util::normalize_ws;
 
+type OfferWindow = (Option<DateTime<Utc>>, Option<DateTime<Utc>>, String);
+
 pub fn fetch_atomic_shop(
     client: &HttpClient,
     locale: &LocaleConfig,
@@ -204,7 +206,7 @@ fn derive_window(
     available_on: Option<&str>,
     available_from: Option<&str>,
     available_until: Option<&str>,
-) -> Result<(Option<DateTime<Utc>>, Option<DateTime<Utc>>, String)> {
+) -> Result<OfferWindow> {
     if let Some(on) = available_on.and_then(|value| parse_month_day(value, year)) {
         let start = noon_eastern(on)?;
         return Ok((Some(start), Some(plus_days(start, 1)), "daily".to_string()));
@@ -273,7 +275,7 @@ fn element_text(element: ElementRef<'_>) -> String {
 
 fn parse_atoms(value: &str) -> Option<u32> {
     let re = Regex::new(r"\d[\d.,]*").ok()?;
-    let matched = re.find(value)?.as_str().replace(',', "").replace('.', "");
+    let matched = re.find(value)?.as_str().replace([',', '.'], "");
     matched.parse().ok()
 }
 

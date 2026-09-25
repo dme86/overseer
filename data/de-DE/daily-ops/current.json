@@ -1,0 +1,21 @@
+{
+  "enemies": "Westentaschenphantome",
+  "generated_at": "2026-09-25T12:09:09.537073Z",
+  "locale": "de-DE",
+  "location": "Charleston Capitol Building",
+  "mode": "Verbindungsgerät",
+  "mutations": [
+    "Tödlicher Blick",
+    "Aktive Tarnung"
+  ],
+  "period_start": "2026-09-24T16:00:00Z",
+  "period_start_local": "2026-09-24T18:00:00+02:00",
+  "reset_at": "2026-09-25T16:00:00Z",
+  "reset_at_local": "2026-09-25T18:00:00+02:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

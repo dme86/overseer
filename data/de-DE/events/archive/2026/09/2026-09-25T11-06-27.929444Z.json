@@ -6,17 +6,11 @@
       "ends_at_local": "2026-09-28T18:00:00+02:00",
       "starts_at": "2026-09-24T16:00:00Z",
       "starts_at_local": "2026-09-24T18:00:00+02:00",
-      "tags": [
-        "double_mutations",
-        "seasonal_event",
-        "seasonal_fish",
-        "treasure_hunter"
-      ],
       "title": "Saisonale Fischwanderung, Schatzsucher und Doppelmutationen",
       "url": "https://nukaknights.com/event/6260987344018944/saisonale-fischwanderung-schatzsucher-und-doppelmutationen/"
     }
   ],
-  "generated_at": "2026-09-25T12:09:09.537073Z",
+  "generated_at": "2026-09-25T11:06:27.929444Z",
   "locale": "de-DE",
   "schema_version": 1,
   "source": {
@@ -31,10 +25,7 @@
       "ends_at_local": "2026-09-30T18:00:00+02:00",
       "starts_at": "2026-09-28T16:00:00Z",
       "starts_at_local": "2026-09-28T18:00:00+02:00",
-      "tags": [
-        "minerva"
-      ],
-      "title": "Minerva (Liste 3)",
+      "title": "Start in 3 Tagen 4 Stunden",
       "url": "https://nukaknights.com/event/6260987344018964/minerva-liste-3/"
     },
     {
@@ -43,9 +34,6 @@
       "ends_at_local": null,
       "starts_at": "2026-09-29T14:00:00Z",
       "starts_at_local": "2026-09-29T16:00:00+02:00",
-      "tags": [
-        "maintenance"
-      ],
       "title": "Update / Wartung für Patch 70 Hotfix (Stabilität)",
       "url": "https://nukaknights.com/event/6260987344018995/update--wartung-fuer-patch-70-hotfix-stabilitaet/"
     },
@@ -55,9 +43,6 @@
       "ends_at_local": "2026-10-06T18:00:00+02:00",
       "starts_at": "2026-09-29T16:00:00Z",
       "starts_at_local": "2026-09-29T18:00:00+02:00",
-      "tags": [
-        "mutated_events"
-      ],
       "title": "Mutierte Öffentliche Events",
       "url": "https://nukaknights.com/event/6260987344018945/mutierte-oeffentliche-events/"
     },
@@ -67,9 +52,6 @@
       "ends_at_local": "2026-10-05T18:00:00+02:00",
       "starts_at": "2026-10-01T16:00:00Z",
       "starts_at_local": "2026-10-01T18:00:00+02:00",
-      "tags": [
-        "double_score"
-      ],
       "title": "Doppelter SCORE Wochenende",
       "url": "https://nukaknights.com/event/6260987344018979/doppelter-score-wochenende/"
     },
@@ -79,7 +61,6 @@
       "ends_at_local": "2026-10-20T18:00:00+02:00",
       "starts_at": "2026-10-02T16:00:00Z",
       "starts_at_local": "2026-10-02T18:00:00+02:00",
-      "tags": [],
       "title": "Schlitzer C.A.M.P. Contest",
       "url": "https://nukaknights.com/event/6260987344018980/schlitzer-c-a-m-p-contest/"
     },
@@ -89,10 +70,6 @@
       "ends_at_local": "2026-10-20T18:00:00+02:00",
       "starts_at": "2026-10-06T16:00:00Z",
       "starts_at_local": "2026-10-06T18:00:00+02:00",
-      "tags": [
-        "mischief_night",
-        "seasonal_event"
-      ],
       "title": "Nacht des Unfugs",
       "url": "https://nukaknights.com/event/6260987344018981/nacht-des-unfugs/"
     },
@@ -102,9 +79,6 @@
       "ends_at_local": "2026-10-12T18:00:00+02:00",
       "starts_at": "2026-10-08T16:00:00Z",
       "starts_at_local": "2026-10-08T18:00:00+02:00",
-      "tags": [
-        "minerva"
-      ],
       "title": "Minervas Sonderangebote (Liste 4)",
       "url": "https://nukaknights.com/event/6260987344018965/minervas-sonderangebote-liste-4/"
     },
@@ -114,9 +88,6 @@
       "ends_at_local": "2026-10-19T18:00:00+02:00",
       "starts_at": "2026-10-15T16:00:00Z",
       "starts_at_local": "2026-10-15T18:00:00+02:00",
-      "tags": [
-        "double_mutations"
-      ],
       "title": "Doppelmutationen",
       "url": "https://nukaknights.com/event/6260987344018982/doppelmutationen/"
     },
@@ -126,10 +97,6 @@
       "ends_at_local": "2026-11-03T18:00:00+01:00",
       "starts_at": "2026-10-20T16:00:00Z",
       "starts_at_local": "2026-10-20T18:00:00+02:00",
-      "tags": [
-        "seasonal_event",
-        "spooky_scorched"
-      ],
       "title": "Gruselige Verbrannte",
       "url": "https://nukaknights.com/event/6260987344018983/gruselige-verbrannte/"
     },
@@ -139,10 +106,6 @@
       "ends_at_local": "2026-10-26T18:00:00+01:00",
       "starts_at": "2026-10-22T16:00:00Z",
       "starts_at_local": "2026-10-22T18:00:00+02:00",
-      "tags": [
-        "double_xp",
-        "legendary_sale"
-      ],
       "title": "Doppel EP und Legendäre Angebote",
       "url": "https://nukaknights.com/event/6260987344018984/doppel-ep-und-legendaere-angebote/"
     },
@@ -152,10 +115,6 @@
       "ends_at_local": "2026-11-09T18:00:00+01:00",
       "starts_at": "2026-11-05T17:00:00Z",
       "starts_at_local": "2026-11-05T18:00:00+01:00",
-      "tags": [
-        "caps_a_plenty",
-        "double_score"
-      ],
       "title": "Doppelter SCORE und Reichlich Kronkorken",
       "url": "https://nukaknights.com/event/6260987344018985/doppelter-score-und-reichlich-kronkorken/"
     },
@@ -165,9 +124,6 @@
       "ends_at_local": "2026-11-17T18:00:00+01:00",
       "starts_at": "2026-11-10T17:00:00Z",
       "starts_at_local": "2026-11-10T18:00:00+01:00",
-      "tags": [
-        "anniversary"
-      ],
       "title": "Geburtstags Events",
       "url": "https://nukaknights.com/event/6260987344018986/geburtstags-events/"
     },
@@ -177,9 +133,6 @@
       "ends_at_local": "2026-11-16T18:00:00+01:00",
       "starts_at": "2026-11-12T17:00:00Z",
       "starts_at_local": "2026-11-12T18:00:00+01:00",
-      "tags": [
-        "minerva"
-      ],
       "title": "Minervas Sonderangebote (Liste 8)",
       "url": "https://nukaknights.com/event/6260987344018969/minervas-sonderangebote-liste-8/"
     },
@@ -189,10 +142,6 @@
       "ends_at_local": "2026-11-23T18:00:00+01:00",
       "starts_at": "2026-11-19T17:00:00Z",
       "starts_at_local": "2026-11-19T18:00:00+01:00",
-      "tags": [
-        "double_mutations",
-        "gold_rush"
-      ],
       "title": "Goldrausch und Doppelmutationen",
       "url": "https://nukaknights.com/event/6260987344018987/goldrausch-und-doppelmutationen/"
     },
@@ -202,9 +151,6 @@
       "ends_at_local": "2026-12-01T18:00:00+01:00",
       "starts_at": "2026-11-24T17:00:00Z",
       "starts_at_local": "2026-11-24T18:00:00+01:00",
-      "tags": [
-        "mutated_events"
-      ],
       "title": "Mutierte Öffentliche Events",
       "url": "https://nukaknights.com/event/6260987344018988/mutierte-oeffentliche-events/"
     },
@@ -214,9 +160,6 @@
       "ends_at_local": "2026-11-30T18:00:00+01:00",
       "starts_at": "2026-11-26T17:00:00Z",
       "starts_at_local": "2026-11-26T18:00:00+01:00",
-      "tags": [
-        "double_xp"
-      ],
       "title": "Doppel EP Wochenende",
       "url": "https://nukaknights.com/event/6260987344018989/doppel-ep-wochenende/"
     },
@@ -226,11 +169,6 @@
       "ends_at_local": "2026-12-07T18:00:00+01:00",
       "starts_at": "2026-12-03T17:00:00Z",
       "starts_at_local": "2026-12-03T18:00:00+01:00",
-      "tags": [
-        "double_mutations",
-        "seasonal_event",
-        "treasure_hunter"
-      ],
       "title": "Schatzsucher und Doppelmutationen",
       "url": "https://nukaknights.com/event/6260987344018990/schatzsucher-und-doppelmutationen/"
     },
@@ -240,7 +178,6 @@
       "ends_at_local": "2026-12-14T18:00:00+01:00",
       "starts_at": "2026-12-10T17:00:00Z",
       "starts_at_local": "2026-12-10T18:00:00+01:00",
-      "tags": [],
       "title": "Murmrghs Geheime Auswahl",
       "url": "https://nukaknights.com/event/6260987344018991/murmrghs-geheime-auswahl/"
     },
@@ -250,10 +187,6 @@
       "ends_at_local": "2026-12-29T18:00:00+01:00",
       "starts_at": "2026-12-15T17:00:00Z",
       "starts_at_local": "2026-12-15T18:00:00+01:00",
-      "tags": [
-        "holiday_scorched",
-        "seasonal_event"
-      ],
       "title": "Feiertags Verbrannte",
       "url": "https://nukaknights.com/event/6260987344018992/feiertags-verbrannte/"
     },
@@ -263,9 +196,6 @@
       "ends_at_local": "2026-12-21T18:00:00+01:00",
       "starts_at": "2026-12-17T17:00:00Z",
       "starts_at_local": "2026-12-17T18:00:00+01:00",
-      "tags": [
-        "minerva"
-      ],
       "title": "Minervas Sonderangebote (Liste 12)",
       "url": "https://nukaknights.com/event/6260987344018974/minervas-sonderangebote-liste-12/"
     },
@@ -275,11 +205,6 @@
       "ends_at_local": "2026-12-21T18:00:00+01:00",
       "starts_at": "2026-12-17T17:00:00Z",
       "starts_at_local": "2026-12-17T18:00:00+01:00",
-      "tags": [
-        "caps_a_plenty",
-        "double_mutations",
-        "double_score"
-      ],
       "title": "Doppelter SCORE, Reichlich Kronkorken und Doppelmutationen",
       "url": "https://nukaknights.com/event/6260987344018993/doppelter-score-reichlich-kronkorken-und-doppelmutationen/"
     },
@@ -289,9 +214,6 @@
       "ends_at_local": "2026-12-28T18:00:00+01:00",
       "starts_at": "2026-12-24T17:00:00Z",
       "starts_at_local": "2026-12-24T18:00:00+01:00",
-      "tags": [
-        "double_xp"
-      ],
       "title": "Doppel EP Wochenende",
       "url": "https://nukaknights.com/event/6260987344018994/doppel-ep-wochenende/"
     },
@@ -301,9 +223,6 @@
       "ends_at_local": "2027-01-25T18:00:00+01:00",
       "starts_at": "2027-01-21T17:00:00Z",
       "starts_at_local": "2027-01-21T18:00:00+01:00",
-      "tags": [
-        "minerva"
-      ],
       "title": "Minervas Sonderangebote (Liste 16)",
       "url": "https://nukaknights.com/event/6260987344018978/minervas-sonderangebote-liste-16/"
     }

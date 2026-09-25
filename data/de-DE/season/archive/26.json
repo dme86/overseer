@@ -1,0 +1,19 @@
+{
+  "end_estimated": true,
+  "ends_at": "2026-12-01T15:00:00Z",
+  "ends_at_local": "2026-12-01T16:00:00+01:00",
+  "generated_at": "2026-09-25T12:09:09.537073Z",
+  "locale": "de-DE",
+  "remaining_days": 67,
+  "schema_version": 1,
+  "season_name": "Vorsicht vor dem Blutmond",
+  "season_number": 26,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "starts_at": "2026-09-15T14:00:00Z",
+  "starts_at_local": "2026-09-15T16:00:00+02:00",
+  "timezone": "Europe/Berlin",
+  "total_days": 77
+}

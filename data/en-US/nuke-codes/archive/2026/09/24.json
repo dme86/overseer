@@ -1,0 +1,17 @@
+{
+  "alpha": "80919313",
+  "bravo": "20605909",
+  "charlie": "04526567",
+  "generated_at": "2026-09-25T12:09:09.537073Z",
+  "locale": "en-US",
+  "resets_at": "2026-10-02T00:00:00Z",
+  "resets_at_local": "2026-10-01T20:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York",
+  "valid_from": "2026-09-25T00:00:00Z",
+  "valid_from_local": "2026-09-24T20:00:00-04:00"
+}

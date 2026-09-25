@@ -1,0 +1,21 @@
+{
+  "enemies": "Pint-Sized Phantoms",
+  "generated_at": "2026-09-25T12:09:09.537073Z",
+  "locale": "en-US",
+  "location": "Charleston Capitol Building",
+  "mode": "Uplink",
+  "mutations": [
+    "Piercing Gaze",
+    "Active Camouflage"
+  ],
+  "period_start": "2026-09-24T16:00:00Z",
+  "period_start_local": "2026-09-24T12:00:00-04:00",
+  "reset_at": "2026-09-25T16:00:00Z",
+  "reset_at_local": "2026-09-25T12:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

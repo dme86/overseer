@@ -1,0 +1,76 @@
+{
+  "challenges": [
+    {
+      "name": "Schließe eine tägliche Goldstern-Challenge ab.",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Wiederholbar unter Rang 100: Erhalte EP.",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Wiederholbar ab Rang 100: Schließe ein öffentliches Event ab.",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Baue etwas in Werkstätten oder C.A.M.P.s.",
+      "score_reward": 1000,
+      "target": 25
+    },
+    {
+      "name": "Sammle einen Gartenzwerg.",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Sammle irgendeine Nuka-Cola-Sorte.",
+      "score_reward": 1000,
+      "target": 20
+    },
+    {
+      "name": "Schließe ein Kopfjagd ab.",
+      "score_reward": 1000,
+      "target": 4
+    },
+    {
+      "name": "Schließe die Quest \"Geschändete Gräber\" ab.",
+      "score_reward": 1000,
+      "target": 4
+    },
+    {
+      "name": "Trinke eine Nuka-Cola.",
+      "score_reward": 1000,
+      "target": 25
+    },
+    {
+      "name": "Töte ein Westentaschenphantom, während du einem Team angehörst.",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Töte ein Westentaschenphantom, während du einem Team angehörst und ein Kostüm trägst.",
+      "score_reward": 1000,
+      "target": 18
+    },
+    {
+      "name": "Töte einen Gegner während der Quest \"Geschändete Gräber\" mit einer Schaufel.",
+      "score_reward": 1000,
+      "target": 20
+    }
+  ],
+  "generated_at": "2026-09-25T12:09:09.537073Z",
+  "locale": "de-DE",
+  "period_start": "2026-09-22T16:00:00Z",
+  "period_start_local": "2026-09-22T18:00:00+02:00",
+  "reset_at": "2026-09-29T16:00:00Z",
+  "reset_at_local": "2026-09-29T18:00:00+02:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

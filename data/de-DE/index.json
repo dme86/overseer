@@ -2,10 +2,15 @@
   "endpoints": {
     "atomic_shop_current": "atomic-shop/current.json",
     "atomic_shop_upcoming": "atomic-shop/upcoming.json",
+    "daily_challenges": "challenges/daily.json",
+    "daily_ops": "daily-ops/current.json",
     "events": "events/current.json",
     "minerva_current": "minerva/current.json",
     "minerva_next": "minerva/next.json",
-    "minerva_schedule": "minerva/schedule.json"
+    "minerva_schedule": "minerva/schedule.json",
+    "nuke_codes": "nuke-codes/current.json",
+    "season": "season/current.json",
+    "weekly_challenges": "challenges/weekly.json"
   },
   "locale": "de-DE",
   "schema_version": 1,
