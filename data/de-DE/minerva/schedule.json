@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:34:19.780353202Z",
+  "generated_at": "2026-09-25T13:23:47.839850Z",
   "locale": "de-DE",
   "schedule": [
     {
@@ -66,79 +66,6 @@
     {
       "active": false,
       "big_sale": true,
-      "ends_at": "2026-09-30T16:00:00Z",
-      "ends_at_local": "2026-09-30T18:00:00+02:00",
-      "inventory_complete": false,
-      "items": [],
-      "list": 16,
-      "location": "Fort Atlas",
-      "starts_at": "2026-09-28T16:00:00Z",
-      "starts_at_local": "2026-09-28T18:00:00+02:00"
-    },
-    {
-      "active": false,
-      "big_sale": false,
-      "ends_at": "2026-10-12T16:00:00Z",
-      "ends_at_local": "2026-10-12T18:00:00+02:00",
-      "inventory_complete": true,
-      "items": [
-        {
-          "name": "Bauplan: Chinesische Tarnrüstung",
-          "price_gold": 3000
-        },
-        {
-          "name": "Bauplan: Chinesischer Tarnhelm",
-          "price_gold": 1238
-        },
-        {
-          "name": "Bauplan: Handschuh",
-          "price_gold": 188
-        },
-        {
-          "name": "Bauplan: Secret-Service-Rüstung - Jetpack",
-          "price_gold": 1500
-        },
-        {
-          "name": "Bauplan: Secret-Service-Rüstung - Körperteil (mit Taschen)",
-          "price_gold": 188
-        },
-        {
-          "name": "Bauplan: Secret-Service-Rüstung - Torso (mit Taschen)",
-          "price_gold": 188
-        },
-        {
-          "name": "Bauplan: T-65 - Stim-Pumpe",
-          "price_gold": 188
-        },
-        {
-          "name": "Bauplan: T-65 - Overdrive-Servos",
-          "price_gold": 563
-        },
-        {
-          "name": "Bauplan: T-65 - Stealth Boy",
-          "price_gold": 563
-        },
-        {
-          "name": "Bauplan: Kriegsglefe (Kryo-Klinge)",
-          "price_gold": 150
-        },
-        {
-          "name": "Bauplan: Kriegsglefe (Plasma-Klinge)",
-          "price_gold": 150
-        },
-        {
-          "name": "Bauplan: Hühnerstall",
-          "price_gold": 563
-        }
-      ],
-      "list": 3,
-      "location": "Whitespring",
-      "starts_at": "2026-10-08T16:00:00Z",
-      "starts_at_local": "2026-10-08T18:00:00+02:00"
-    },
-    {
-      "active": false,
-      "big_sale": true,
       "ends_at": "2026-10-12T16:00:00Z",
       "ends_at_local": "2026-10-12T18:00:00+02:00",
       "inventory_complete": false,
@@ -147,18 +74,6 @@
       "location": "Whitespring",
       "starts_at": "2026-10-08T16:00:00Z",
       "starts_at_local": "2026-10-08T18:00:00+02:00"
-    },
-    {
-      "active": false,
-      "big_sale": true,
-      "ends_at": "2026-10-21T16:00:00Z",
-      "ends_at_local": "2026-10-21T18:00:00+02:00",
-      "inventory_complete": false,
-      "items": [],
-      "list": 4,
-      "location": "Foundation",
-      "starts_at": "2026-10-19T16:00:00Z",
-      "starts_at_local": "2026-10-19T18:00:00+02:00"
     },
     {
       "active": false,
@@ -179,34 +94,10 @@
       "ends_at_local": "2026-10-28T18:00:00+01:00",
       "inventory_complete": false,
       "items": [],
-      "list": 5,
-      "location": "Crater",
-      "starts_at": "2026-10-26T17:00:00Z",
-      "starts_at_local": "2026-10-26T18:00:00+01:00"
-    },
-    {
-      "active": false,
-      "big_sale": false,
-      "ends_at": "2026-10-28T17:00:00Z",
-      "ends_at_local": "2026-10-28T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
       "list": 6,
       "location": "Crater",
       "starts_at": "2026-10-26T17:00:00Z",
       "starts_at_local": "2026-10-26T18:00:00+01:00"
-    },
-    {
-      "active": false,
-      "big_sale": false,
-      "ends_at": "2026-11-04T17:00:00Z",
-      "ends_at_local": "2026-11-04T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
-      "list": 6,
-      "location": "Fort Atlas",
-      "starts_at": "2026-11-02T17:00:00Z",
-      "starts_at_local": "2026-11-02T18:00:00+01:00"
     },
     {
       "active": false,
@@ -222,18 +113,6 @@
     },
     {
       "active": false,
-      "big_sale": false,
-      "ends_at": "2026-11-16T17:00:00Z",
-      "ends_at_local": "2026-11-16T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
-      "list": 7,
-      "location": "Whitespring",
-      "starts_at": "2026-11-12T17:00:00Z",
-      "starts_at_local": "2026-11-12T18:00:00+01:00"
-    },
-    {
-      "active": false,
       "big_sale": true,
       "ends_at": "2026-11-16T17:00:00Z",
       "ends_at_local": "2026-11-16T18:00:00+01:00",
@@ -243,18 +122,6 @@
       "location": "Whitespring",
       "starts_at": "2026-11-12T17:00:00Z",
       "starts_at_local": "2026-11-12T18:00:00+01:00"
-    },
-    {
-      "active": false,
-      "big_sale": true,
-      "ends_at": "2026-11-25T17:00:00Z",
-      "ends_at_local": "2026-11-25T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
-      "list": 8,
-      "location": "Foundation",
-      "starts_at": "2026-11-23T17:00:00Z",
-      "starts_at_local": "2026-11-23T18:00:00+01:00"
     },
     {
       "active": false,
@@ -275,34 +142,10 @@
       "ends_at_local": "2026-12-02T18:00:00+01:00",
       "inventory_complete": false,
       "items": [],
-      "list": 9,
-      "location": "Crater",
-      "starts_at": "2026-11-30T17:00:00Z",
-      "starts_at_local": "2026-11-30T18:00:00+01:00"
-    },
-    {
-      "active": false,
-      "big_sale": false,
-      "ends_at": "2026-12-02T17:00:00Z",
-      "ends_at_local": "2026-12-02T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
       "list": 10,
       "location": "Crater",
       "starts_at": "2026-11-30T17:00:00Z",
       "starts_at_local": "2026-11-30T18:00:00+01:00"
-    },
-    {
-      "active": false,
-      "big_sale": false,
-      "ends_at": "2026-12-09T17:00:00Z",
-      "ends_at_local": "2026-12-09T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
-      "list": 10,
-      "location": "Fort Atlas",
-      "starts_at": "2026-12-07T17:00:00Z",
-      "starts_at_local": "2026-12-07T18:00:00+01:00"
     },
     {
       "active": false,
@@ -318,18 +161,6 @@
     },
     {
       "active": false,
-      "big_sale": false,
-      "ends_at": "2026-12-21T17:00:00Z",
-      "ends_at_local": "2026-12-21T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
-      "list": 11,
-      "location": "Whitespring",
-      "starts_at": "2026-12-17T17:00:00Z",
-      "starts_at_local": "2026-12-17T18:00:00+01:00"
-    },
-    {
-      "active": false,
       "big_sale": true,
       "ends_at": "2026-12-21T17:00:00Z",
       "ends_at_local": "2026-12-21T18:00:00+01:00",
@@ -339,18 +170,6 @@
       "location": "Whitespring",
       "starts_at": "2026-12-17T17:00:00Z",
       "starts_at_local": "2026-12-17T18:00:00+01:00"
-    },
-    {
-      "active": false,
-      "big_sale": true,
-      "ends_at": "2026-12-30T17:00:00Z",
-      "ends_at_local": "2026-12-30T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
-      "list": 12,
-      "location": "Foundation",
-      "starts_at": "2026-12-28T17:00:00Z",
-      "starts_at_local": "2026-12-28T18:00:00+01:00"
     },
     {
       "active": false,
@@ -371,18 +190,6 @@
       "ends_at_local": "2027-01-06T18:00:00+01:00",
       "inventory_complete": false,
       "items": [],
-      "list": 13,
-      "location": "Crater",
-      "starts_at": "2027-01-04T17:00:00Z",
-      "starts_at_local": "2027-01-04T18:00:00+01:00"
-    },
-    {
-      "active": false,
-      "big_sale": false,
-      "ends_at": "2027-01-06T17:00:00Z",
-      "ends_at_local": "2027-01-06T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
       "list": 14,
       "location": "Crater",
       "starts_at": "2027-01-04T17:00:00Z",
@@ -395,34 +202,10 @@
       "ends_at_local": "2027-01-13T18:00:00+01:00",
       "inventory_complete": false,
       "items": [],
-      "list": 14,
-      "location": "Fort Atlas",
-      "starts_at": "2027-01-11T17:00:00Z",
-      "starts_at_local": "2027-01-11T18:00:00+01:00"
-    },
-    {
-      "active": false,
-      "big_sale": false,
-      "ends_at": "2027-01-13T17:00:00Z",
-      "ends_at_local": "2027-01-13T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
       "list": 15,
       "location": "Fort Atlas",
       "starts_at": "2027-01-11T17:00:00Z",
       "starts_at_local": "2027-01-11T18:00:00+01:00"
-    },
-    {
-      "active": false,
-      "big_sale": false,
-      "ends_at": "2027-01-25T17:00:00Z",
-      "ends_at_local": "2027-01-25T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
-      "list": 15,
-      "location": "Whitespring",
-      "starts_at": "2027-01-21T17:00:00Z",
-      "starts_at_local": "2027-01-21T18:00:00+01:00"
     },
     {
       "active": false,

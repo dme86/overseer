@@ -75,7 +75,6 @@ fn sync(data_dir: &Path) -> Result<()> {
             "challenges/daily.json",
             "challenges/daily/archive",
             home.daily_challenges.period_start,
-            locale.timezone,
             &serde_json::to_value(&home.daily_challenges)?,
         )?;
         write_dated_feed(
@@ -83,7 +82,6 @@ fn sync(data_dir: &Path) -> Result<()> {
             "challenges/weekly.json",
             "challenges/weekly/archive",
             home.weekly_challenges.period_start,
-            locale.timezone,
             &serde_json::to_value(&home.weekly_challenges)?,
         )?;
         write_dated_feed(
@@ -91,7 +89,6 @@ fn sync(data_dir: &Path) -> Result<()> {
             "daily-ops/current.json",
             "daily-ops/archive",
             home.daily_ops.period_start,
-            locale.timezone,
             &serde_json::to_value(&home.daily_ops)?,
         )?;
         write_dated_feed(
@@ -99,7 +96,6 @@ fn sync(data_dir: &Path) -> Result<()> {
             "nuke-codes/current.json",
             "nuke-codes/archive",
             home.nuke_codes.valid_from,
-            locale.timezone,
             &serde_json::to_value(&home.nuke_codes)?,
         )?;
 
@@ -319,17 +315,66 @@ fn write_dated_feed(
     current_path: &str,
     archive_dir: &str,
     period_start: DateTime<Utc>,
-    timezone: chrono_tz::Tz,
     value: &serde_json::Value,
 ) -> Result<()> {
-    let period_start = period_start.with_timezone(&timezone);
-    let filename = format!(
+    let archive_path = dated_archive_relative_path(period_start);
+    store::write_stable(&locale_root.join(archive_dir).join(archive_path), value)?;
+    store::write_stable(&locale_root.join(current_path), value)?;
+    Ok(())
+}
+
+fn dated_archive_relative_path(period_start: DateTime<Utc>) -> PathBuf {
+    PathBuf::from(format!(
         "{:04}/{:02}/{:02}.json",
         period_start.year(),
         period_start.month(),
         period_start.day()
-    );
-    store::write_stable(&locale_root.join(archive_dir).join(filename), value)?;
-    store::write_stable(&locale_root.join(current_path), value)?;
-    Ok(())
+    ))
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use chrono::TimeZone;
+    use serde_json::Value;
+
+    #[test]
+    fn dated_archive_path_uses_the_utc_date_for_every_locale() {
+        let from_german_locale = chrono_tz::Europe::Berlin
+            .with_ymd_and_hms(2026, 9, 25, 2, 0, 0)
+            .unwrap()
+            .with_timezone(&Utc);
+        let from_english_locale = chrono_tz::America::New_York
+            .with_ymd_and_hms(2026, 9, 24, 20, 0, 0)
+            .unwrap()
+            .with_timezone(&Utc);
+
+        assert_eq!(from_german_locale, from_english_locale);
+        assert_eq!(
+            dated_archive_relative_path(from_german_locale),
+            PathBuf::from("2026/09/25.json")
+        );
+        assert_eq!(
+            dated_archive_relative_path(from_english_locale),
+            PathBuf::from("2026/09/25.json")
+        );
+    }
+
+    #[test]
+    fn current_nuke_codes_match_across_locales() {
+        let root = Path::new(env!("CARGO_MANIFEST_DIR"));
+        let read = |locale: &str| -> Value {
+            let path = root
+                .join("data")
+                .join(locale)
+                .join("nuke-codes/current.json");
+            serde_json::from_str(&std::fs::read_to_string(path).unwrap()).unwrap()
+        };
+        let de = read("de-DE");
+        let en = read("en-US");
+
+        for key in ["alpha", "bravo", "charlie"] {
+            assert_eq!(de.get(key), en.get(key), "mismatched {key}");
+        }
+    }
 }

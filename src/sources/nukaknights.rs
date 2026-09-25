@@ -501,21 +501,27 @@ fn parse_minerva_schedule(
     let lines = flatten_text(document);
     let list_re = Regex::new(r"(?i)\b(?:List|Liste)\s*(\d+)\b")?;
     let mut dedupe: BTreeMap<(u32, DateTime<Utc>), MinervaSale> = BTreeMap::new();
+    let headings: Vec<(usize, u32, bool)> = lines
+        .iter()
+        .enumerate()
+        .filter_map(|(index, line)| {
+            let lower = line.to_lowercase();
+            if !lower.contains("minerva") {
+                return None;
+            }
+            let list = list_re.captures(line)?[1].parse::<u32>().ok()?;
+            let big_sale = lower.contains("big sale") || lower.contains("sonderangebote");
+            Some((index, list, big_sale))
+        })
+        .collect();
 
-    for (index, line) in lines.iter().enumerate() {
-        if !line.to_lowercase().contains("minerva") {
-            continue;
-        }
-        let Some(caps) = list_re.captures(line) else {
-            continue;
-        };
-        let list: u32 = caps[1].parse()?;
-        let big_sale = line.to_lowercase().contains("big sale")
-            || line.to_lowercase().contains("sonderangebote");
-
-        let window_end = (index + 18).min(lines.len());
-        let window = &lines[index..window_end];
-        let location = window
+    for (heading_index, (section_start, list, big_sale)) in headings.iter().enumerate() {
+        let section_end = headings
+            .get(heading_index + 1)
+            .map(|(index, _, _)| *index)
+            .unwrap_or(lines.len());
+        let section = &lines[*section_start..section_end];
+        let location = section
             .iter()
             .find_map(|candidate| {
                 candidate
@@ -524,7 +530,7 @@ fn parse_minerva_schedule(
                     .map(normalize_ws)
             })
             .unwrap_or_default();
-        let range = window
+        let range = section
             .iter()
             .find_map(|candidate| parse_nuka_range(candidate, locale.code, locale.timezone));
 
@@ -535,11 +541,18 @@ fn parse_minerva_schedule(
             continue;
         }
 
+        if !minerva_duration_is_expected(starts_at, ends_at, *big_sale, locale.timezone) {
+            let expected_days = if *big_sale { 4 } else { 2 };
+            eprintln!(
+                "warning: Minerva List {list} spans an unexpected number of days (expected about {expected_days}); keeping heading-derived sale type"
+            );
+        }
+
         dedupe
-            .entry((list, starts_at))
+            .entry((*list, starts_at))
             .or_insert_with(|| MinervaSale {
-                list,
-                big_sale,
+                list: *list,
+                big_sale: *big_sale,
                 location,
                 starts_at,
                 ends_at,
@@ -552,6 +565,18 @@ fn parse_minerva_schedule(
     }
 
     Ok(dedupe.into_values().collect())
+}
+
+fn minerva_duration_is_expected(
+    starts_at: DateTime<Utc>,
+    ends_at: DateTime<Utc>,
+    big_sale: bool,
+    timezone: chrono_tz::Tz,
+) -> bool {
+    let start_date = starts_at.with_timezone(&timezone).date_naive();
+    let end_date = ends_at.with_timezone(&timezone).date_naive();
+    let expected_days = if big_sale { 4 } else { 2 };
+    end_date.signed_duration_since(start_date).num_days() == expected_days
 }
 
 fn parse_minerva_inventory(
@@ -891,6 +916,96 @@ mod tests {
     }
 
     #[test]
+    fn parses_minerva_entries_with_expected_regular_and_big_sale_durations() {
+        let document = Html::parse_document(
+            r#"
+            <h2>Minerva (List 3)</h2>
+            <p>Location: Crater</p>
+            <p>Mo, 28th Sep 2026 (12:00) - We, 30th Sep 2026 (12:00)</p>
+            <h2>Minerva's Big Sale (List 4)</h2>
+            <p>Location: Whitespring</p>
+            <p>Th, 8th Oct 2026 (12:00) - Mo, 12th Oct 2026 (12:00)</p>
+            "#,
+        );
+        let now = Utc.with_ymd_and_hms(2026, 9, 1, 0, 0, 0).unwrap();
+        let schedule = parse_minerva_schedule(&document, locale("en-US"), now).unwrap();
+
+        assert_eq!(schedule.len(), 2);
+        let regular = schedule.iter().find(|sale| sale.list == 3).unwrap();
+        let big_sale = schedule.iter().find(|sale| sale.list == 4).unwrap();
+        assert!(!regular.big_sale);
+        assert!(big_sale.big_sale);
+        assert!(minerva_duration_is_expected(
+            regular.starts_at,
+            regular.ends_at,
+            regular.big_sale,
+            locale("en-US").timezone,
+        ));
+        assert!(minerva_duration_is_expected(
+            big_sale.starts_at,
+            big_sale.ends_at,
+            big_sale.big_sale,
+            locale("en-US").timezone,
+        ));
+    }
+
+    #[test]
+    fn bounds_minerva_entry_at_the_next_heading_and_deduplicates() {
+        let document = Html::parse_document(
+            r#"
+            <h2>Minerva's Big Sale (List 4)</h2>
+            <p>Location: Whitespring</p>
+            <h2>Minerva (List 5)</h2>
+            <p>Location: Foundation</p>
+            <p>Mo, 19th Oct 2026 (12:00) - We, 21st Oct 2026 (12:00)</p>
+            <h2>Minerva (List 5)</h2>
+            <p>Location: Foundation</p>
+            <p>Mo, 19th Oct 2026 (12:00) - We, 21st Oct 2026 (12:00)</p>
+            "#,
+        );
+        let now = Utc.with_ymd_and_hms(2026, 9, 1, 0, 0, 0).unwrap();
+        let schedule = parse_minerva_schedule(&document, locale("en-US"), now).unwrap();
+
+        assert_eq!(schedule.len(), 1);
+        assert_eq!(schedule[0].list, 5);
+        assert_eq!(schedule[0].location, "Foundation");
+        assert_eq!(
+            schedule[0]
+                .starts_at
+                .with_timezone(&locale("en-US").timezone)
+                .date_naive(),
+            chrono::NaiveDate::from_ymd_opt(2026, 10, 19).unwrap()
+        );
+        let unique: std::collections::HashSet<_> = schedule
+            .iter()
+            .map(|sale| (sale.list, sale.starts_at))
+            .collect();
+        assert_eq!(unique.len(), schedule.len());
+    }
+
+    #[test]
+    fn derives_big_sale_only_from_the_heading() {
+        let document = Html::parse_document(
+            r#"
+            <h2>Minerva's Big Sale (List 4)</h2>
+            <p>Location: Whitespring</p>
+            <p>Th, 8th Oct 2026 (12:00) - Sa, 10th Oct 2026 (12:00)</p>
+            "#,
+        );
+        let now = Utc.with_ymd_and_hms(2026, 9, 1, 0, 0, 0).unwrap();
+        let schedule = parse_minerva_schedule(&document, locale("en-US"), now).unwrap();
+
+        assert_eq!(schedule.len(), 1);
+        assert!(schedule[0].big_sale);
+        assert!(!minerva_duration_is_expected(
+            schedule[0].starts_at,
+            schedule[0].ends_at,
+            schedule[0].big_sale,
+            locale("en-US").timezone,
+        ));
+    }
+
+    #[test]
     fn parses_localized_nuke_periods_as_the_same_instant() {
         let en = parse_nuke_period(
             "Nuke Codes (Week: 24th Sep -1st Oct 2026 (20:00))",
@@ -904,6 +1019,48 @@ mod tests {
         .unwrap();
 
         assert_eq!(en, de);
+    }
+
+    #[test]
+    fn localized_nuke_code_widgets_have_identical_global_facts() {
+        let en_document = Html::parse_document(
+            r#"
+            <div class="nuke-codes">
+              <div class="row d-none d-md-flex">
+                <div>Nuke Codes (Week: 24th Sep -1st Oct 2026 (20:00))</div>
+                <div><b>Alpha:</b> 80919313</div>
+                <div><b>Bravo:</b> 20605909</div>
+                <div><b>Charlie:</b> 04526567</div>
+              </div>
+            </div>
+            "#,
+        );
+        let de_document = Html::parse_document(
+            r#"
+            <div class="nuke-codes">
+              <div class="row d-none d-md-flex">
+                <div>Atomraketen Startcodes (Woche: 25.09.-02.10.2026 (02:00))</div>
+                <div><b>Alpha:</b> 80919313</div>
+                <div><b>Bravo:</b> 20605909</div>
+                <div><b>Charlie:</b> 04526567</div>
+              </div>
+            </div>
+            "#,
+        );
+        let now = Utc.with_ymd_and_hms(2026, 9, 25, 12, 0, 0).unwrap();
+        let source = SourceRef {
+            provider: "Nuka Knights".to_string(),
+            url: "https://example.com".to_string(),
+        };
+        let en = parse_nuke_codes(&en_document, locale("en-US"), now, source.clone()).unwrap();
+        let de = parse_nuke_codes(&de_document, locale("de-DE"), now, source).unwrap();
+
+        assert_eq!(
+            (en.alpha, en.bravo, en.charlie),
+            (de.alpha, de.bravo, de.charlie)
+        );
+        assert_eq!(en.valid_from, de.valid_from);
+        assert_eq!(en.resets_at, de.resets_at);
     }
 
     #[test]
