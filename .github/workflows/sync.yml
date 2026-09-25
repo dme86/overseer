@@ -2,13 +2,20 @@ name: Sync Fallout 76 data
 
 on:
   schedule:
-    # Every four hours. GitHub schedules run in UTC.
-    - cron: "17 */4 * * *"
+    # General refresh every 6 hours
+    - cron: "17 */6 * * *"
+
+    # Fallout 76 daily reset, shortly after 12:00 Eastern
+    - cron: "17 12 * * *"
+      timezone: "America/New_York"
+
   workflow_dispatch:
+
   push:
     branches: [main]
     paths:
       - "Cargo.toml"
+      - "Cargo.lock"
       - "src/**"
       - ".github/workflows/sync.yml"
 
@@ -24,6 +31,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -33,18 +41,27 @@ jobs:
       - name: Install Rust
         uses: dtolnay/rust-toolchain@stable
 
+      - name: Cache Rust
+        uses: Swatinem/rust-cache@v2
+
       - name: Test
+        if: github.event_name == 'push'
         run: cargo test
 
+      - name: Build
+        run: cargo build --release
+
       - name: Sync sources
-        run: cargo run --release -- sync --data-dir data
+        run: ./target/release/overseer sync --data-dir data
 
       - name: Commit changed data
         shell: bash
         run: |
           set -euo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data/ Cargo.lock
 
           if git diff --cached --quiet; then
@@ -65,9 +82,11 @@ jobs:
   deploy:
     needs: sync
     runs-on: ubuntu-latest
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Deploy GitHub Pages
         id: deployment
