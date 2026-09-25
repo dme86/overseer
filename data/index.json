@@ -1,0 +1,12 @@
+{
+  "endpoints": {
+    "de-DE": "de-DE/index.json",
+    "en-US": "en-US/index.json"
+  },
+  "locales": [
+    "de-DE",
+    "en-US"
+  ],
+  "project": "Overseer",
+  "schema_version": 1
+}

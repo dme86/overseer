@@ -1,0 +1,446 @@
+{
+  "generated_at": "2026-09-25T10:34:19.780353202Z",
+  "locale": "en-US",
+  "schedule": [
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-09-30T16:00:00Z",
+      "ends_at_local": "2026-09-30T12:00:00-04:00",
+      "inventory_complete": true,
+      "items": [
+        {
+          "name": "Plan: Chinese stealth armor",
+          "price_gold": 3000
+        },
+        {
+          "name": "Plan: Chinese stealth helmet",
+          "price_gold": 1238
+        },
+        {
+          "name": "Plan: Gauntlet",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: Secret Service jet pack armor",
+          "price_gold": 1500
+        },
+        {
+          "name": "Plan: Secret Service pocketed armor limb",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: Secret Service pocketed armor torso",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: T-65 medic pump",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: T-65 overdrive servos",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: T-65 Stealth Boy",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: War glaive cryo blade",
+          "price_gold": 150
+        },
+        {
+          "name": "Plan: War glaive plasma blade",
+          "price_gold": 150
+        },
+        {
+          "name": "Plan: Chicken coop",
+          "price_gold": 563
+        }
+      ],
+      "list": 3,
+      "location": "Fort Atlas",
+      "starts_at": "2026-09-28T16:00:00Z",
+      "starts_at_local": "2026-09-28T12:00:00-04:00"
+    },
+    {
+      "active": false,
+      "big_sale": true,
+      "ends_at": "2026-09-30T16:00:00Z",
+      "ends_at_local": "2026-09-30T12:00:00-04:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 16,
+      "location": "Fort Atlas",
+      "starts_at": "2026-09-28T16:00:00Z",
+      "starts_at_local": "2026-09-28T12:00:00-04:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-10-12T16:00:00Z",
+      "ends_at_local": "2026-10-12T12:00:00-04:00",
+      "inventory_complete": true,
+      "items": [
+        {
+          "name": "Plan: Chinese stealth armor",
+          "price_gold": 3000
+        },
+        {
+          "name": "Plan: Chinese stealth helmet",
+          "price_gold": 1238
+        },
+        {
+          "name": "Plan: Gauntlet",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: Secret Service jet pack armor",
+          "price_gold": 1500
+        },
+        {
+          "name": "Plan: Secret Service pocketed armor limb",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: Secret Service pocketed armor torso",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: T-65 medic pump",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: T-65 overdrive servos",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: T-65 Stealth Boy",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: War glaive cryo blade",
+          "price_gold": 150
+        },
+        {
+          "name": "Plan: War glaive plasma blade",
+          "price_gold": 150
+        },
+        {
+          "name": "Plan: Chicken coop",
+          "price_gold": 563
+        }
+      ],
+      "list": 3,
+      "location": "Whitespring",
+      "starts_at": "2026-10-08T16:00:00Z",
+      "starts_at_local": "2026-10-08T12:00:00-04:00"
+    },
+    {
+      "active": false,
+      "big_sale": true,
+      "ends_at": "2026-10-12T16:00:00Z",
+      "ends_at_local": "2026-10-12T12:00:00-04:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 4,
+      "location": "Whitespring",
+      "starts_at": "2026-10-08T16:00:00Z",
+      "starts_at_local": "2026-10-08T12:00:00-04:00"
+    },
+    {
+      "active": false,
+      "big_sale": true,
+      "ends_at": "2026-10-21T16:00:00Z",
+      "ends_at_local": "2026-10-21T12:00:00-04:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 4,
+      "location": "Foundation",
+      "starts_at": "2026-10-19T16:00:00Z",
+      "starts_at_local": "2026-10-19T12:00:00-04:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-10-21T16:00:00Z",
+      "ends_at_local": "2026-10-21T12:00:00-04:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 5,
+      "location": "Foundation",
+      "starts_at": "2026-10-19T16:00:00Z",
+      "starts_at_local": "2026-10-19T12:00:00-04:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-10-28T17:00:00Z",
+      "ends_at_local": "2026-10-28T13:00:00-04:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 5,
+      "location": "Crater",
+      "starts_at": "2026-10-26T17:00:00Z",
+      "starts_at_local": "2026-10-26T13:00:00-04:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-10-28T17:00:00Z",
+      "ends_at_local": "2026-10-28T13:00:00-04:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 6,
+      "location": "Crater",
+      "starts_at": "2026-10-26T17:00:00Z",
+      "starts_at_local": "2026-10-26T13:00:00-04:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-11-04T17:00:00Z",
+      "ends_at_local": "2026-11-04T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 6,
+      "location": "Fort Atlas",
+      "starts_at": "2026-11-02T17:00:00Z",
+      "starts_at_local": "2026-11-02T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-11-04T17:00:00Z",
+      "ends_at_local": "2026-11-04T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 7,
+      "location": "Fort Atlas",
+      "starts_at": "2026-11-02T17:00:00Z",
+      "starts_at_local": "2026-11-02T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-11-16T17:00:00Z",
+      "ends_at_local": "2026-11-16T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 7,
+      "location": "Whitespring",
+      "starts_at": "2026-11-12T17:00:00Z",
+      "starts_at_local": "2026-11-12T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": true,
+      "ends_at": "2026-11-16T17:00:00Z",
+      "ends_at_local": "2026-11-16T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 8,
+      "location": "Whitespring",
+      "starts_at": "2026-11-12T17:00:00Z",
+      "starts_at_local": "2026-11-12T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": true,
+      "ends_at": "2026-11-25T17:00:00Z",
+      "ends_at_local": "2026-11-25T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 8,
+      "location": "Foundation",
+      "starts_at": "2026-11-23T17:00:00Z",
+      "starts_at_local": "2026-11-23T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-11-25T17:00:00Z",
+      "ends_at_local": "2026-11-25T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 9,
+      "location": "Foundation",
+      "starts_at": "2026-11-23T17:00:00Z",
+      "starts_at_local": "2026-11-23T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-12-02T17:00:00Z",
+      "ends_at_local": "2026-12-02T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 9,
+      "location": "Crater",
+      "starts_at": "2026-11-30T17:00:00Z",
+      "starts_at_local": "2026-11-30T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-12-02T17:00:00Z",
+      "ends_at_local": "2026-12-02T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 10,
+      "location": "Crater",
+      "starts_at": "2026-11-30T17:00:00Z",
+      "starts_at_local": "2026-11-30T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-12-09T17:00:00Z",
+      "ends_at_local": "2026-12-09T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 10,
+      "location": "Fort Atlas",
+      "starts_at": "2026-12-07T17:00:00Z",
+      "starts_at_local": "2026-12-07T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-12-09T17:00:00Z",
+      "ends_at_local": "2026-12-09T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 11,
+      "location": "Fort Atlas",
+      "starts_at": "2026-12-07T17:00:00Z",
+      "starts_at_local": "2026-12-07T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-12-21T17:00:00Z",
+      "ends_at_local": "2026-12-21T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 11,
+      "location": "Whitespring",
+      "starts_at": "2026-12-17T17:00:00Z",
+      "starts_at_local": "2026-12-17T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": true,
+      "ends_at": "2026-12-21T17:00:00Z",
+      "ends_at_local": "2026-12-21T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 12,
+      "location": "Whitespring",
+      "starts_at": "2026-12-17T17:00:00Z",
+      "starts_at_local": "2026-12-17T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": true,
+      "ends_at": "2026-12-30T17:00:00Z",
+      "ends_at_local": "2026-12-30T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 12,
+      "location": "Foundation",
+      "starts_at": "2026-12-28T17:00:00Z",
+      "starts_at_local": "2026-12-28T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2026-12-30T17:00:00Z",
+      "ends_at_local": "2026-12-30T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 13,
+      "location": "Foundation",
+      "starts_at": "2026-12-28T17:00:00Z",
+      "starts_at_local": "2026-12-28T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2027-01-06T17:00:00Z",
+      "ends_at_local": "2027-01-06T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 13,
+      "location": "Crater",
+      "starts_at": "2027-01-04T17:00:00Z",
+      "starts_at_local": "2027-01-04T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2027-01-06T17:00:00Z",
+      "ends_at_local": "2027-01-06T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 14,
+      "location": "Crater",
+      "starts_at": "2027-01-04T17:00:00Z",
+      "starts_at_local": "2027-01-04T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2027-01-13T17:00:00Z",
+      "ends_at_local": "2027-01-13T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 14,
+      "location": "Fort Atlas",
+      "starts_at": "2027-01-11T17:00:00Z",
+      "starts_at_local": "2027-01-11T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2027-01-13T17:00:00Z",
+      "ends_at_local": "2027-01-13T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 15,
+      "location": "Fort Atlas",
+      "starts_at": "2027-01-11T17:00:00Z",
+      "starts_at_local": "2027-01-11T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": false,
+      "ends_at": "2027-01-25T17:00:00Z",
+      "ends_at_local": "2027-01-25T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 15,
+      "location": "Whitespring",
+      "starts_at": "2027-01-21T17:00:00Z",
+      "starts_at_local": "2027-01-21T12:00:00-05:00"
+    },
+    {
+      "active": false,
+      "big_sale": true,
+      "ends_at": "2027-01-25T17:00:00Z",
+      "ends_at_local": "2027-01-25T12:00:00-05:00",
+      "inventory_complete": false,
+      "items": [],
+      "list": 16,
+      "location": "Whitespring",
+      "starts_at": "2027-01-21T17:00:00Z",
+      "starts_at_local": "2027-01-21T12:00:00-05:00"
+    }
+  ],
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/minerva-dates-inventory.html"
+  },
+  "timezone": "America/New_York"
+}

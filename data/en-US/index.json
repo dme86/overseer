@@ -1,0 +1,13 @@
+{
+  "endpoints": {
+    "atomic_shop_current": "atomic-shop/current.json",
+    "atomic_shop_upcoming": "atomic-shop/upcoming.json",
+    "events": "events/current.json",
+    "minerva_current": "minerva/current.json",
+    "minerva_next": "minerva/next.json",
+    "minerva_schedule": "minerva/schedule.json"
+  },
+  "locale": "en-US",
+  "schema_version": 1,
+  "timezone": "America/New_York"
+}

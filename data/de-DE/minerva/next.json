@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-09-25T10:34:19.780353202Z",
+  "locale": "de-DE",
+  "sale": {
+    "active": false,
+    "big_sale": false,
+    "ends_at": "2026-09-30T16:00:00Z",
+    "ends_at_local": "2026-09-30T18:00:00+02:00",
+    "inventory_complete": true,
+    "items": [
+      {
+        "name": "Bauplan: Chinesische Tarnrüstung",
+        "price_gold": 3000
+      },
+      {
+        "name": "Bauplan: Chinesischer Tarnhelm",
+        "price_gold": 1238
+      },
+      {
+        "name": "Bauplan: Handschuh",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: Secret-Service-Rüstung - Jetpack",
+        "price_gold": 1500
+      },
+      {
+        "name": "Bauplan: Secret-Service-Rüstung - Körperteil (mit Taschen)",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: Secret-Service-Rüstung - Torso (mit Taschen)",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: T-65 - Stim-Pumpe",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: T-65 - Overdrive-Servos",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: T-65 - Stealth Boy",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: Kriegsglefe (Kryo-Klinge)",
+        "price_gold": 150
+      },
+      {
+        "name": "Bauplan: Kriegsglefe (Plasma-Klinge)",
+        "price_gold": 150
+      },
+      {
+        "name": "Bauplan: Hühnerstall",
+        "price_gold": 563
+      }
+    ],
+    "list": 3,
+    "location": "Fort Atlas",
+    "starts_at": "2026-09-28T16:00:00Z",
+    "starts_at_local": "2026-09-28T18:00:00+02:00"
+  },
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/minerva.html"
+  },
+  "timezone": "Europe/Berlin"
+}
