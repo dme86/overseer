@@ -2,6 +2,31 @@
   "active": [
     {
       "active": true,
+      "ends_at": "2026-09-28T16:00:00Z",
+      "ends_at_local": "2026-09-28T18:00:00+02:00",
+      "starts_at": "2026-09-24T16:00:00Z",
+      "starts_at_local": "2026-09-24T18:00:00+02:00",
+      "tags": [
+        "double_mutations",
+        "seasonal_event",
+        "seasonal_fish",
+        "treasure_hunter"
+      ],
+      "title": "Saisonale Fischwanderung, Schatzsucher und Doppelmutationen",
+      "url": "https://nukaknights.com/event/6260987344018944/saisonale-fischwanderung-schatzsucher-und-doppelmutationen/"
+    }
+  ],
+  "generated_at": "2026-09-25T12:09:09.537073Z",
+  "locale": "de-DE",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-kalender.html"
+  },
+  "timezone": "Europe/Berlin",
+  "upcoming": [
+    {
+      "active": false,
       "ends_at": "2026-09-30T16:00:00Z",
       "ends_at_local": "2026-09-30T18:00:00+02:00",
       "starts_at": "2026-09-28T16:00:00Z",
@@ -11,17 +36,7 @@
       ],
       "title": "Minerva (Liste 3)",
       "url": "https://nukaknights.com/event/6260987344018964/minerva-liste-3/"
-    }
-  ],
-  "generated_at": "2026-09-28T22:04:58.937694941Z",
-  "locale": "de-DE",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-kalender.html"
-  },
-  "timezone": "Europe/Berlin",
-  "upcoming": [
+    },
     {
       "active": false,
       "ends_at": null,
