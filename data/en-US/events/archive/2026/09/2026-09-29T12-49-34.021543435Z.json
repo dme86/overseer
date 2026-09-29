@@ -11,9 +11,19 @@
       ],
       "title": "Minerva (List 3)",
       "url": "https://nukaknights.com/events/6260987344018964/minerva-list-3/"
-    },
+    }
+  ],
+  "generated_at": "2026-09-29T12:49:34.021543435Z",
+  "locale": "en-US",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-calendar.html"
+  },
+  "timezone": "America/New_York",
+  "upcoming": [
     {
-      "active": true,
+      "active": false,
       "ends_at": "2026-10-06T16:00:00Z",
       "ends_at_local": "2026-10-06T12:00:00-04:00",
       "starts_at": "2026-09-29T16:00:00Z",
@@ -23,17 +33,7 @@
       ],
       "title": "Mutated Public Events",
       "url": "https://nukaknights.com/events/6260987344018945/mutated-public-events/"
-    }
-  ],
-  "generated_at": "2026-09-29T20:51:05.113392625Z",
-  "locale": "en-US",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-calendar.html"
-  },
-  "timezone": "America/New_York",
-  "upcoming": [
+    },
     {
       "active": false,
       "ends_at": null,
@@ -55,8 +55,8 @@
       "tags": [
         "double_score"
       ],
-      "title": "Double SCORE Weekend and Murmrgh`s Special Pick",
-      "url": "https://nukaknights.com/events/6260987344018979/double-score-weekend-and-murmrgh-s-special-pick/"
+      "title": "Double SCORE Weekend",
+      "url": "https://nukaknights.com/events/6260987344018979/double-score-weekend/"
     },
     {
       "active": false,
@@ -88,11 +88,10 @@
       "starts_at": "2026-10-08T16:00:00Z",
       "starts_at_local": "2026-10-08T12:00:00-04:00",
       "tags": [
-        "gold_rush",
         "minerva"
       ],
-      "title": "Minerva`s Big Sale (List 4) and Gold Rush",
-      "url": "https://nukaknights.com/events/6260987344018965/minerva-s-big-sale-list-4-and-gold-rush/"
+      "title": "Minerva`s Big Sale (List 4)",
+      "url": "https://nukaknights.com/events/6260987344018965/minerva-s-big-sale-list-4/"
     },
     {
       "active": false,
@@ -126,23 +125,11 @@
       "starts_at": "2026-10-22T16:00:00Z",
       "starts_at_local": "2026-10-22T12:00:00-04:00",
       "tags": [
-        "double_xp"
+        "double_xp",
+        "legendary_sale"
       ],
-      "title": "Double XP",
-      "url": "https://nukaknights.com/events/6260987344018984/double-xp/"
-    },
-    {
-      "active": false,
-      "ends_at": "2026-11-02T17:00:00Z",
-      "ends_at_local": "2026-11-02T12:00:00-05:00",
-      "starts_at": "2026-10-29T17:00:00Z",
-      "starts_at_local": "2026-10-29T13:00:00-04:00",
-      "tags": [
-        "seasonal_event",
-        "seasonal_fish"
-      ],
-      "title": "Seasonal Fish Run Weekend",
-      "url": "https://nukaknights.com/events/6260987344018996/seasonal-fish-run-weekend/"
+      "title": "Double XP and Legendary Sale",
+      "url": "https://nukaknights.com/events/6260987344018984/double-xp-and-legendary-sale/"
     },
     {
       "active": false,
