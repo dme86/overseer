@@ -2,7 +2,7 @@
   "article_month": 9,
   "article_title": "Atomic Shop Monthly Update: September 2026",
   "article_year": 2026,
-  "generated_at": "2026-09-29T20:51:05.113392625Z",
+  "generated_at": "2026-09-30T20:50:27.310908372Z",
   "locale": "de-DE",
   "offers": [
     {
@@ -921,8 +921,8 @@
       "ends_at_local": "2026-09-30T18:00:00+02:00",
       "item": "Death Ray Bug Zapper",
       "offer_type": "daily",
-      "price_atoms": 50,
-      "price_text": "50 (50% off!)",
+      "price_atoms": 250,
+      "price_text": "250 (50% off!)",
       "section": "Week of September 29",
       "starts_at": "2026-09-29T16:00:00Z",
       "starts_at_local": "2026-09-29T18:00:00+02:00",
