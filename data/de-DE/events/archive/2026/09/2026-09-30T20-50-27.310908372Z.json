@@ -11,9 +11,31 @@
       ],
       "title": "Mutierte Öffentliche Events",
       "url": "https://nukaknights.com/event/6260987344018945/mutierte-oeffentliche-events/"
+    }
+  ],
+  "generated_at": "2026-09-30T20:50:27.310908372Z",
+  "locale": "de-DE",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-kalender.html"
+  },
+  "timezone": "Europe/Berlin",
+  "upcoming": [
+    {
+      "active": false,
+      "ends_at": null,
+      "ends_at_local": null,
+      "starts_at": "2026-10-01T14:00:00Z",
+      "starts_at_local": "2026-10-01T16:00:00+02:00",
+      "tags": [
+        "maintenance"
+      ],
+      "title": "Update / Wartung für Patch 70 Hotfix (Stabilität)",
+      "url": "https://nukaknights.com/event/6260987344018995/update--wartung-fuer-patch-70-hotfix-stabilitaet/"
     },
     {
-      "active": true,
+      "active": false,
       "ends_at": "2026-10-05T16:00:00Z",
       "ends_at_local": "2026-10-05T18:00:00+02:00",
       "starts_at": "2026-10-01T16:00:00Z",
@@ -23,17 +45,7 @@
       ],
       "title": "Doppelter SCORE Wochenende und Murmrghs Geheime Auswahl",
       "url": "https://nukaknights.com/event/6260987344018979/doppelter-score-wochenende-und-murmrghs-geheime-auswahl/"
-    }
-  ],
-  "generated_at": "2026-10-01T21:03:31.859769060Z",
-  "locale": "de-DE",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-kalender.html"
-  },
-  "timezone": "Europe/Berlin",
-  "upcoming": [
+    },
     {
       "active": false,
       "ends_at": "2026-10-20T16:00:00Z",
