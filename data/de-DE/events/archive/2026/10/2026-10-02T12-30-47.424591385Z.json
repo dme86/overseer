@@ -23,19 +23,9 @@
       ],
       "title": "Doppelter SCORE Wochenende und Murmrghs Geheime Auswahl",
       "url": "https://nukaknights.com/event/6260987344018979/doppelter-score-wochenende-und-murmrghs-geheime-auswahl/"
-    },
-    {
-      "active": true,
-      "ends_at": "2026-10-26T17:00:00Z",
-      "ends_at_local": "2026-10-26T18:00:00+01:00",
-      "starts_at": "2026-10-02T16:00:00Z",
-      "starts_at_local": "2026-10-02T18:00:00+02:00",
-      "tags": [],
-      "title": "Schlitzer C.A.M.P. Contest",
-      "url": "https://nukaknights.com/event/6260987344018980/schlitzer-c-a-m-p-contest/"
     }
   ],
-  "generated_at": "2026-10-02T20:48:07.452528516Z",
+  "generated_at": "2026-10-02T12:30:47.424591385Z",
   "locale": "de-DE",
   "schema_version": 1,
   "source": {
@@ -44,6 +34,16 @@
   },
   "timezone": "Europe/Berlin",
   "upcoming": [
+    {
+      "active": false,
+      "ends_at": "2026-10-26T17:00:00Z",
+      "ends_at_local": "2026-10-26T18:00:00+01:00",
+      "starts_at": "2026-10-02T16:00:00Z",
+      "starts_at_local": "2026-10-02T18:00:00+02:00",
+      "tags": [],
+      "title": "Schlitzer C.A.M.P. Contest",
+      "url": "https://nukaknights.com/event/6260987344018980/schlitzer-c-a-m-p-contest/"
+    },
     {
       "active": false,
       "ends_at": "2026-10-20T16:00:00Z",
