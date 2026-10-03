@@ -9,7 +9,7 @@ mod util;
 use std::path::{Path, PathBuf};
 
 use anyhow::{Context, Result};
-use chrono::{DateTime, Datelike, Utc};
+use chrono::Utc;
 use clap::{Parser, Subcommand};
 use serde_json::json;
 
@@ -71,41 +71,37 @@ fn sync(data_dir: &Path) -> Result<()> {
          */
 
         if let Some(daily_challenges) = &home.daily_challenges {
-            write_dated_feed(
-                &locale_root,
-                "challenges/daily.json",
-                "challenges/daily/archive",
+            store::write_period_archive(
+                &locale_root.join("challenges/daily.json"),
+                &locale_root.join("challenges/daily/archive"),
                 daily_challenges.period_start,
                 &serde_json::to_value(daily_challenges)?,
             )?;
         }
         if let Some(weekly_challenges) = &home.weekly_challenges {
-            write_dated_feed(
-                &locale_root,
-                "challenges/weekly.json",
-                "challenges/weekly/archive",
+            store::write_period_archive(
+                &locale_root.join("challenges/weekly.json"),
+                &locale_root.join("challenges/weekly/archive"),
                 weekly_challenges.period_start,
                 &serde_json::to_value(weekly_challenges)?,
             )?;
         }
-        write_dated_feed(
-            &locale_root,
-            "daily-ops/current.json",
-            "daily-ops/archive",
+        store::write_period_archive(
+            &locale_root.join("daily-ops/current.json"),
+            &locale_root.join("daily-ops/archive"),
             home.daily_ops.period_start,
             &serde_json::to_value(&home.daily_ops)?,
         )?;
-        write_dated_feed(
-            &locale_root,
-            "nuke-codes/current.json",
-            "nuke-codes/archive",
+        store::write_period_archive(
+            &locale_root.join("nuke-codes/current.json"),
+            &locale_root.join("nuke-codes/archive"),
             home.nuke_codes.valid_from,
             &serde_json::to_value(&home.nuke_codes)?,
         )?;
 
         let season_dir = locale_root.join("season");
         let season_value = serde_json::to_value(&home.season)?;
-        store::write_stable(
+        store::write_semantic_archive(
             &season_dir
                 .join("archive")
                 .join(format!("{}.json", home.season.season_number)),
@@ -119,9 +115,9 @@ fn sync(data_dir: &Path) -> Result<()> {
 
         let minerva_dir = locale_root.join("minerva");
 
-        store::write_versioned(
+        store::write_snapshotted(
             &minerva_dir.join("current.json"),
-            &minerva_dir.join("archive"),
+            &minerva_dir.join("snapshots"),
             &json!({
                 "schema_version": 1,
                 "generated_at": generated_at,
@@ -162,9 +158,9 @@ fn sync(data_dir: &Path) -> Result<()> {
 
         let events_dir = locale_root.join("events");
 
-        store::write_versioned(
+        store::write_snapshotted(
             &events_dir.join("current.json"),
-            &events_dir.join("archive"),
+            &events_dir.join("snapshots"),
             &serde_json::to_value(events)?,
         )?;
 
@@ -249,7 +245,7 @@ fn sync(data_dir: &Path) -> Result<()> {
             .join(format!("{:04}", atomic.article_year))
             .join(format!("{:02}.json", atomic.article_month));
 
-        store::write_stable(
+        store::write_semantic_archive(
             &archive_path,
             &json!({
                 "schema_version": 1,
@@ -314,55 +310,10 @@ fn sync(data_dir: &Path) -> Result<()> {
     Ok(())
 }
 
-fn write_dated_feed(
-    locale_root: &Path,
-    current_path: &str,
-    archive_dir: &str,
-    period_start: DateTime<Utc>,
-    value: &serde_json::Value,
-) -> Result<()> {
-    let archive_path = dated_archive_relative_path(period_start);
-    store::write_stable(&locale_root.join(archive_dir).join(archive_path), value)?;
-    store::write_stable(&locale_root.join(current_path), value)?;
-    Ok(())
-}
-
-fn dated_archive_relative_path(period_start: DateTime<Utc>) -> PathBuf {
-    PathBuf::from(format!(
-        "{:04}/{:02}/{:02}.json",
-        period_start.year(),
-        period_start.month(),
-        period_start.day()
-    ))
-}
-
 #[cfg(test)]
 mod tests {
     use super::*;
-    use chrono::TimeZone;
     use serde_json::Value;
-
-    #[test]
-    fn dated_archive_path_uses_the_utc_date_for_every_locale() {
-        let from_german_locale = chrono_tz::Europe::Berlin
-            .with_ymd_and_hms(2026, 9, 25, 2, 0, 0)
-            .unwrap()
-            .with_timezone(&Utc);
-        let from_english_locale = chrono_tz::America::New_York
-            .with_ymd_and_hms(2026, 9, 24, 20, 0, 0)
-            .unwrap()
-            .with_timezone(&Utc);
-
-        assert_eq!(from_german_locale, from_english_locale);
-        assert_eq!(
-            dated_archive_relative_path(from_german_locale),
-            PathBuf::from("2026/09/25.json")
-        );
-        assert_eq!(
-            dated_archive_relative_path(from_english_locale),
-            PathBuf::from("2026/09/25.json")
-        );
-    }
 
     #[test]
     fn current_nuke_codes_match_across_locales() {

@@ -15,6 +15,17 @@ Currently supported locales:
 - `de-DE`
 - `en-US`
 
+## History model
+
+Overseer separates domain history from technical state history:
+
+- `archive/` contains semantic records with stable keys derived from the domain
+  period or ID. Re-syncing changed data for the same period updates that file.
+- `snapshots/` contains technical states and may use `generated_at` timestamps
+  as filenames.
+- Live aliases such as `current.json`, `next.json`, `schedule.json`, and
+  `upcoming.json` keep their existing paths.
+
 ## Endpoints
 
 ### Minerva
@@ -43,8 +54,8 @@ https://dme86.github.io/overseer/en-US/minerva/schedule.json
 Historical Minerva snapshots are stored by year and month:
 
 ```text
-/de-DE/minerva/archive/YYYY/MM/<timestamp>.json
-/en-US/minerva/archive/YYYY/MM/<timestamp>.json
+/de-DE/minerva/snapshots/YYYY/MM/<timestamp>.json
+/en-US/minerva/snapshots/YYYY/MM/<timestamp>.json
 ```
 
 ### Atomic Shop
@@ -90,8 +101,8 @@ https://dme86.github.io/overseer/en-US/events/current.json
 Historical event snapshots are stored by year and month:
 
 ```text
-/de-DE/events/archive/YYYY/MM/<timestamp>.json
-/en-US/events/archive/YYYY/MM/<timestamp>.json
+/de-DE/events/snapshots/YYYY/MM/<timestamp>.json
+/en-US/events/snapshots/YYYY/MM/<timestamp>.json
 ```
 
 Each event includes a machine-readable `tags` array. Known values include
@@ -143,7 +154,7 @@ https://dme86.github.io/overseer/en-US/season/current.json
 /{locale}/season/archive/<season-number>.json
 ```
 
-All archives above are stable semantic-period files. A later sync updates the
+All `archive/` files above use stable semantic keys. A later sync updates the
 same archive when its source data changes rather than creating a run snapshot.
 
 ## Discovery
