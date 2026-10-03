@@ -70,20 +70,24 @@ fn sync(data_dir: &Path) -> Result<()> {
          * Homepage feeds and semantic-period archives
          */
 
-        write_dated_feed(
-            &locale_root,
-            "challenges/daily.json",
-            "challenges/daily/archive",
-            home.daily_challenges.period_start,
-            &serde_json::to_value(&home.daily_challenges)?,
-        )?;
-        write_dated_feed(
-            &locale_root,
-            "challenges/weekly.json",
-            "challenges/weekly/archive",
-            home.weekly_challenges.period_start,
-            &serde_json::to_value(&home.weekly_challenges)?,
-        )?;
+        if let Some(daily_challenges) = &home.daily_challenges {
+            write_dated_feed(
+                &locale_root,
+                "challenges/daily.json",
+                "challenges/daily/archive",
+                daily_challenges.period_start,
+                &serde_json::to_value(daily_challenges)?,
+            )?;
+        }
+        if let Some(weekly_challenges) = &home.weekly_challenges {
+            write_dated_feed(
+                &locale_root,
+                "challenges/weekly.json",
+                "challenges/weekly/archive",
+                weekly_challenges.period_start,
+                &serde_json::to_value(weekly_challenges)?,
+            )?;
+        }
         write_dated_feed(
             &locale_root,
             "daily-ops/current.json",

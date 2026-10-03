@@ -122,8 +122,8 @@ pub struct SeasonFeed {
 #[derive(Debug, Clone)]
 pub struct NukaHomeFeed {
     pub html: String,
-    pub daily_challenges: ChallengesFeed,
-    pub weekly_challenges: ChallengesFeed,
+    pub daily_challenges: Option<ChallengesFeed>,
+    pub weekly_challenges: Option<ChallengesFeed>,
     pub daily_ops: DailyOpsFeed,
     pub nuke_codes: NukeCodesFeed,
     pub season: SeasonFeed,

@@ -72,25 +72,33 @@ pub fn fetch_home(
     };
 
     let daily_ops = parse_daily_ops(&document, locale, now, source.clone())?;
-    let daily_challenges = parse_challenges(
-        &document,
-        ".mod_fallout76challenges_daily",
-        locale,
-        now,
-        source.clone(),
-        daily_ops.period_start,
-        daily_ops.reset_at,
-    )?;
+    let daily_challenges = optional_challenge_feed(
+        parse_challenges(
+            &document,
+            ".mod_fallout76challenges_daily",
+            locale,
+            now,
+            source.clone(),
+            daily_ops.period_start,
+            daily_ops.reset_at,
+        ),
+        locale.code,
+        "daily",
+    );
     let (week_start, week_end) = challenge_week(daily_ops.period_start)?;
-    let weekly_challenges = parse_challenges(
-        &document,
-        ".mod_fallout76challenges_weekly",
-        locale,
-        now,
-        source.clone(),
-        week_start,
-        week_end,
-    )?;
+    let weekly_challenges = optional_challenge_feed(
+        parse_challenges(
+            &document,
+            ".mod_fallout76challenges_weekly",
+            locale,
+            now,
+            source.clone(),
+            week_start,
+            week_end,
+        ),
+        locale.code,
+        "weekly",
+    );
     let nuke_codes = parse_nuke_codes(&document, locale, now, source.clone())?;
     let season = parse_season(&document, locale, now, source)?;
 
@@ -104,6 +112,22 @@ pub fn fetch_home(
     })
 }
 
+fn optional_challenge_feed(
+    result: Result<ChallengesFeed>,
+    locale: &str,
+    period: &str,
+) -> Option<ChallengesFeed> {
+    match result {
+        Ok(feed) => Some(feed),
+        Err(error) => {
+            eprintln!(
+                "warning: could not parse {locale} {period} challenges; keeping existing data: {error:#}"
+            );
+            None
+        }
+    }
+}
+
 fn parse_challenges(
     document: &Html,
     root_selector: &str,
@@ -113,6 +137,11 @@ fn parse_challenges(
     period_start: DateTime<Utc>,
     reset_at: DateTime<Utc>,
 ) -> Result<ChallengesFeed> {
+    let heading_needles: &[&str] = if root_selector.contains("daily") {
+        &["daily challenges", "tages challenges"]
+    } else {
+        &["weekly challenges", "wochen challenges"]
+    };
     let root_selector = Selector::parse(root_selector).expect("valid selector");
     let item_selector = Selector::parse("li.list-group-item").expect("valid selector");
     let name_selector = Selector::parse(".col-9").expect("valid selector");
@@ -123,7 +152,8 @@ fn parse_challenges(
     let root = document
         .select(&root_selector)
         .next()
-        .with_context(|| format!("find {root_selector:?}"))?;
+        .or_else(|| find_challenge_root_by_heading(document, heading_needles, &item_selector))
+        .context("find challenge section")?;
     let mut challenges = Vec::new();
 
     for item in root.select(&item_selector) {
@@ -184,6 +214,32 @@ fn parse_challenges(
         reset_at_local: to_local_string(reset_at, locale.timezone),
         challenges,
     })
+}
+
+fn find_challenge_root_by_heading<'a>(
+    document: &'a Html,
+    heading_needles: &[&str],
+    item_selector: &Selector,
+) -> Option<scraper::ElementRef<'a>> {
+    let heading_selector = Selector::parse("h1, h2, h3, h4, h5, h6").expect("valid selector");
+
+    for heading in document.select(&heading_selector) {
+        let text = normalize_ws(&heading.text().collect::<Vec<_>>().join(" ")).to_lowercase();
+        if !heading_needles.iter().any(|needle| text.contains(needle)) {
+            continue;
+        }
+
+        for ancestor in heading.ancestors().skip(1) {
+            let Some(element) = scraper::ElementRef::wrap(ancestor) else {
+                continue;
+            };
+            if element.select(item_selector).next().is_some() {
+                return Some(element);
+            }
+        }
+    }
+
+    None
 }
 
 fn parse_daily_ops(
@@ -913,6 +969,62 @@ mod tests {
         assert_eq!(feed.challenges[0].name, "Kill a Gulper");
         assert_eq!(feed.challenges[0].target, Some(3));
         assert_eq!(feed.challenges[0].score_reward, 250);
+    }
+
+    #[test]
+    fn finds_challenges_by_localized_heading_when_css_class_changes() {
+        let document = Html::parse_document(
+            r#"
+            <section class="new-challenge-widget">
+              <div><h4>Tages Challenges</h4></div>
+              <div>
+                <ul><li class="list-group-item">
+                  <div class="col-9">Sammle Holz. (<b>5</b>)</div>
+                  <div><span class="badge badge-secondary">250</span></div>
+                </li></ul>
+              </div>
+            </section>
+            "#,
+        );
+        let start = Utc.with_ymd_and_hms(2026, 10, 3, 16, 0, 0).unwrap();
+        let reset = Utc.with_ymd_and_hms(2026, 10, 4, 16, 0, 0).unwrap();
+        let feed = parse_challenges(
+            &document,
+            ".mod_fallout76challenges_daily",
+            locale("de-DE"),
+            start,
+            SourceRef {
+                provider: "Nuka Knights".to_string(),
+                url: "https://example.com".to_string(),
+            },
+            start,
+            reset,
+        )
+        .unwrap();
+
+        assert_eq!(feed.challenges.len(), 1);
+        assert_eq!(feed.challenges[0].name, "Sammle Holz.");
+        assert_eq!(feed.challenges[0].target, Some(5));
+    }
+
+    #[test]
+    fn missing_challenge_widget_keeps_existing_data() {
+        let document = Html::parse_document("<main>Challenges are updating</main>");
+        let start = Utc.with_ymd_and_hms(2026, 10, 3, 16, 0, 0).unwrap();
+        let result = parse_challenges(
+            &document,
+            ".mod_fallout76challenges_daily",
+            locale("en-US"),
+            start,
+            SourceRef {
+                provider: "Nuka Knights".to_string(),
+                url: "https://example.com".to_string(),
+            },
+            start,
+            start + Duration::days(1),
+        );
+
+        assert!(optional_challenge_feed(result, "en-US", "daily").is_none());
     }
 
     #[test]
