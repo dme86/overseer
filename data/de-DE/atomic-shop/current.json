@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:56:34.450740221Z",
+  "generated_at": "2026-10-04T19:40:39.002163976Z",
   "locale": "de-DE",
   "offers": [
     {
@@ -131,15 +131,15 @@
     {
       "active": true,
       "discount_percent": 50,
-      "ends_at": "2026-10-04T16:00:00Z",
-      "ends_at_local": "2026-10-04T18:00:00+02:00",
-      "item": "Wasteland Walker Power Armor Paint Set",
+      "ends_at": "2026-10-05T16:00:00Z",
+      "ends_at_local": "2026-10-05T18:00:00+02:00",
+      "item": "Dark Wood Laminate Floor",
       "offer_type": "daily",
-      "price_atoms": 500,
-      "price_text": "500 (50% off!)",
+      "price_atoms": 250,
+      "price_text": "250 (50% off!)",
       "section": "Week of September 29",
-      "starts_at": "2026-10-03T16:00:00Z",
-      "starts_at_local": "2026-10-03T18:00:00+02:00",
+      "starts_at": "2026-10-04T16:00:00Z",
+      "starts_at_local": "2026-10-04T18:00:00+02:00",
       "subsection": "Weekly Offers"
     }
   ],
