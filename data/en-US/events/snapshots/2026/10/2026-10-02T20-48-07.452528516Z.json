@@ -14,6 +14,18 @@
     },
     {
       "active": true,
+      "ends_at": "2026-10-05T16:00:00Z",
+      "ends_at_local": "2026-10-05T12:00:00-04:00",
+      "starts_at": "2026-10-01T16:00:00Z",
+      "starts_at_local": "2026-10-01T12:00:00-04:00",
+      "tags": [
+        "double_score"
+      ],
+      "title": "Double SCORE Weekend and Murmrgh`s Special Pick",
+      "url": "https://nukaknights.com/events/6260987344018979/double-score-weekend-and-murmrgh-s-special-pick/"
+    },
+    {
+      "active": true,
       "ends_at": "2026-10-26T17:00:00Z",
       "ends_at_local": "2026-10-26T13:00:00-04:00",
       "starts_at": "2026-10-02T16:00:00Z",
@@ -23,7 +35,7 @@
       "url": "https://nukaknights.com/events/6260987344018980/slasher-c-a-m-p-contest/"
     }
   ],
-  "generated_at": "2026-10-05T22:41:13.443361293Z",
+  "generated_at": "2026-10-02T20:48:07.452528516Z",
   "locale": "en-US",
   "schema_version": 1,
   "source": {
