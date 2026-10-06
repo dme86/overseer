@@ -1,9 +1,141 @@
 {
+  "article_month": 10,
+  "article_title": "Atomic Shop Monthly Update: October 2026",
+  "article_year": 2026,
   "generated_at": "2026-10-06T18:20:17.449313991Z",
   "locale": "de-DE",
   "offers": [
     {
-      "active": false,
+      "discount_percent": 30,
+      "ends_at": "2026-10-13T16:00:00Z",
+      "ends_at_local": "2026-10-13T18:00:00+02:00",
+      "item": "Black Cat Bundle",
+      "offer_type": "weekly",
+      "price_atoms": 910,
+      "price_text": "910 (30% off!)",
+      "section": "",
+      "starts_at": "2026-10-06T16:00:00Z",
+      "starts_at_local": "2026-10-06T18:00:00+02:00",
+      "subsection": "Week of October 6"
+    },
+    {
+      "discount_percent": 30,
+      "ends_at": "2026-10-13T16:00:00Z",
+      "ends_at_local": "2026-10-13T18:00:00+02:00",
+      "item": "Feral Ghoul Bundle",
+      "offer_type": "weekly",
+      "price_atoms": 910,
+      "price_text": "910 (30% off!)",
+      "section": "",
+      "starts_at": "2026-10-06T16:00:00Z",
+      "starts_at_local": "2026-10-06T18:00:00+02:00",
+      "subsection": "Week of October 6"
+    },
+    {
+      "discount_percent": 50,
+      "ends_at": "2026-10-07T16:00:00Z",
+      "ends_at_local": "2026-10-07T18:00:00+02:00",
+      "item": "Grafton High Track Suit Underarmor",
+      "offer_type": "daily",
+      "price_atoms": 350,
+      "price_text": "350 (50% off!)",
+      "section": "",
+      "starts_at": "2026-10-06T16:00:00Z",
+      "starts_at_local": "2026-10-06T18:00:00+02:00",
+      "subsection": "Week of October 6"
+    },
+    {
+      "discount_percent": 30,
+      "ends_at": "2026-10-13T16:00:00Z",
+      "ends_at_local": "2026-10-13T18:00:00+02:00",
+      "item": "Grim Reaper Outfit Bundle",
+      "offer_type": "weekly",
+      "price_atoms": 1260,
+      "price_text": "1260 (30% off!)",
+      "section": "",
+      "starts_at": "2026-10-06T16:00:00Z",
+      "starts_at_local": "2026-10-06T18:00:00+02:00",
+      "subsection": "Week of October 6"
+    },
+    {
+      "discount_percent": 30,
+      "ends_at": "2026-10-13T16:00:00Z",
+      "ends_at_local": "2026-10-13T18:00:00+02:00",
+      "item": "Halloween C.A.M.P. Bundle",
+      "offer_type": "weekly",
+      "price_atoms": 910,
+      "price_text": "910 (30% off!)",
+      "section": "",
+      "starts_at": "2026-10-06T16:00:00Z",
+      "starts_at_local": "2026-10-06T18:00:00+02:00",
+      "subsection": "Week of October 6"
+    },
+    {
+      "discount_percent": 30,
+      "ends_at": "2026-10-13T16:00:00Z",
+      "ends_at_local": "2026-10-13T18:00:00+02:00",
+      "item": "Haunted House C.A.M.P. Bundle",
+      "offer_type": "weekly",
+      "price_atoms": 1260,
+      "price_text": "1260 (30% off!)",
+      "section": "",
+      "starts_at": "2026-10-06T16:00:00Z",
+      "starts_at_local": "2026-10-06T18:00:00+02:00",
+      "subsection": "Week of October 6"
+    },
+    {
+      "discount_percent": 30,
+      "ends_at": "2026-10-13T16:00:00Z",
+      "ends_at_local": "2026-10-13T18:00:00+02:00",
+      "item": "Pipe Organ Halloween Bundle",
+      "offer_type": "weekly",
+      "price_atoms": 1260,
+      "price_text": "1260 (30% off!)",
+      "section": "",
+      "starts_at": "2026-10-06T16:00:00Z",
+      "starts_at_local": "2026-10-06T18:00:00+02:00",
+      "subsection": "Week of October 6"
+    },
+    {
+      "discount_percent": 30,
+      "ends_at": "2026-10-13T16:00:00Z",
+      "ends_at_local": "2026-10-13T18:00:00+02:00",
+      "item": "Rest in Pieces C.A.M.P. Bundle",
+      "offer_type": "weekly",
+      "price_atoms": 1050,
+      "price_text": "1050 (30% off!)",
+      "section": "",
+      "starts_at": "2026-10-06T16:00:00Z",
+      "starts_at_local": "2026-10-06T18:00:00+02:00",
+      "subsection": "Week of October 6"
+    },
+    {
+      "discount_percent": 30,
+      "ends_at": "2026-10-13T16:00:00Z",
+      "ends_at_local": "2026-10-13T18:00:00+02:00",
+      "item": "Robber Halloween Bundle",
+      "offer_type": "weekly",
+      "price_atoms": 910,
+      "price_text": "910 (30% off!)",
+      "section": "",
+      "starts_at": "2026-10-06T16:00:00Z",
+      "starts_at_local": "2026-10-06T18:00:00+02:00",
+      "subsection": "Week of October 6"
+    },
+    {
+      "discount_percent": 30,
+      "ends_at": "2026-10-13T16:00:00Z",
+      "ends_at_local": "2026-10-13T18:00:00+02:00",
+      "item": "Spooky Night Inside Bundle",
+      "offer_type": "weekly",
+      "price_atoms": 1050,
+      "price_text": "1050 (30% off!)",
+      "section": "",
+      "starts_at": "2026-10-06T16:00:00Z",
+      "starts_at_local": "2026-10-06T18:00:00+02:00",
+      "subsection": "Week of October 6"
+    },
+    {
       "discount_percent": 50,
       "ends_at": "2026-10-08T16:00:00Z",
       "ends_at_local": "2026-10-08T18:00:00+02:00",
@@ -17,7 +149,6 @@
       "subsection": "Week of October 6"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-09T16:00:00Z",
       "ends_at_local": "2026-10-09T18:00:00+02:00",
@@ -31,7 +162,6 @@
       "subsection": "Week of October 6"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-10T16:00:00Z",
       "ends_at_local": "2026-10-10T18:00:00+02:00",
@@ -45,7 +175,6 @@
       "subsection": "Week of October 6"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-11T16:00:00Z",
       "ends_at_local": "2026-10-11T18:00:00+02:00",
@@ -59,7 +188,6 @@
       "subsection": "Week of October 6"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-12T16:00:00Z",
       "ends_at_local": "2026-10-12T18:00:00+02:00",
@@ -73,7 +201,6 @@
       "subsection": "Week of October 6"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-13T16:00:00Z",
       "ends_at_local": "2026-10-13T18:00:00+02:00",
@@ -87,7 +214,6 @@
       "subsection": "Week of October 6"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-20T16:00:00Z",
       "ends_at_local": "2026-10-20T18:00:00+02:00",
@@ -101,7 +227,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-20T16:00:00Z",
       "ends_at_local": "2026-10-20T18:00:00+02:00",
@@ -115,7 +240,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-20T16:00:00Z",
       "ends_at_local": "2026-10-20T18:00:00+02:00",
@@ -129,7 +253,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-14T16:00:00Z",
       "ends_at_local": "2026-10-14T18:00:00+02:00",
@@ -143,7 +266,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-20T16:00:00Z",
       "ends_at_local": "2026-10-20T18:00:00+02:00",
@@ -157,7 +279,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-20T16:00:00Z",
       "ends_at_local": "2026-10-20T18:00:00+02:00",
@@ -171,7 +292,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-20T16:00:00Z",
       "ends_at_local": "2026-10-20T18:00:00+02:00",
@@ -185,7 +305,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-20T16:00:00Z",
       "ends_at_local": "2026-10-20T18:00:00+02:00",
@@ -199,7 +318,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-20T16:00:00Z",
       "ends_at_local": "2026-10-20T18:00:00+02:00",
@@ -213,7 +331,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-20T16:00:00Z",
       "ends_at_local": "2026-10-20T18:00:00+02:00",
@@ -227,7 +344,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-15T16:00:00Z",
       "ends_at_local": "2026-10-15T18:00:00+02:00",
@@ -241,7 +357,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-16T16:00:00Z",
       "ends_at_local": "2026-10-16T18:00:00+02:00",
@@ -255,7 +370,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-17T16:00:00Z",
       "ends_at_local": "2026-10-17T18:00:00+02:00",
@@ -269,7 +383,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-18T16:00:00Z",
       "ends_at_local": "2026-10-18T18:00:00+02:00",
@@ -283,7 +396,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-19T16:00:00Z",
       "ends_at_local": "2026-10-19T18:00:00+02:00",
@@ -297,7 +409,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-20T16:00:00Z",
       "ends_at_local": "2026-10-20T18:00:00+02:00",
@@ -311,7 +422,6 @@
       "subsection": "Week of October 13"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-27T16:00:00Z",
       "ends_at_local": "2026-10-27T17:00:00+01:00",
@@ -325,7 +435,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-21T16:00:00Z",
       "ends_at_local": "2026-10-21T18:00:00+02:00",
@@ -339,7 +448,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-27T16:00:00Z",
       "ends_at_local": "2026-10-27T17:00:00+01:00",
@@ -353,7 +461,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-27T16:00:00Z",
       "ends_at_local": "2026-10-27T17:00:00+01:00",
@@ -367,7 +474,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-27T16:00:00Z",
       "ends_at_local": "2026-10-27T17:00:00+01:00",
@@ -381,7 +487,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-27T16:00:00Z",
       "ends_at_local": "2026-10-27T17:00:00+01:00",
@@ -395,7 +500,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-27T16:00:00Z",
       "ends_at_local": "2026-10-27T17:00:00+01:00",
@@ -409,7 +513,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-27T16:00:00Z",
       "ends_at_local": "2026-10-27T17:00:00+01:00",
@@ -423,7 +526,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-27T16:00:00Z",
       "ends_at_local": "2026-10-27T17:00:00+01:00",
@@ -437,7 +539,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-10-27T16:00:00Z",
       "ends_at_local": "2026-10-27T17:00:00+01:00",
@@ -451,7 +552,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-22T16:00:00Z",
       "ends_at_local": "2026-10-22T18:00:00+02:00",
@@ -465,7 +565,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-23T16:00:00Z",
       "ends_at_local": "2026-10-23T18:00:00+02:00",
@@ -479,7 +578,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-24T16:00:00Z",
       "ends_at_local": "2026-10-24T18:00:00+02:00",
@@ -493,7 +591,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-25T16:00:00Z",
       "ends_at_local": "2026-10-25T17:00:00+01:00",
@@ -507,7 +604,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-26T16:00:00Z",
       "ends_at_local": "2026-10-26T17:00:00+01:00",
@@ -521,7 +617,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-27T16:00:00Z",
       "ends_at_local": "2026-10-27T17:00:00+01:00",
@@ -535,7 +630,6 @@
       "subsection": "Week of October 20"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-11-03T16:00:00Z",
       "ends_at_local": "2026-11-03T17:00:00+01:00",
@@ -549,7 +643,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-11-03T16:00:00Z",
       "ends_at_local": "2026-11-03T17:00:00+01:00",
@@ -563,7 +656,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-11-03T16:00:00Z",
       "ends_at_local": "2026-11-03T17:00:00+01:00",
@@ -577,7 +669,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": 20,
       "ends_at": "2026-11-03T16:00:00Z",
       "ends_at_local": "2026-11-03T17:00:00+01:00",
@@ -591,7 +682,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-11-03T16:00:00Z",
       "ends_at_local": "2026-11-03T17:00:00+01:00",
@@ -605,7 +695,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-11-03T16:00:00Z",
       "ends_at_local": "2026-11-03T17:00:00+01:00",
@@ -619,7 +708,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-11-03T16:00:00Z",
       "ends_at_local": "2026-11-03T17:00:00+01:00",
@@ -633,7 +721,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-28T16:00:00Z",
       "ends_at_local": "2026-10-28T17:00:00+01:00",
@@ -647,7 +734,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-11-03T16:00:00Z",
       "ends_at_local": "2026-11-03T17:00:00+01:00",
@@ -661,7 +747,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": null,
       "ends_at": "2026-11-03T16:00:00Z",
       "ends_at_local": "2026-11-03T17:00:00+01:00",
@@ -675,7 +760,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-29T16:00:00Z",
       "ends_at_local": "2026-10-29T17:00:00+01:00",
@@ -689,7 +773,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-30T16:00:00Z",
       "ends_at_local": "2026-10-30T17:00:00+01:00",
@@ -703,7 +786,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-10-31T16:00:00Z",
       "ends_at_local": "2026-10-31T17:00:00+01:00",
@@ -717,7 +799,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-11-01T16:00:00Z",
       "ends_at_local": "2026-11-01T17:00:00+01:00",
@@ -731,7 +812,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-11-02T17:00:00Z",
       "ends_at_local": "2026-11-02T18:00:00+01:00",
@@ -745,7 +825,6 @@
       "subsection": "Week of October 27"
     },
     {
-      "active": false,
       "discount_percent": 50,
       "ends_at": "2026-11-03T17:00:00Z",
       "ends_at_local": "2026-11-03T18:00:00+01:00",
