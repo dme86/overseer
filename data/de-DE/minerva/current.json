@@ -1,7 +1,187 @@
 {
-  "generated_at": "2026-09-30T20:50:27.310908372Z",
+  "generated_at": "2026-10-08T21:21:52.747514528Z",
   "locale": "de-DE",
-  "sale": null,
+  "sale": {
+    "active": true,
+    "big_sale": true,
+    "ends_at": "2026-10-12T16:00:00Z",
+    "ends_at_local": "2026-10-12T18:00:00+02:00",
+    "inventory_complete": true,
+    "items": [
+      {
+        "name": "Bauplan: Viehtreiber",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: Urbare Erde",
+        "price_gold": 375
+      },
+      {
+        "name": "Bauplan: Gauss-Minigun (Gunner-Visier)",
+        "price_gold": 38
+      },
+      {
+        "name": "Bauplan: Gauss-Minigun (Teslakondensator)",
+        "price_gold": 75
+      },
+      {
+        "name": "Bauplan: Gauss-Minigun (Tesladynamo)",
+        "price_gold": 75
+      },
+      {
+        "name": "Bauplan: Secret Service - Brustteil",
+        "price_gold": 938
+      },
+      {
+        "name": "Bauplan: Secret-Service-Helm",
+        "price_gold": 1238
+      },
+      {
+        "name": "Bauplan: Secret Service - Linker Arm",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: Secret-Service - Linkes Bein",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: Secret Service - Rechter Arm",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: Secret Service - Rechtes Bein",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: Superreaktor",
+        "price_gold": 1500
+      },
+      {
+        "name": "Bauplan: Sympto-Mat",
+        "price_gold": 1500
+      },
+      {
+        "name": "Bauplan: Kriegsglefe",
+        "price_gold": 2000
+      },
+      {
+        "name": "Bauplan: Apotheker-Rucksack-Mod",
+        "price_gold": 263
+      },
+      {
+        "name": "Bauplan: Gesichtsbrecher",
+        "price_gold": 750
+      },
+      {
+        "name": "Bauplan: Dynamit",
+        "price_gold": 75
+      },
+      {
+        "name": "Bauplan: Gauss-Pistole",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: Fletsch-Floater-Granate",
+        "price_gold": 113
+      },
+      {
+        "name": "Bauplan: Secret-Service-Unterrüstung (resistentes Futter)",
+        "price_gold": 75
+      },
+      {
+        "name": "Bauplan: Geborgenes Solarmodul",
+        "price_gold": 1500
+      },
+      {
+        "name": "Bauplan: Würgeherz - Brustteil",
+        "price_gold": 938
+      },
+      {
+        "name": "Bauplan: Würgeherz - Helm",
+        "price_gold": 1238
+      },
+      {
+        "name": "Bauplan: Würgeherz - Linker Arm",
+        "price_gold": 750
+      },
+      {
+        "name": "Bauplan: Würgeherz - Linkes Bein",
+        "price_gold": 750
+      },
+      {
+        "name": "Bauplan: Würgeherz - Rechter Arm",
+        "price_gold": 750
+      },
+      {
+        "name": "Bauplan: Würgeherz - Rechtes Bein",
+        "price_gold": 750
+      },
+      {
+        "name": "Bauplan: Secret-Service-Unterrüstung (behandeltes Futter)",
+        "price_gold": 38
+      },
+      {
+        "name": "Bauplan: Gemischtwaren-Rucksack-Mod",
+        "price_gold": 263
+      },
+      {
+        "name": "Bauplan: Automatischer-Granatwerfer-Lackierung (Blutadler)",
+        "price_gold": 263
+      },
+      {
+        "name": "Bauplan: Chinesische Tarnrüstung",
+        "price_gold": 3000
+      },
+      {
+        "name": "Bauplan: Chinesischer Tarnhelm",
+        "price_gold": 1238
+      },
+      {
+        "name": "Bauplan: Handschuh",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: Secret-Service-Rüstung - Jetpack",
+        "price_gold": 1500
+      },
+      {
+        "name": "Bauplan: Secret-Service-Rüstung - Körperteil (mit Taschen)",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: Secret-Service-Rüstung - Torso (mit Taschen)",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: T-65 - Stim-Pumpe",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: T-65 - Overdrive-Servos",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: T-65 - Stealth Boy",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: Kriegsglefe (Kryo-Klinge)",
+        "price_gold": 150
+      },
+      {
+        "name": "Bauplan: Kriegsglefe (Plasma-Klinge)",
+        "price_gold": 150
+      },
+      {
+        "name": "Bauplan: Hühnerstall",
+        "price_gold": 563
+      }
+    ],
+    "list": 4,
+    "location": "Whitespring",
+    "starts_at": "2026-10-08T16:00:00Z",
+    "starts_at_local": "2026-10-08T18:00:00+02:00"
+  },
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:20:03.886160593Z",
+  "generated_at": "2026-10-08T21:21:52.747514528Z",
   "locale": "de-DE",
   "offers": [
     {
@@ -131,15 +131,15 @@
     {
       "active": true,
       "discount_percent": 50,
-      "ends_at": "2026-10-08T16:00:00Z",
-      "ends_at_local": "2026-10-08T18:00:00+02:00",
-      "item": "Lucky Dice Emote",
+      "ends_at": "2026-10-09T16:00:00Z",
+      "ends_at_local": "2026-10-09T18:00:00+02:00",
+      "item": "Violin Chair",
       "offer_type": "daily",
       "price_atoms": 250,
       "price_text": "250 (50% off!)",
       "section": "",
-      "starts_at": "2026-10-07T16:00:00Z",
-      "starts_at_local": "2026-10-07T18:00:00+02:00",
+      "starts_at": "2026-10-08T16:00:00Z",
+      "starts_at_local": "2026-10-08T18:00:00+02:00",
       "subsection": "Week of October 6"
     }
   ],

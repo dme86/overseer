@@ -22,9 +22,19 @@
       ],
       "title": "Nacht des Unfugs",
       "url": "https://nukaknights.com/event/6260987344018981/nacht-des-unfugs/"
-    },
+    }
+  ],
+  "generated_at": "2026-10-06T18:20:17.449313991Z",
+  "locale": "de-DE",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-kalender.html"
+  },
+  "timezone": "Europe/Berlin",
+  "upcoming": [
     {
-      "active": true,
+      "active": false,
       "ends_at": "2026-10-12T16:00:00Z",
       "ends_at_local": "2026-10-12T18:00:00+02:00",
       "starts_at": "2026-10-08T16:00:00Z",
@@ -35,17 +45,7 @@
       ],
       "title": "Minervas Sonderangebote (Liste 4) und Goldrausch",
       "url": "https://nukaknights.com/event/6260987344018965/minervas-sonderangebote-liste-4-und-goldrausch/"
-    }
-  ],
-  "generated_at": "2026-10-08T21:21:52.747514528Z",
-  "locale": "de-DE",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-kalender.html"
-  },
-  "timezone": "Europe/Berlin",
-  "upcoming": [
+    },
     {
       "active": false,
       "ends_at": "2026-10-19T16:00:00Z",
