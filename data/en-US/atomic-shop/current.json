@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:21:52.747514528Z",
+  "generated_at": "2026-10-09T20:57:02.307125079Z",
   "locale": "en-US",
   "offers": [
     {
@@ -131,15 +131,15 @@
     {
       "active": true,
       "discount_percent": 50,
-      "ends_at": "2026-10-09T16:00:00Z",
-      "ends_at_local": "2026-10-09T12:00:00-04:00",
-      "item": "Violin Chair",
+      "ends_at": "2026-10-10T16:00:00Z",
+      "ends_at_local": "2026-10-10T12:00:00-04:00",
+      "item": "Brahmin Milk Machine",
       "offer_type": "daily",
       "price_atoms": 250,
       "price_text": "250 (50% off!)",
       "section": "",
-      "starts_at": "2026-10-08T16:00:00Z",
-      "starts_at_local": "2026-10-08T12:00:00-04:00",
+      "starts_at": "2026-10-09T16:00:00Z",
+      "starts_at_local": "2026-10-09T12:00:00-04:00",
       "subsection": "Week of October 6"
     }
   ],
