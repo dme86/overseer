@@ -1,17 +1,17 @@
 {
   "enemies": "Westentaschenphantome",
-  "generated_at": "2026-10-10T20:05:58.858597344Z",
+  "generated_at": "2026-10-11T20:20:50.781209741Z",
   "locale": "de-DE",
-  "location": "Valley Galeria",
-  "mode": "Verbindungsgerät",
+  "location": "Vault 96",
+  "mode": "Entschlüsselung",
   "mutations": [
-    "Tödlicher Blick",
-    "Aktive Tarnung"
+    "Wilder Schlag",
+    "Giftiges Blut"
   ],
-  "period_start": "2026-10-10T16:00:00Z",
-  "period_start_local": "2026-10-10T18:00:00+02:00",
-  "reset_at": "2026-10-11T16:00:00Z",
-  "reset_at_local": "2026-10-11T18:00:00+02:00",
+  "period_start": "2026-10-11T16:00:00Z",
+  "period_start_local": "2026-10-11T18:00:00+02:00",
+  "reset_at": "2026-10-12T16:00:00Z",
+  "reset_at_local": "2026-10-12T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Ernte eine Stachelkastanie.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Schließe eine Routinejagd ab.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Ernte eine Wildpflanze oder einen Pilz.",
+      "score_reward": 250,
+      "target": 12
+    },
+    {
+      "name": "Töte ein Westentaschenphantom während eines Befalls.",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Töte einen Wendigo.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Verkaufe Leuchtpilzsuppe an NPC-Verkäufer.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Besuche die Unterkunft eines anderen Spielers.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-10-11T20:20:50.781209741Z",
+  "locale": "de-DE",
+  "period_start": "2026-10-11T16:00:00Z",
+  "period_start_local": "2026-10-11T18:00:00+02:00",
+  "reset_at": "2026-10-12T16:00:00Z",
+  "reset_at_local": "2026-10-12T18:00:00+02:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

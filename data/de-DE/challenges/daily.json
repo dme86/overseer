@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Sammle eine Nuka-Cola Dark auf.",
+      "name": "Ernte eine Stachelkastanie.",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Sammle Vorkriegsnahrung.",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Sammle ein Mikroskop oder einen biometrischen Scanner.",
+      "name": "Schließe eine Routinejagd ab.",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Schließe das Event \"Nacht des Unfugs\" ab.",
+      "name": "Ernte eine Wildpflanze oder einen Pilz.",
+      "score_reward": 250,
+      "target": 12
+    },
+    {
+      "name": "Töte ein Westentaschenphantom während eines Befalls.",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Töte einen Wendigo.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Töte einen Verlorenen während des \"Nacht des Unfugs\"-Events",
+      "name": "Verkaufe Leuchtpilzsuppe an NPC-Verkäufer.",
       "score_reward": 250,
-      "target": 6
+      "target": null
     },
     {
-      "name": "Töte einen Gegner während der Quest \"Geschändete Gräber\" mit einer Schaufel.",
-      "score_reward": 250,
-      "target": 6
-    },
-    {
-      "name": "Besuche deine Unterkunft.",
+      "name": "Besuche die Unterkunft eines anderen Spielers.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-10-10T20:05:58.858597344Z",
+  "generated_at": "2026-10-11T20:20:50.781209741Z",
   "locale": "de-DE",
-  "period_start": "2026-10-10T16:00:00Z",
-  "period_start_local": "2026-10-10T18:00:00+02:00",
-  "reset_at": "2026-10-11T16:00:00Z",
-  "reset_at_local": "2026-10-11T18:00:00+02:00",
+  "period_start": "2026-10-11T16:00:00Z",
+  "period_start_local": "2026-10-11T18:00:00+02:00",
+  "reset_at": "2026-10-12T16:00:00Z",
+  "reset_at_local": "2026-10-12T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

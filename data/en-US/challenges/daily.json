@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Collect a Nuka-Cola Dark",
+      "name": "Harvest a Prickeye",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Collect Pre-war Food",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Collect a Microscope or Biometric Scanner",
+      "name": "Complete a Grunt Hunt",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Complete the Event: \"Mischief Night\"",
+      "name": "Harvest a Wild Plant or Fungi",
+      "score_reward": 250,
+      "target": 12
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom during an Infestation",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Kill a Wendigo",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Kill a Lost during the \"Mischief Night\" Event",
+      "name": "Sell Glowing Fungus Soup to an NPC vendor",
       "score_reward": 250,
-      "target": 6
+      "target": null
     },
     {
-      "name": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
-      "score_reward": 250,
-      "target": 6
-    },
-    {
-      "name": "Visit your Shelter",
+      "name": "Visit another Player's Shelter",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-10-10T20:05:58.858597344Z",
+  "generated_at": "2026-10-11T20:20:50.781209741Z",
   "locale": "en-US",
-  "period_start": "2026-10-10T16:00:00Z",
-  "period_start_local": "2026-10-10T12:00:00-04:00",
-  "reset_at": "2026-10-11T16:00:00Z",
-  "reset_at_local": "2026-10-11T12:00:00-04:00",
+  "period_start": "2026-10-11T16:00:00Z",
+  "period_start_local": "2026-10-11T12:00:00-04:00",
+  "reset_at": "2026-10-12T16:00:00Z",
+  "reset_at_local": "2026-10-12T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
