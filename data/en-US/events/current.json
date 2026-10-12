@@ -22,22 +22,9 @@
       ],
       "title": "Mischief Night",
       "url": "https://nukaknights.com/events/6260987344018981/mischief-night/"
-    },
-    {
-      "active": true,
-      "ends_at": "2026-10-12T16:00:00Z",
-      "ends_at_local": "2026-10-12T12:00:00-04:00",
-      "starts_at": "2026-10-08T16:00:00Z",
-      "starts_at_local": "2026-10-08T12:00:00-04:00",
-      "tags": [
-        "gold_rush",
-        "minerva"
-      ],
-      "title": "Minerva`s Big Sale (List 4) and Gold Rush",
-      "url": "https://nukaknights.com/events/6260987344018965/minerva-s-big-sale-list-4-and-gold-rush/"
     }
   ],
-  "generated_at": "2026-10-08T21:21:52.747514528Z",
+  "generated_at": "2026-10-12T23:01:25.393350391Z",
   "locale": "en-US",
   "schema_version": 1,
   "source": {

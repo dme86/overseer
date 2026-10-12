@@ -1,17 +1,17 @@
 {
   "enemies": "Pint-Sized Phantoms",
-  "generated_at": "2026-10-11T20:20:50.781209741Z",
+  "generated_at": "2026-10-12T23:01:25.393350391Z",
   "locale": "en-US",
-  "location": "Vault 96",
-  "mode": "Decryption",
+  "location": "Morgantown High School",
+  "mode": "Uplink",
   "mutations": [
-    "Savage Strike",
-    "Toxic Blood"
+    "Piercing Gaze",
+    "Danger Cloud"
   ],
-  "period_start": "2026-10-11T16:00:00Z",
-  "period_start_local": "2026-10-11T12:00:00-04:00",
-  "reset_at": "2026-10-12T16:00:00Z",
-  "reset_at_local": "2026-10-12T12:00:00-04:00",
+  "period_start": "2026-10-12T16:00:00Z",
+  "period_start_local": "2026-10-12T12:00:00-04:00",
+  "reset_at": "2026-10-13T16:00:00Z",
+  "reset_at_local": "2026-10-13T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

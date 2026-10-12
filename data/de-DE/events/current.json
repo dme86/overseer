@@ -22,22 +22,9 @@
       ],
       "title": "Nacht des Unfugs",
       "url": "https://nukaknights.com/event/6260987344018981/nacht-des-unfugs/"
-    },
-    {
-      "active": true,
-      "ends_at": "2026-10-12T16:00:00Z",
-      "ends_at_local": "2026-10-12T18:00:00+02:00",
-      "starts_at": "2026-10-08T16:00:00Z",
-      "starts_at_local": "2026-10-08T18:00:00+02:00",
-      "tags": [
-        "gold_rush",
-        "minerva"
-      ],
-      "title": "Minervas Sonderangebote (Liste 4) und Goldrausch",
-      "url": "https://nukaknights.com/event/6260987344018965/minervas-sonderangebote-liste-4-und-goldrausch/"
     }
   ],
-  "generated_at": "2026-10-08T21:21:52.747514528Z",
+  "generated_at": "2026-10-12T23:01:25.393350391Z",
   "locale": "de-DE",
   "schema_version": 1,
   "source": {

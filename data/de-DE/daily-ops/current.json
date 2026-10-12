@@ -1,17 +1,17 @@
 {
   "enemies": "Westentaschenphantome",
-  "generated_at": "2026-10-11T20:20:50.781209741Z",
+  "generated_at": "2026-10-12T23:01:25.393350391Z",
   "locale": "de-DE",
-  "location": "Vault 96",
-  "mode": "Entschlüsselung",
+  "location": "Morgantown High School",
+  "mode": "Verbindungsgerät",
   "mutations": [
-    "Wilder Schlag",
-    "Giftiges Blut"
+    "Tödlicher Blick",
+    "Gefahrenwolke"
   ],
-  "period_start": "2026-10-11T16:00:00Z",
-  "period_start_local": "2026-10-11T18:00:00+02:00",
-  "reset_at": "2026-10-12T16:00:00Z",
-  "reset_at_local": "2026-10-12T18:00:00+02:00",
+  "period_start": "2026-10-12T16:00:00Z",
+  "period_start_local": "2026-10-12T18:00:00+02:00",
+  "reset_at": "2026-10-13T16:00:00Z",
+  "reset_at_local": "2026-10-13T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

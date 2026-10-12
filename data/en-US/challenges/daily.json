@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Harvest a Prickeye",
+      "name": "Drink Purified Water",
       "score_reward": 250,
-      "target": 5
+      "target": 2
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Complete a Grunt Hunt",
+      "name": "Collect a Fuel Tank or Gas Canister",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Harvest a Wild Plant or Fungi",
+      "name": "Collect a Plunger",
       "score_reward": 250,
-      "target": 12
+      "target": 3
     },
     {
-      "name": "Kill a Pint-Sized Phantom during an Infestation",
-      "score_reward": 250,
-      "target": 6
-    },
-    {
-      "name": "Kill a Wendigo",
+      "name": "Complete a Daily Operation!",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Sell Glowing Fungus Soup to an NPC vendor",
+      "name": "Craft a Grenade, Mine, or Thrown Weapon",
       "score_reward": 250,
-      "target": null
+      "target": 5
     },
     {
-      "name": "Visit another Player's Shelter",
+      "name": "Kill a Lost",
       "score_reward": 250,
-      "target": null
+      "target": 5
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom during a Daily Operation!",
+      "score_reward": 250,
+      "target": 10
     }
   ],
-  "generated_at": "2026-10-11T20:20:50.781209741Z",
+  "generated_at": "2026-10-12T23:01:25.393350391Z",
   "locale": "en-US",
-  "period_start": "2026-10-11T16:00:00Z",
-  "period_start_local": "2026-10-11T12:00:00-04:00",
-  "reset_at": "2026-10-12T16:00:00Z",
-  "reset_at_local": "2026-10-12T12:00:00-04:00",
+  "period_start": "2026-10-12T16:00:00Z",
+  "period_start_local": "2026-10-12T12:00:00-04:00",
+  "reset_at": "2026-10-13T16:00:00Z",
+  "reset_at_local": "2026-10-13T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
