@@ -16,52 +16,57 @@
       "target": 3
     },
     {
-      "name": "Drink Tea",
+      "name": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
       "score_reward": 1000,
-      "target": 5
+      "target": 25
     },
     {
-      "name": "Kill a Mole Miner",
+      "name": "Catch a Fish",
+      "score_reward": 1000,
+      "target": 21
+    },
+    {
+      "name": "Complete an Infestation",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Craft Fish Bits",
+      "score_reward": 1000,
+      "target": 35
+    },
+    {
+      "name": "Destroy a Robot",
       "score_reward": 1000,
       "target": 30
     },
     {
-      "name": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
+      "name": "Eat Pre-war Food",
       "score_reward": 1000,
-      "target": 30
+      "target": 25
     },
     {
-      "name": "Kill a Rusted Deathclaw",
+      "name": "Kill a Floater",
       "score_reward": 1000,
-      "target": 5
+      "target": 10
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom during an Infestation",
+      "score_reward": 1000,
+      "target": 20
     },
     {
       "name": "Kill an Uninvited Pint-Sized Phantom",
       "score_reward": 1000,
       "target": null
-    },
-    {
-      "name": "Scrap junk to produce Antiseptic",
-      "score_reward": 1000,
-      "target": 15
-    },
-    {
-      "name": "Sell Mirelurk Queen Steak to an NPC vendor",
-      "score_reward": 1000,
-      "target": null
-    },
-    {
-      "name": "Travel on foot (KM)",
-      "score_reward": 1000,
-      "target": 50
     }
   ],
-  "generated_at": "2026-10-06T18:20:17.449313991Z",
+  "generated_at": "2026-10-13T21:18:36.726749355Z",
   "locale": "en-US",
-  "period_start": "2026-10-06T16:00:00Z",
-  "period_start_local": "2026-10-06T12:00:00-04:00",
-  "reset_at": "2026-10-13T16:00:00Z",
-  "reset_at_local": "2026-10-13T12:00:00-04:00",
+  "period_start": "2026-10-13T16:00:00Z",
+  "period_start_local": "2026-10-13T12:00:00-04:00",
+  "reset_at": "2026-10-20T16:00:00Z",
+  "reset_at_local": "2026-10-20T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

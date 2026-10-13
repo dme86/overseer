@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Harvest a Firecracker Berry",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Collect Brain Fungus",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Collect Deathclaw eggs",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Complete the Event: \"Mischief Night\"",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Cook Brain Fungus Soup",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill a Lost during the \"Mischief Night\" Event",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom during an Infestation",
+      "score_reward": 250,
+      "target": 6
+    }
+  ],
+  "generated_at": "2026-10-13T21:18:36.726749355Z",
+  "locale": "en-US",
+  "period_start": "2026-10-13T16:00:00Z",
+  "period_start_local": "2026-10-13T12:00:00-04:00",
+  "reset_at": "2026-10-14T16:00:00Z",
+  "reset_at_local": "2026-10-14T12:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

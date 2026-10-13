@@ -16,52 +16,57 @@
       "target": 3
     },
     {
-      "name": "Trinke Tee.",
+      "name": "Baue einen Boden, eine Wand oder ein Dach in Werkstätten oder C.A.M.P.s.",
       "score_reward": 1000,
-      "target": 5
+      "target": 25
     },
     {
-      "name": "Töten einen Grubenhauer.",
+      "name": "Fange einen Fisch.",
+      "score_reward": 1000,
+      "target": 21
+    },
+    {
+      "name": "Schließe einen Befall ab.",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Stelle Fischhappen her.",
+      "score_reward": 1000,
+      "target": 35
+    },
+    {
+      "name": "Zerstöre einen Roboter.",
       "score_reward": 1000,
       "target": 30
     },
     {
-      "name": "Töte in einer täglichen Operation ein Westentaschenphantom, während du einem Team angehörst!",
+      "name": "Iss Vorkriegsnahrung.",
       "score_reward": 1000,
-      "target": 30
+      "target": 25
     },
     {
-      "name": "Töte eine rostige Todeskralle.",
+      "name": "Töte einen Floater.",
       "score_reward": 1000,
-      "target": 5
+      "target": 10
+    },
+    {
+      "name": "Töte ein Westentaschenphantom während eines Befalls.",
+      "score_reward": 1000,
+      "target": 20
     },
     {
       "name": "Töte ein ungebetenes Westentaschenphantom.",
       "score_reward": 1000,
       "target": null
-    },
-    {
-      "name": "Verwerte Schrott, um Antiseptikum herzustellen.",
-      "score_reward": 1000,
-      "target": 15
-    },
-    {
-      "name": "Verkaufe Mirelurk-Königin-Steak an NPC-Verkäufer.",
-      "score_reward": 1000,
-      "target": null
-    },
-    {
-      "name": "Gehe zu Fuß (km).",
-      "score_reward": 1000,
-      "target": 50
     }
   ],
-  "generated_at": "2026-10-06T18:20:17.449313991Z",
+  "generated_at": "2026-10-13T21:18:36.726749355Z",
   "locale": "de-DE",
-  "period_start": "2026-10-06T16:00:00Z",
-  "period_start_local": "2026-10-06T18:00:00+02:00",
-  "reset_at": "2026-10-13T16:00:00Z",
-  "reset_at_local": "2026-10-13T18:00:00+02:00",
+  "period_start": "2026-10-13T16:00:00Z",
+  "period_start_local": "2026-10-13T18:00:00+02:00",
+  "reset_at": "2026-10-20T16:00:00Z",
+  "reset_at_local": "2026-10-20T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

@@ -1,0 +1,76 @@
+{
+  "challenges": [
+    {
+      "name": "Schließe eine tägliche Goldstern-Challenge ab.",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Wiederholbar unter Rang 100: Erhalte EP.",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Wiederholbar ab Rang 100: Schließe ein öffentliches Event ab.",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Baue einen Boden, eine Wand oder ein Dach in Werkstätten oder C.A.M.P.s.",
+      "score_reward": 1000,
+      "target": 25
+    },
+    {
+      "name": "Fange einen Fisch.",
+      "score_reward": 1000,
+      "target": 21
+    },
+    {
+      "name": "Schließe einen Befall ab.",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Stelle Fischhappen her.",
+      "score_reward": 1000,
+      "target": 35
+    },
+    {
+      "name": "Zerstöre einen Roboter.",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Iss Vorkriegsnahrung.",
+      "score_reward": 1000,
+      "target": 25
+    },
+    {
+      "name": "Töte einen Floater.",
+      "score_reward": 1000,
+      "target": 10
+    },
+    {
+      "name": "Töte ein Westentaschenphantom während eines Befalls.",
+      "score_reward": 1000,
+      "target": 20
+    },
+    {
+      "name": "Töte ein ungebetenes Westentaschenphantom.",
+      "score_reward": 1000,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-10-13T21:18:36.726749355Z",
+  "locale": "de-DE",
+  "period_start": "2026-10-13T16:00:00Z",
+  "period_start_local": "2026-10-13T18:00:00+02:00",
+  "reset_at": "2026-10-20T16:00:00Z",
+  "reset_at_local": "2026-10-20T18:00:00+02:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}
