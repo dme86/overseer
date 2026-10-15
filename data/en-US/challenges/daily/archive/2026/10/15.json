@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Scrap junk to produce Steel",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Complete the Quest: \"Disturbed Grave\"",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Cook Grilled Fish while Intoxicated",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill a Lost during the \"Mischief Night\" Event",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Kill a Mirelurk",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom during an Infestation",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Sell Grilled Fish to an NPC vendor",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-10-15T19:55:31.789019508Z",
+  "locale": "en-US",
+  "period_start": "2026-10-15T16:00:00Z",
+  "period_start_local": "2026-10-15T12:00:00-04:00",
+  "reset_at": "2026-10-16T16:00:00Z",
+  "reset_at_local": "2026-10-16T12:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

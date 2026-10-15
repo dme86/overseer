@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Ernte einen Feuerhut.",
+      "name": "Verwerte Schrott, um Stahl herzustellen.",
       "score_reward": 250,
-      "target": 5
+      "target": 10
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Sammle Toilettenpapier.",
-      "score_reward": 250,
-      "target": 2
-    },
-    {
-      "name": "Schließe eine tägliche Operation in einem öffentlichen Team ab!",
+      "name": "Schließe die Quest \"Geschändete Gräber\" ab.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Iss Vorkriegsnahrung.",
+      "name": "Koche gegrillten Fisch, während du berauscht bist.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Töte einen Verlorenen während des \"Nacht des Unfugs\"-Events",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Töte einen Mirelurk.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Töte eine Kreatur, während du ein Kostüm trägst.",
+      "name": "Töte ein Westentaschenphantom während eines Befalls.",
       "score_reward": 250,
-      "target": 10
+      "target": 6
     },
     {
-      "name": "Töte einen Gegner während einer täglichen Operation!",
+      "name": "Verkaufe gegrillten Fisch an einen NPC-Händler.",
       "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Verwerte Schrott, um Kleber herzustellen.",
-      "score_reward": 250,
-      "target": 5
+      "target": null
     }
   ],
-  "generated_at": "2026-10-14T20:13:34.532907554Z",
+  "generated_at": "2026-10-15T19:55:31.789019508Z",
   "locale": "de-DE",
-  "period_start": "2026-10-14T16:00:00Z",
-  "period_start_local": "2026-10-14T18:00:00+02:00",
-  "reset_at": "2026-10-15T16:00:00Z",
-  "reset_at_local": "2026-10-15T18:00:00+02:00",
+  "period_start": "2026-10-15T16:00:00Z",
+  "period_start_local": "2026-10-15T18:00:00+02:00",
+  "reset_at": "2026-10-16T16:00:00Z",
+  "reset_at_local": "2026-10-16T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
