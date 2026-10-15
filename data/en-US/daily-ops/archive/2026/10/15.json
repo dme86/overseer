@@ -1,0 +1,21 @@
+{
+  "enemies": "Fanatics",
+  "generated_at": "2026-10-15T16:58:15.064790416Z",
+  "locale": "en-US",
+  "location": "Garrahan Mining Headquarter",
+  "mode": "Decryption",
+  "mutations": [
+    "Savage Strike",
+    "Danger Cloud"
+  ],
+  "period_start": "2026-10-15T16:00:00Z",
+  "period_start_local": "2026-10-15T12:00:00-04:00",
+  "reset_at": "2026-10-16T16:00:00Z",
+  "reset_at_local": "2026-10-16T12:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}
