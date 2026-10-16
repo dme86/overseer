@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Verwerte Schrott, um Stahl herzustellen.",
+      "name": "Verkrüppele ein Verbrannten-Bein.",
       "score_reward": 250,
-      "target": 10
+      "target": 2
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Schließe die Quest \"Geschändete Gräber\" ab.",
+      "name": "Fange einen Fisch in der Cranberry-Bog-Region.",
       "score_reward": 250,
-      "target": null
+      "target": 2
     },
     {
-      "name": "Koche gegrillten Fisch, während du berauscht bist.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Töte einen Verlorenen während des \"Nacht des Unfugs\"-Events",
-      "score_reward": 250,
-      "target": 6
-    },
-    {
-      "name": "Töte einen Mirelurk.",
+      "name": "Trinke ein alkoholisches Getränk.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Töte ein Westentaschenphantom während eines Befalls.",
+      "name": "Stelle Fischhappen her.",
       "score_reward": 250,
-      "target": 6
+      "target": 5
     },
     {
-      "name": "Verkaufe gegrillten Fisch an einen NPC-Händler.",
+      "name": "Erhalte EP.",
+      "score_reward": 250,
+      "target": 2500
+    },
+    {
+      "name": "Töte einen Yao Guai.",
       "score_reward": 250,
       "target": null
+    },
+    {
+      "name": "Töte einen Gegner während der Quest \"Geschändete Gräber\" mit einer Schaufel, während du einem Team angehörst.",
+      "score_reward": 250,
+      "target": 6
     }
   ],
-  "generated_at": "2026-10-15T19:55:31.789019508Z",
+  "generated_at": "2026-10-16T16:36:18.055287418Z",
   "locale": "de-DE",
-  "period_start": "2026-10-15T16:00:00Z",
-  "period_start_local": "2026-10-15T18:00:00+02:00",
-  "reset_at": "2026-10-16T16:00:00Z",
-  "reset_at_local": "2026-10-16T18:00:00+02:00",
+  "period_start": "2026-10-16T16:00:00Z",
+  "period_start_local": "2026-10-16T18:00:00+02:00",
+  "reset_at": "2026-10-17T16:00:00Z",
+  "reset_at_local": "2026-10-17T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
