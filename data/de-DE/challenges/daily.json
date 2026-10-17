@@ -1,7 +1,7 @@
 {
   "challenges": [
     {
-      "name": "Verkrüppele ein Verbrannten-Bein.",
+      "name": "Verkrüppele einen Verbrannten-Arm.",
       "score_reward": 250,
       "target": 2
     },
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Fange einen Fisch in der Cranberry-Bog-Region.",
+      "name": "Fange einen Fisch in der Wald-Region.",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Trinke ein alkoholisches Getränk.",
+      "name": "Sammle Mottenmann-Eier.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Koche ein Fleischgericht.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Stelle Fischhappen her.",
+      "name": "Töte ein Brahmin.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Töte ein Westentaschenphantom, während du ein Kostüm trägst.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Erhalte EP.",
-      "score_reward": 250,
-      "target": 2500
-    },
-    {
-      "name": "Töte einen Yao Guai.",
+      "name": "Verkaufe Mottenmann-Eieromeletts an NPC-Verkäufer.",
       "score_reward": 250,
       "target": null
-    },
-    {
-      "name": "Töte einen Gegner während der Quest \"Geschändete Gräber\" mit einer Schaufel, während du einem Team angehörst.",
-      "score_reward": 250,
-      "target": 6
     }
   ],
-  "generated_at": "2026-10-16T16:36:18.055287418Z",
+  "generated_at": "2026-10-17T18:32:03.100434827Z",
   "locale": "de-DE",
-  "period_start": "2026-10-16T16:00:00Z",
-  "period_start_local": "2026-10-16T18:00:00+02:00",
-  "reset_at": "2026-10-17T16:00:00Z",
-  "reset_at_local": "2026-10-17T18:00:00+02:00",
+  "period_start": "2026-10-17T16:00:00Z",
+  "period_start_local": "2026-10-17T18:00:00+02:00",
+  "reset_at": "2026-10-18T16:00:00Z",
+  "reset_at_local": "2026-10-18T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

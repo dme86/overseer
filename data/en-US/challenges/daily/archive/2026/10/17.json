@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Cripple a Scorched's Arm",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Catch a Fish in the Forest Region",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Collect Mothman Eggs",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Cook a Meat-Based Meal",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Kill a Brahmin",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom while wearing a Costume",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Sell Mothman Egg Omelette to an NPC vendor",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-10-17T18:32:03.100434827Z",
+  "locale": "en-US",
+  "period_start": "2026-10-17T16:00:00Z",
+  "period_start_local": "2026-10-17T12:00:00-04:00",
+  "reset_at": "2026-10-18T16:00:00Z",
+  "reset_at_local": "2026-10-18T12:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}
