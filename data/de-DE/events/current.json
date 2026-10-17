@@ -36,7 +36,7 @@
       "url": "https://nukaknights.com/event/6260987344018982/doppelmutationen/"
     }
   ],
-  "generated_at": "2026-10-15T16:58:15.064790416Z",
+  "generated_at": "2026-10-17T10:40:08.590044373Z",
   "locale": "de-DE",
   "schema_version": 1,
   "source": {
@@ -56,6 +56,18 @@
       ],
       "title": "Minerva (Liste 5)",
       "url": "https://nukaknights.com/event/6260987344018966/minerva-liste-5/"
+    },
+    {
+      "active": false,
+      "ends_at": null,
+      "ends_at_local": null,
+      "starts_at": "2026-10-20T14:00:00Z",
+      "starts_at_local": "2026-10-20T16:00:00+02:00",
+      "tags": [
+        "maintenance"
+      ],
+      "title": "Update / Wartung für Mid-Season Patch 71 (Bugfixes)",
+      "url": "https://nukaknights.com/event/6260987344018997/update--wartung-fuer-mid-season-patch-71-bugfixes/"
     },
     {
       "active": false,
