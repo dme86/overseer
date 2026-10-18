@@ -1,7 +1,7 @@
 {
   "challenges": [
     {
-      "name": "Cripple a Scorched's Arm",
+      "name": "Cripple a Super Mutant's Head",
       "score_reward": 250,
       "target": 2
     },
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Catch a Fish in the Forest Region",
-      "score_reward": 250,
-      "target": 2
-    },
-    {
-      "name": "Collect Mothman Eggs",
+      "name": "Catch a Fish",
       "score_reward": 250,
       "target": 3
     },
     {
-      "name": "Cook a Meat-Based Meal",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Kill a Brahmin",
-      "score_reward": 250,
-      "target": 2
-    },
-    {
-      "name": "Kill a Pint-Sized Phantom while wearing a Costume",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Sell Mothman Egg Omelette to an NPC vendor",
+      "name": "Complete a Daily Operation on a Public Team!",
       "score_reward": 250,
       "target": null
+    },
+    {
+      "name": "Cripple enemy limbs",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Destroy a Robot",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Eat a Raw Fish",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom",
+      "score_reward": 250,
+      "target": 10
     }
   ],
-  "generated_at": "2026-10-17T18:32:03.100434827Z",
+  "generated_at": "2026-10-18T18:40:11.380995236Z",
   "locale": "en-US",
-  "period_start": "2026-10-17T16:00:00Z",
-  "period_start_local": "2026-10-17T12:00:00-04:00",
-  "reset_at": "2026-10-18T16:00:00Z",
-  "reset_at_local": "2026-10-18T12:00:00-04:00",
+  "period_start": "2026-10-18T16:00:00Z",
+  "period_start_local": "2026-10-18T12:00:00-04:00",
+  "reset_at": "2026-10-19T16:00:00Z",
+  "reset_at_local": "2026-10-19T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

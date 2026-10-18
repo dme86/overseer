@@ -1,17 +1,17 @@
 {
-  "enemies": "Robots",
-  "generated_at": "2026-10-17T18:32:03.100434827Z",
+  "enemies": "Mole Miners",
+  "generated_at": "2026-10-18T18:40:11.380995236Z",
   "locale": "en-US",
-  "location": "Glassed Cavern",
-  "mode": "Decryption",
+  "location": "Watoga Raider Arena",
+  "mode": "Uplink",
   "mutations": [
-    "Savage Strike",
-    "Active Camouflage + Volatile"
+    "Piercing Gaze",
+    "Swift-Footed + Freezing Touch"
   ],
-  "period_start": "2026-10-17T16:00:00Z",
-  "period_start_local": "2026-10-17T12:00:00-04:00",
-  "reset_at": "2026-10-18T16:00:00Z",
-  "reset_at_local": "2026-10-18T12:00:00-04:00",
+  "period_start": "2026-10-18T16:00:00Z",
+  "period_start_local": "2026-10-18T12:00:00-04:00",
+  "reset_at": "2026-10-19T16:00:00Z",
+  "reset_at_local": "2026-10-19T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
