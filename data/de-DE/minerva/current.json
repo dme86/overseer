@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-10-12T23:01:25.393350391Z",
+  "generated_at": "2026-10-19T21:06:32.885697032Z",
   "locale": "de-DE",
-  "sale": null,
+  "sale": {
+    "active": true,
+    "big_sale": false,
+    "ends_at": "2026-10-21T16:00:00Z",
+    "ends_at_local": "2026-10-21T18:00:00+02:00",
+    "inventory_complete": true,
+    "items": [
+      {
+        "name": "Bauplan: Gauss-Minigun",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: Gauss-Pistole (justierter kurzer Lauf)",
+        "price_gold": 113
+      },
+      {
+        "name": "Bauplan: Gauss-Pistole (Trommelmagazin)",
+        "price_gold": 75
+      },
+      {
+        "name": "Bauplan: Gauss-Pistole (präzisierter Verschluss)",
+        "price_gold": 150
+      },
+      {
+        "name": "Bauplan: Secret-Service-Unterrüstung (schützendes Futter)",
+        "price_gold": 113
+      },
+      {
+        "name": "Bauplan: Secret-Service-Unterrüstung (abschirmendes Futter)",
+        "price_gold": 150
+      },
+      {
+        "name": "Bauplan: Dornenrüstung - Brustteil",
+        "price_gold": 750
+      },
+      {
+        "name": "Bauplan: Dornenrüstung - Linker Arm",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: Dornenrüstung - Linkes Bein",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: Dornenrüstung - Rechter Arm",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: Dornenrüstung - Rechtes Bein",
+        "price_gold": 563
+      }
+    ],
+    "list": 5,
+    "location": "Foundation",
+    "starts_at": "2026-10-19T16:00:00Z",
+    "starts_at_local": "2026-10-19T18:00:00+02:00"
+  },
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

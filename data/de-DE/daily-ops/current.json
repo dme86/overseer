@@ -1,17 +1,17 @@
 {
-  "enemies": "Grubenhauer",
-  "generated_at": "2026-10-18T18:40:11.380995236Z",
+  "enemies": "Supermutanten",
+  "generated_at": "2026-10-19T21:06:32.885697032Z",
   "locale": "de-DE",
-  "location": "Watoga Raider Arena",
-  "mode": "Verbindungsgerät",
+  "location": "Charleston Capitol Building",
+  "mode": "Entschlüsselung",
   "mutations": [
-    "Tödlicher Blick",
-    "Flink + Eisige Berührung"
+    "Wilder Schlag",
+    "Flink + Explosiv"
   ],
-  "period_start": "2026-10-18T16:00:00Z",
-  "period_start_local": "2026-10-18T18:00:00+02:00",
-  "reset_at": "2026-10-19T16:00:00Z",
-  "reset_at_local": "2026-10-19T18:00:00+02:00",
+  "period_start": "2026-10-19T16:00:00Z",
+  "period_start_local": "2026-10-19T18:00:00+02:00",
+  "reset_at": "2026-10-20T16:00:00Z",
+  "reset_at_local": "2026-10-20T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

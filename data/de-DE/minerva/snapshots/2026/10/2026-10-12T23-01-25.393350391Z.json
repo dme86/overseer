@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-10-12T23:01:25.393350391Z",
+  "locale": "de-DE",
+  "sale": null,
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/minerva.html"
+  },
+  "timezone": "Europe/Berlin"
+}

@@ -25,28 +25,6 @@
     },
     {
       "active": true,
-      "ends_at": "2026-10-19T16:00:00Z",
-      "ends_at_local": "2026-10-19T12:00:00-04:00",
-      "starts_at": "2026-10-15T16:00:00Z",
-      "starts_at_local": "2026-10-15T12:00:00-04:00",
-      "tags": [
-        "double_mutations"
-      ],
-      "title": "Double Mutations",
-      "url": "https://nukaknights.com/events/6260987344018982/double-mutations/"
-    }
-  ],
-  "generated_at": "2026-10-17T10:40:08.590044373Z",
-  "locale": "en-US",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-calendar.html"
-  },
-  "timezone": "America/New_York",
-  "upcoming": [
-    {
-      "active": false,
       "ends_at": "2026-10-21T16:00:00Z",
       "ends_at_local": "2026-10-21T12:00:00-04:00",
       "starts_at": "2026-10-19T16:00:00Z",
@@ -56,7 +34,17 @@
       ],
       "title": "Minerva (List 5)",
       "url": "https://nukaknights.com/events/6260987344018966/minerva-list-5/"
-    },
+    }
+  ],
+  "generated_at": "2026-10-19T21:06:32.885697032Z",
+  "locale": "en-US",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-calendar.html"
+  },
+  "timezone": "America/New_York",
+  "upcoming": [
     {
       "active": false,
       "ends_at": null,

@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Cripple a Super Mutant's Arm",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Complete an Infestation",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Craft Fish Bits",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Deal Fire Damage to Enemies",
+      "score_reward": 250,
+      "target": 100
+    },
+    {
+      "name": "Eat a Fish Bit",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Eat a box of Sugar Bombs",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom while on a Team and wearing a Costume",
+      "score_reward": 250,
+      "target": 5
+    }
+  ],
+  "generated_at": "2026-10-19T21:06:32.885697032Z",
+  "locale": "en-US",
+  "period_start": "2026-10-19T16:00:00Z",
+  "period_start_local": "2026-10-19T12:00:00-04:00",
+  "reset_at": "2026-10-20T16:00:00Z",
+  "reset_at_local": "2026-10-20T12:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}
