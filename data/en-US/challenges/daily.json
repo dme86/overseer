@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Cripple a Super Mutant's Arm",
+      "name": "Chew some Bubblegum",
       "score_reward": 250,
-      "target": 2
+      "target": null
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Complete an Infestation",
+      "name": "Complete an Event or Activity",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Craft Fish Bits",
+      "name": "Cripple a Spooky Scorched's Leg",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Eat Mystery Candy",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Kill a Spooky Scorched",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Plant a Crop in a Workshop or C.A.M.P.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Deal Fire Damage to Enemies",
+      "name": "Travel on foot (KM)",
       "score_reward": 250,
-      "target": 100
-    },
-    {
-      "name": "Eat a Fish Bit",
-      "score_reward": 250,
-      "target": 6
-    },
-    {
-      "name": "Eat a box of Sugar Bombs",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Kill a Pint-Sized Phantom while on a Team and wearing a Costume",
-      "score_reward": 250,
-      "target": 5
+      "target": 10
     }
   ],
-  "generated_at": "2026-10-19T21:06:32.885697032Z",
+  "generated_at": "2026-10-20T20:00:37.490352856Z",
   "locale": "en-US",
-  "period_start": "2026-10-19T16:00:00Z",
-  "period_start_local": "2026-10-19T12:00:00-04:00",
-  "reset_at": "2026-10-20T16:00:00Z",
-  "reset_at_local": "2026-10-20T12:00:00-04:00",
+  "period_start": "2026-10-20T16:00:00Z",
+  "period_start_local": "2026-10-20T12:00:00-04:00",
+  "reset_at": "2026-10-21T16:00:00Z",
+  "reset_at_local": "2026-10-21T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

@@ -1,17 +1,17 @@
 {
-  "enemies": "Supermutanten",
-  "generated_at": "2026-10-19T21:06:32.885697032Z",
+  "enemies": "Kommunisten",
+  "generated_at": "2026-10-20T20:00:37.490352856Z",
   "locale": "de-DE",
-  "location": "Charleston Capitol Building",
-  "mode": "Entschlüsselung",
+  "location": "Das brennende Bergwerk",
+  "mode": "Verbindungsgerät",
   "mutations": [
-    "Wilder Schlag",
-    "Flink + Explosiv"
+    "Tödlicher Blick",
+    "Eisige Berührung"
   ],
-  "period_start": "2026-10-19T16:00:00Z",
-  "period_start_local": "2026-10-19T18:00:00+02:00",
-  "reset_at": "2026-10-20T16:00:00Z",
-  "reset_at_local": "2026-10-20T18:00:00+02:00",
+  "period_start": "2026-10-20T16:00:00Z",
+  "period_start_local": "2026-10-20T18:00:00+02:00",
+  "reset_at": "2026-10-21T16:00:00Z",
+  "reset_at_local": "2026-10-21T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

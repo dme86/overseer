@@ -1,0 +1,71 @@
+{
+  "challenges": [
+    {
+      "name": "Schließe eine tägliche Goldstern-Challenge ab.",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Wiederholbar unter Rang 100: Erhalte EP.",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Wiederholbar ab Rang 100: Schließe ein öffentliches Event ab.",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Sammle Kronkorken.",
+      "score_reward": 1000,
+      "target": 2500
+    },
+    {
+      "name": "Sammle einen Gartenzwerg.",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Schließe tägliche Operationen in einem öffentlichen Team ab!",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Schließe eine Routinejagd ab.",
+      "score_reward": 1000,
+      "target": 10
+    },
+    {
+      "name": "Zerstöre einen Roboter.",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Ernte eine Wildpflanze oder einen Pilz.",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Töte ein Westentaschenphantom, während du ein Kostüm trägst.",
+      "score_reward": 1000,
+      "target": 18
+    },
+    {
+      "name": "Töte einen Verbrannten.",
+      "score_reward": 1000,
+      "target": 30
+    }
+  ],
+  "generated_at": "2026-10-20T20:00:37.490352856Z",
+  "locale": "de-DE",
+  "period_start": "2026-10-20T16:00:00Z",
+  "period_start_local": "2026-10-20T18:00:00+02:00",
+  "reset_at": "2026-10-27T16:00:00Z",
+  "reset_at_local": "2026-10-27T17:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

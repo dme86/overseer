@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Verkrüppele einen Supermutanten-Arm.",
+      "name": "Kaue Kaugummi.",
       "score_reward": 250,
-      "target": 2
+      "target": null
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Schließe einen Befall ab.",
+      "name": "Schließe ein Event oder eine Aktivität ab.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Stelle Fischhappen her.",
+      "name": "Verkrüppele ein Bein eines gruseligen Verbrannten.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Iss geheimnisvolle Süßigkeiten.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Töte einen gruseligen Verbrannten.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Pflanze etwas in einer Werkstatt oder einem C.A.M.P. an.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Füge Gegnern Feuerschaden zu.",
+      "name": "Gehe zu Fuß (km).",
       "score_reward": 250,
-      "target": 100
-    },
-    {
-      "name": "Iss einen Fischhappen.",
-      "score_reward": 250,
-      "target": 6
-    },
-    {
-      "name": "Iss eine Packung Zuckerbomben.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Töte ein Westentaschenphantom, während du einem Team angehörst und ein Kostüm trägst.",
-      "score_reward": 250,
-      "target": 5
+      "target": 10
     }
   ],
-  "generated_at": "2026-10-19T21:06:32.885697032Z",
+  "generated_at": "2026-10-20T20:00:37.490352856Z",
   "locale": "de-DE",
-  "period_start": "2026-10-19T16:00:00Z",
-  "period_start_local": "2026-10-19T18:00:00+02:00",
-  "reset_at": "2026-10-20T16:00:00Z",
-  "reset_at_local": "2026-10-20T18:00:00+02:00",
+  "period_start": "2026-10-20T16:00:00Z",
+  "period_start_local": "2026-10-20T18:00:00+02:00",
+  "reset_at": "2026-10-21T16:00:00Z",
+  "reset_at_local": "2026-10-21T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

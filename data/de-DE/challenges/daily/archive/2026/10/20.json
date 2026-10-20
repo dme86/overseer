@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Kaue Kaugummi.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Schließe ein Event oder eine Aktivität ab.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Verkrüppele ein Bein eines gruseligen Verbrannten.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Iss geheimnisvolle Süßigkeiten.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Töte einen gruseligen Verbrannten.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Pflanze etwas in einer Werkstatt oder einem C.A.M.P. an.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Gehe zu Fuß (km).",
+      "score_reward": 250,
+      "target": 10
+    }
+  ],
+  "generated_at": "2026-10-20T20:00:37.490352856Z",
+  "locale": "de-DE",
+  "period_start": "2026-10-20T16:00:00Z",
+  "period_start_local": "2026-10-20T18:00:00+02:00",
+  "reset_at": "2026-10-21T16:00:00Z",
+  "reset_at_local": "2026-10-21T18:00:00+02:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

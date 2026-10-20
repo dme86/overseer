@@ -1,17 +1,17 @@
 {
-  "enemies": "Super Mutants",
-  "generated_at": "2026-10-19T21:06:32.885697032Z",
+  "enemies": "Communists",
+  "generated_at": "2026-10-20T20:00:37.490352856Z",
   "locale": "en-US",
-  "location": "Charleston Capitol Building",
-  "mode": "Decryption",
+  "location": "The Burning Mine",
+  "mode": "Uplink",
   "mutations": [
-    "Savage Strike",
-    "Swift-Footed + Volatile"
+    "Piercing Gaze",
+    "Freezing Touch"
   ],
-  "period_start": "2026-10-19T16:00:00Z",
-  "period_start_local": "2026-10-19T12:00:00-04:00",
-  "reset_at": "2026-10-20T16:00:00Z",
-  "reset_at_local": "2026-10-20T12:00:00-04:00",
+  "period_start": "2026-10-20T16:00:00Z",
+  "period_start_local": "2026-10-20T12:00:00-04:00",
+  "reset_at": "2026-10-21T16:00:00Z",
+  "reset_at_local": "2026-10-21T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

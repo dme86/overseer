@@ -16,24 +16,24 @@
       "target": 3
     },
     {
-      "name": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
+      "name": "Collect Caps",
       "score_reward": 1000,
-      "target": 25
+      "target": 2500
     },
     {
-      "name": "Catch a Fish",
+      "name": "Collect a Garden Gnome",
       "score_reward": 1000,
-      "target": 21
+      "target": 5
     },
     {
-      "name": "Complete an Infestation",
+      "name": "Complete Daily Operations on a Public Team!",
       "score_reward": 1000,
-      "target": 3
+      "target": 5
     },
     {
-      "name": "Craft Fish Bits",
+      "name": "Complete a Grunt Hunt",
       "score_reward": 1000,
-      "target": 35
+      "target": 10
     },
     {
       "name": "Destroy a Robot",
@@ -41,32 +41,27 @@
       "target": 30
     },
     {
-      "name": "Eat Pre-war Food",
+      "name": "Harvest a Wild Plant or Fungi",
       "score_reward": 1000,
-      "target": 25
+      "target": 30
     },
     {
-      "name": "Kill a Floater",
+      "name": "Kill a Pint-Sized Phantom while wearing a Costume",
       "score_reward": 1000,
-      "target": 10
+      "target": 18
     },
     {
-      "name": "Kill a Pint-Sized Phantom during an Infestation",
+      "name": "Kill a Scorched",
       "score_reward": 1000,
-      "target": 20
-    },
-    {
-      "name": "Kill an Uninvited Pint-Sized Phantom",
-      "score_reward": 1000,
-      "target": null
+      "target": 30
     }
   ],
-  "generated_at": "2026-10-13T21:18:36.726749355Z",
+  "generated_at": "2026-10-20T20:00:37.490352856Z",
   "locale": "en-US",
-  "period_start": "2026-10-13T16:00:00Z",
-  "period_start_local": "2026-10-13T12:00:00-04:00",
-  "reset_at": "2026-10-20T16:00:00Z",
-  "reset_at_local": "2026-10-20T12:00:00-04:00",
+  "period_start": "2026-10-20T16:00:00Z",
+  "period_start_local": "2026-10-20T12:00:00-04:00",
+  "reset_at": "2026-10-27T16:00:00Z",
+  "reset_at_local": "2026-10-27T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

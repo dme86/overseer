@@ -1,0 +1,71 @@
+{
+  "challenges": [
+    {
+      "name": "Complete a Gold Star Daily Challenge!",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Repeatable Under Rank 100: Gain XP",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Repeatable at Rank 100 or above: Complete a Public Event",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Collect Caps",
+      "score_reward": 1000,
+      "target": 2500
+    },
+    {
+      "name": "Collect a Garden Gnome",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Complete Daily Operations on a Public Team!",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Complete a Grunt Hunt",
+      "score_reward": 1000,
+      "target": 10
+    },
+    {
+      "name": "Destroy a Robot",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Harvest a Wild Plant or Fungi",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom while wearing a Costume",
+      "score_reward": 1000,
+      "target": 18
+    },
+    {
+      "name": "Kill a Scorched",
+      "score_reward": 1000,
+      "target": 30
+    }
+  ],
+  "generated_at": "2026-10-20T20:00:37.490352856Z",
+  "locale": "en-US",
+  "period_start": "2026-10-20T16:00:00Z",
+  "period_start_local": "2026-10-20T12:00:00-04:00",
+  "reset_at": "2026-10-27T16:00:00Z",
+  "reset_at_local": "2026-10-27T12:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

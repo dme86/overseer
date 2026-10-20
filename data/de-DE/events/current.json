@@ -12,19 +12,6 @@
     },
     {
       "active": true,
-      "ends_at": "2026-10-20T16:00:00Z",
-      "ends_at_local": "2026-10-20T18:00:00+02:00",
-      "starts_at": "2026-10-06T16:00:00Z",
-      "starts_at_local": "2026-10-06T18:00:00+02:00",
-      "tags": [
-        "mischief_night",
-        "seasonal_event"
-      ],
-      "title": "Nacht des Unfugs",
-      "url": "https://nukaknights.com/event/6260987344018981/nacht-des-unfugs/"
-    },
-    {
-      "active": true,
       "ends_at": "2026-10-21T16:00:00Z",
       "ends_at_local": "2026-10-21T18:00:00+02:00",
       "starts_at": "2026-10-19T16:00:00Z",
@@ -34,31 +21,9 @@
       ],
       "title": "Minerva (Liste 5)",
       "url": "https://nukaknights.com/event/6260987344018966/minerva-liste-5/"
-    }
-  ],
-  "generated_at": "2026-10-19T21:06:32.885697032Z",
-  "locale": "de-DE",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-kalender.html"
-  },
-  "timezone": "Europe/Berlin",
-  "upcoming": [
-    {
-      "active": false,
-      "ends_at": null,
-      "ends_at_local": null,
-      "starts_at": "2026-10-20T14:00:00Z",
-      "starts_at_local": "2026-10-20T16:00:00+02:00",
-      "tags": [
-        "maintenance"
-      ],
-      "title": "Update / Wartung für Mid-Season Patch 71 (Bugfixes)",
-      "url": "https://nukaknights.com/event/6260987344018997/update--wartung-fuer-mid-season-patch-71-bugfixes/"
     },
     {
-      "active": false,
+      "active": true,
       "ends_at": "2026-11-03T17:00:00Z",
       "ends_at_local": "2026-11-03T18:00:00+01:00",
       "starts_at": "2026-10-20T16:00:00Z",
@@ -69,7 +34,17 @@
       ],
       "title": "Gruselige Verbrannte",
       "url": "https://nukaknights.com/event/6260987344018983/gruselige-verbrannte/"
-    },
+    }
+  ],
+  "generated_at": "2026-10-20T20:00:37.490352856Z",
+  "locale": "de-DE",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-kalender.html"
+  },
+  "timezone": "Europe/Berlin",
+  "upcoming": [
     {
       "active": false,
       "ends_at": "2026-10-26T17:00:00Z",
