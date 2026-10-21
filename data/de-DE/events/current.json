@@ -12,18 +12,6 @@
     },
     {
       "active": true,
-      "ends_at": "2026-10-21T16:00:00Z",
-      "ends_at_local": "2026-10-21T18:00:00+02:00",
-      "starts_at": "2026-10-19T16:00:00Z",
-      "starts_at_local": "2026-10-19T18:00:00+02:00",
-      "tags": [
-        "minerva"
-      ],
-      "title": "Minerva (Liste 5)",
-      "url": "https://nukaknights.com/event/6260987344018966/minerva-liste-5/"
-    },
-    {
-      "active": true,
       "ends_at": "2026-11-03T17:00:00Z",
       "ends_at_local": "2026-11-03T18:00:00+01:00",
       "starts_at": "2026-10-20T16:00:00Z",
@@ -36,7 +24,7 @@
       "url": "https://nukaknights.com/event/6260987344018983/gruselige-verbrannte/"
     }
   ],
-  "generated_at": "2026-10-20T20:00:37.490352856Z",
+  "generated_at": "2026-10-21T17:09:50.209491788Z",
   "locale": "de-DE",
   "schema_version": 1,
   "source": {

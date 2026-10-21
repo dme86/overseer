@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Chew some Bubblegum",
+      "name": "Eat Dog Food",
       "score_reward": 250,
-      "target": null
+      "target": 5
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Complete an Event or Activity",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Cripple a Spooky Scorched's Leg",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Eat Mystery Candy",
+      "name": "Build a Heavy Cryo Turret in a Workshop or C.A.M.P.",
       "score_reward": 250,
       "target": 3
     },
     {
-      "name": "Kill a Spooky Scorched",
+      "name": "Collect a Teapot",
       "score_reward": 250,
-      "target": 10
+      "target": null
     },
     {
-      "name": "Plant a Crop in a Workshop or C.A.M.P.",
+      "name": "Kill a Wendigo",
       "score_reward": 250,
-      "target": 5
+      "target": null
     },
     {
-      "name": "Travel on foot (KM)",
+      "name": "Kill an Enemy in the Forest Region",
       "score_reward": 250,
-      "target": 10
+      "target": 2
+    },
+    {
+      "name": "Scrap junk to produce Antiseptic",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Take a Camera Picture of a Radscorpion",
+      "score_reward": 250,
+      "target": null
     }
   ],
-  "generated_at": "2026-10-20T20:00:37.490352856Z",
+  "generated_at": "2026-10-21T17:09:50.209491788Z",
   "locale": "en-US",
-  "period_start": "2026-10-20T16:00:00Z",
-  "period_start_local": "2026-10-20T12:00:00-04:00",
-  "reset_at": "2026-10-21T16:00:00Z",
-  "reset_at_local": "2026-10-21T12:00:00-04:00",
+  "period_start": "2026-10-21T16:00:00Z",
+  "period_start_local": "2026-10-21T12:00:00-04:00",
+  "reset_at": "2026-10-22T16:00:00Z",
+  "reset_at_local": "2026-10-22T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

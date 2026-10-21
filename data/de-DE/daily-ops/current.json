@@ -1,17 +1,17 @@
 {
-  "enemies": "Kommunisten",
-  "generated_at": "2026-10-20T20:00:37.490352856Z",
+  "enemies": "Westentaschenphantome",
+  "generated_at": "2026-10-21T17:09:50.209491788Z",
   "locale": "de-DE",
-  "location": "Das brennende Bergwerk",
-  "mode": "Verbindungsgerät",
+  "location": "Die Höhlen",
+  "mode": "Entschlüsselung",
   "mutations": [
-    "Tödlicher Blick",
-    "Eisige Berührung"
+    "Wilder Schlag",
+    "Flink"
   ],
-  "period_start": "2026-10-20T16:00:00Z",
-  "period_start_local": "2026-10-20T18:00:00+02:00",
-  "reset_at": "2026-10-21T16:00:00Z",
-  "reset_at_local": "2026-10-21T18:00:00+02:00",
+  "period_start": "2026-10-21T16:00:00Z",
+  "period_start_local": "2026-10-21T18:00:00+02:00",
+  "reset_at": "2026-10-22T16:00:00Z",
+  "reset_at_local": "2026-10-22T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

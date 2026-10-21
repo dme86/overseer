@@ -1,64 +1,7 @@
 {
-  "generated_at": "2026-10-19T21:06:32.885697032Z",
+  "generated_at": "2026-10-21T17:09:50.209491788Z",
   "locale": "en-US",
   "schedule": [
-    {
-      "active": true,
-      "big_sale": false,
-      "ends_at": "2026-10-21T16:00:00Z",
-      "ends_at_local": "2026-10-21T12:00:00-04:00",
-      "inventory_complete": true,
-      "items": [
-        {
-          "name": "Plan: Gauss minigun",
-          "price_gold": 563
-        },
-        {
-          "name": "Plan: Gauss pistol aligned short barrel",
-          "price_gold": 113
-        },
-        {
-          "name": "Plan: Gauss Pistol Drum Magazine",
-          "price_gold": 75
-        },
-        {
-          "name": "Plan: Gauss pistol refined receiver",
-          "price_gold": 150
-        },
-        {
-          "name": "Plan: Protective lining Secret Service underarmor",
-          "price_gold": 113
-        },
-        {
-          "name": "Plan: Shielded lining Secret Service underarmor",
-          "price_gold": 150
-        },
-        {
-          "name": "Plan: Thorn armor chest piece",
-          "price_gold": 750
-        },
-        {
-          "name": "Plan: Thorn armor left arm",
-          "price_gold": 563
-        },
-        {
-          "name": "Plan: Thorn armor left leg",
-          "price_gold": 563
-        },
-        {
-          "name": "Plan: Thorn armor right arm",
-          "price_gold": 563
-        },
-        {
-          "name": "Plan: Thorn armor right leg",
-          "price_gold": 563
-        }
-      ],
-      "list": 5,
-      "location": "Foundation",
-      "starts_at": "2026-10-19T16:00:00Z",
-      "starts_at_local": "2026-10-19T12:00:00-04:00"
-    },
     {
       "active": false,
       "big_sale": false,
