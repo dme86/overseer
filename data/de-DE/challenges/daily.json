@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Iss Hundefutter.",
+      "name": "Verwerte Schrott, um Stahl herzustellen.",
       "score_reward": 250,
-      "target": 5
+      "target": 10
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,47 @@
       "target": 6
     },
     {
-      "name": "Baue einen schweren Kryo-Geschützturm in einer Werkstatt oder einem C.A.M.P.",
+      "name": "Töte Insekten.",
+      "score_reward": 500,
+      "target": 5
+    },
+    {
+      "name": "Beschaffe ein Feuerzeug, eine Zigarette oder Zigarre.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Bereite Maulwurfsratten-Brocken zu.",
       "score_reward": 250,
       "target": 3
     },
     {
-      "name": "Sammle eine Teekanne.",
+      "name": "Iss eine Dose Reis & Bohnen à la Cajun.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Töte einen Wendigo.",
+      "name": "Töte eine Kreatur, während du ein Kostüm trägst.",
       "score_reward": 250,
-      "target": null
+      "target": 10
     },
     {
-      "name": "Töte einen Gegner in der Wald-Region.",
+      "name": "Töte eine Maulwurfsratte.",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
-      "name": "Verwerte Schrott, um Antiseptikum herzustellen.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Schieße mit deiner Kamera ein Foto eines RAD-Skorpions.",
+      "name": "Besuche deine Unterkunft.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-10-21T17:09:50.209491788Z",
+  "generated_at": "2026-10-22T17:08:09.333259532Z",
   "locale": "de-DE",
-  "period_start": "2026-10-21T16:00:00Z",
-  "period_start_local": "2026-10-21T18:00:00+02:00",
-  "reset_at": "2026-10-22T16:00:00Z",
-  "reset_at_local": "2026-10-22T18:00:00+02:00",
+  "period_start": "2026-10-22T16:00:00Z",
+  "period_start_local": "2026-10-22T18:00:00+02:00",
+  "reset_at": "2026-10-23T16:00:00Z",
+  "reset_at_local": "2026-10-23T18:00:00+02:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

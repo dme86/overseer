@@ -1,0 +1,61 @@
+{
+  "challenges": [
+    {
+      "name": "Verwerte Schrott, um Stahl herzustellen.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Töte Insekten.",
+      "score_reward": 500,
+      "target": 5
+    },
+    {
+      "name": "Beschaffe ein Feuerzeug, eine Zigarette oder Zigarre.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Bereite Maulwurfsratten-Brocken zu.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Iss eine Dose Reis & Bohnen à la Cajun.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Töte eine Kreatur, während du ein Kostüm trägst.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte eine Maulwurfsratte.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Besuche deine Unterkunft.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-10-22T17:08:09.333259532Z",
+  "locale": "de-DE",
+  "period_start": "2026-10-22T16:00:00Z",
+  "period_start_local": "2026-10-22T18:00:00+02:00",
+  "reset_at": "2026-10-23T16:00:00Z",
+  "reset_at_local": "2026-10-23T18:00:00+02:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

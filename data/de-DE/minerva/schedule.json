@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:09:50.209491788Z",
+  "generated_at": "2026-10-22T17:08:09.333259532Z",
   "locale": "de-DE",
   "schedule": [
     {
@@ -7,8 +7,57 @@
       "big_sale": false,
       "ends_at": "2026-10-28T17:00:00Z",
       "ends_at_local": "2026-10-28T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
+      "inventory_complete": true,
+      "items": [
+        {
+          "name": "Bauplan: Secret-Service-Rüstung - Körperteile (Leichtbau)",
+          "price_gold": 188
+        },
+        {
+          "name": "Bauplan: Plasmawerfer",
+          "price_gold": 563
+        },
+        {
+          "name": "Bauplan: Secret-Service-Unterrüstung",
+          "price_gold": 188
+        },
+        {
+          "name": "Bauplan: T-65 - Kalibrierte Stoßdämpfer",
+          "price_gold": 563
+        },
+        {
+          "name": "Bauplan: T-65 - Rostige Schlagringe",
+          "price_gold": 188
+        },
+        {
+          "name": "Bauplan: T-65 - Jetpack",
+          "price_gold": 1500
+        },
+        {
+          "name": "Bauplan: Ausweider",
+          "price_gold": 1000
+        },
+        {
+          "name": "Bauplan: Secret-Service-Rüstung - Körperteile (Ultraleichtbau)",
+          "price_gold": 375
+        },
+        {
+          "name": "Bauplan: Kriegsglefe (Flammen-Klinge)",
+          "price_gold": 150
+        },
+        {
+          "name": "Bauplan: Kriegsglefe (Schock-Klinge)",
+          "price_gold": 150
+        },
+        {
+          "name": "Bauplan: Wasserquelle",
+          "price_gold": 563
+        },
+        {
+          "name": "Bauplan: Pfeifen im Dunkeln",
+          "price_gold": 1000
+        }
+      ],
       "list": 6,
       "location": "Crater",
       "starts_at": "2026-10-26T17:00:00Z",
