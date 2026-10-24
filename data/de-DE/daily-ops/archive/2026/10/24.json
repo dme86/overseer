@@ -1,0 +1,21 @@
+{
+  "enemies": "Kommunisten",
+  "generated_at": "2026-10-24T18:49:02.680181866Z",
+  "locale": "de-DE",
+  "location": "Bürgerhaus",
+  "mode": "Verbindungsgerät",
+  "mutations": [
+    "Tödlicher Blick",
+    "Giftiges Blut"
+  ],
+  "period_start": "2026-10-24T16:00:00Z",
+  "period_start_local": "2026-10-24T18:00:00+02:00",
+  "reset_at": "2026-10-25T17:00:00Z",
+  "reset_at_local": "2026-10-25T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

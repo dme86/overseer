@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Drink Purified Water",
+      "name": "Eat Pre-war Food",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Collect Purified Water",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Gain XP",
-      "score_reward": 250,
-      "target": 2500
-    },
-    {
-      "name": "Kill a Feral Ghoul",
+      "name": "Build Anything in a Shelter",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Kill a Spooky Scorched",
+      "name": "Collect a Teddy Bear",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Kill a Creature while in a Team",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Pick a Lock",
+      "name": "Kill a Human Enemy with a Power Tool Weapon",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Scrap junk to produce Silver",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Use Photomode in your own C.A.M.P.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-10-23T17:04:16.635859092Z",
+  "generated_at": "2026-10-24T18:49:02.680181866Z",
   "locale": "en-US",
-  "period_start": "2026-10-23T16:00:00Z",
-  "period_start_local": "2026-10-23T12:00:00-04:00",
-  "reset_at": "2026-10-24T16:00:00Z",
-  "reset_at_local": "2026-10-24T12:00:00-04:00",
+  "period_start": "2026-10-24T16:00:00Z",
+  "period_start_local": "2026-10-24T12:00:00-04:00",
+  "reset_at": "2026-10-25T16:00:00Z",
+  "reset_at_local": "2026-10-25T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

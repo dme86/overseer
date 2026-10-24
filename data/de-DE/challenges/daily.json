@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Trinke aufbereitetes Wasser.",
+      "name": "Iss Vorkriegsnahrung.",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Baue einen Boden, eine Wand oder ein Dach in Werkstätten oder C.A.M.P.s.",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Sammle aufbereitetes Wasser.",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Erhalte EP.",
-      "score_reward": 250,
-      "target": 2500
-    },
-    {
-      "name": "Töte einen Wilden Ghul.",
+      "name": "Baue etwas in einer Unterkunft.",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Töte einen gruseligen Verbrannten.",
+      "name": "Sammle eine Teddybären.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Töte eine Kreatur, während du in einem Team bist.",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Knacke ein Schloss.",
+      "name": "Töte einen menschlichen Gegner mit einer Elektrowerkzeug-Waffe.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Verwerte Schrott, um Silber herzustellen.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Benutze den Fotomodus in deinem C.A.M.P.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-10-23T17:04:16.635859092Z",
+  "generated_at": "2026-10-24T18:49:02.680181866Z",
   "locale": "de-DE",
-  "period_start": "2026-10-23T16:00:00Z",
-  "period_start_local": "2026-10-23T18:00:00+02:00",
-  "reset_at": "2026-10-24T16:00:00Z",
-  "reset_at_local": "2026-10-24T18:00:00+02:00",
+  "period_start": "2026-10-24T16:00:00Z",
+  "period_start_local": "2026-10-24T18:00:00+02:00",
+  "reset_at": "2026-10-25T17:00:00Z",
+  "reset_at_local": "2026-10-25T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
