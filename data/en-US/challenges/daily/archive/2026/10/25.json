@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Drink Nuka-Cola Dark",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Complete a Daily Quest",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Craft a Grenade, Mine, or Thrown Weapon",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Drink Canned Coffee",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill a Human while under the effects of Psycho",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Kill a Spooky Scorched",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Sell a Tesla Rifle to an NPC vendor",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-10-25T19:05:13.734869982Z",
+  "locale": "en-US",
+  "period_start": "2026-10-25T16:00:00Z",
+  "period_start_local": "2026-10-25T12:00:00-04:00",
+  "reset_at": "2026-10-26T16:00:00Z",
+  "reset_at_local": "2026-10-26T12:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

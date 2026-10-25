@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Eat Pre-war Food",
+      "name": "Drink Nuka-Cola Dark",
       "score_reward": 250,
-      "target": 5
+      "target": 2
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Build Anything in a Shelter",
+      "name": "Complete a Daily Quest",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Craft a Grenade, Mine, or Thrown Weapon",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Drink Canned Coffee",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill a Human while under the effects of Psycho",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Kill a Spooky Scorched",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Collect a Teddy Bear",
-      "score_reward": 250,
-      "target": 3
-    },
-    {
-      "name": "Kill a Creature while in a Team",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Kill a Human Enemy with a Power Tool Weapon",
-      "score_reward": 250,
-      "target": 3
-    },
-    {
-      "name": "Scrap junk to produce Silver",
-      "score_reward": 250,
-      "target": 3
-    },
-    {
-      "name": "Use Photomode in your own C.A.M.P.",
+      "name": "Sell a Tesla Rifle to an NPC vendor",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-10-25T04:37:37.029664487Z",
+  "generated_at": "2026-10-25T19:05:13.734869982Z",
   "locale": "en-US",
-  "period_start": "2026-10-24T15:00:00Z",
-  "period_start_local": "2026-10-24T11:00:00-04:00",
-  "reset_at": "2026-10-25T15:00:00Z",
-  "reset_at_local": "2026-10-25T11:00:00-04:00",
+  "period_start": "2026-10-25T16:00:00Z",
+  "period_start_local": "2026-10-25T12:00:00-04:00",
+  "reset_at": "2026-10-26T16:00:00Z",
+  "reset_at_local": "2026-10-26T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
