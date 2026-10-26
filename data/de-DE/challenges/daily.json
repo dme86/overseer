@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Trinke Nuka-Cola Dark.",
+      "name": "Trinke ein alkoholisches Getränk.",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Schließe eine Tagesquest ab.",
+      "name": "Baue einen Generator in einem C.A.M.P. oder einer Werkstatt.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Stelle eine Granate, Mine oder Wurfwaffe her.",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Trinke Dosenkaffee.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Töte einen menschlichen Gegner, während du unter dem Einfluss von Psycho stehst.",
-      "score_reward": 250,
-      "target": 6
-    },
-    {
-      "name": "Töte einen gruseligen Verbrannten.",
+      "name": "Sammle Vorkriegsgeld auf.",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Verkaufe ein Teslagewehr an einen NPC-Händler.",
+      "name": "Sammle einen Pümpel auf.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Schließe eine tägliche Operation ab!",
       "score_reward": 250,
       "target": null
+    },
+    {
+      "name": "Töte einen Supermutanten.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Töte einen Gegner mit einer Energiewaffe.",
+      "score_reward": 250,
+      "target": 8
     }
   ],
-  "generated_at": "2026-10-25T19:05:13.734869982Z",
+  "generated_at": "2026-10-26T21:02:51.500836415Z",
   "locale": "de-DE",
-  "period_start": "2026-10-25T16:00:00Z",
-  "period_start_local": "2026-10-25T17:00:00+01:00",
-  "reset_at": "2026-10-26T16:00:00Z",
-  "reset_at_local": "2026-10-26T17:00:00+01:00",
+  "period_start": "2026-10-26T16:00:00Z",
+  "period_start_local": "2026-10-26T17:00:00+01:00",
+  "reset_at": "2026-10-27T16:00:00Z",
+  "reset_at_local": "2026-10-27T17:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

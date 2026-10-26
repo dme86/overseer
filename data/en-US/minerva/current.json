@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-10-21T17:09:50.209491788Z",
+  "generated_at": "2026-10-26T21:02:51.500836415Z",
   "locale": "en-US",
-  "sale": null,
+  "sale": {
+    "active": true,
+    "big_sale": false,
+    "ends_at": "2026-10-28T17:00:00Z",
+    "ends_at_local": "2026-10-28T13:00:00-04:00",
+    "inventory_complete": true,
+    "items": [
+      {
+        "name": "Plan: Lighter build Secret Service armor limbs",
+        "price_gold": 188
+      },
+      {
+        "name": "Plan: Plasma caster",
+        "price_gold": 563
+      },
+      {
+        "name": "Plan: Secret Service underarmor",
+        "price_gold": 188
+      },
+      {
+        "name": "Plan: T-65 calibrated shocks",
+        "price_gold": 563
+      },
+      {
+        "name": "Plan: T-65 rusty knuckles",
+        "price_gold": 188
+      },
+      {
+        "name": "Plan: T-65 jet pack",
+        "price_gold": 1500
+      },
+      {
+        "name": "Plan: The Gutter",
+        "price_gold": 1000
+      },
+      {
+        "name": "Plan: Ultra-light build Secret Service armor limbs",
+        "price_gold": 375
+      },
+      {
+        "name": "Plan: War glaive flaming blade",
+        "price_gold": 150
+      },
+      {
+        "name": "Plan: War glaive shock blade",
+        "price_gold": 150
+      },
+      {
+        "name": "Plan: Water well",
+        "price_gold": 563
+      },
+      {
+        "name": "Plan: Whistle in the Dark",
+        "price_gold": 1000
+      }
+    ],
+    "list": 6,
+    "location": "Crater",
+    "starts_at": "2026-10-26T17:00:00Z",
+    "starts_at_local": "2026-10-26T13:00:00-04:00"
+  },
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

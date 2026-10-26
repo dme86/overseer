@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Drink Nuka-Cola Dark",
+      "name": "Consume an Alcoholic Beverage",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Complete a Daily Quest",
+      "name": "Build a Generator in a C.A.M.P. or Workshop",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Craft a Grenade, Mine, or Thrown Weapon",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Drink Canned Coffee",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Kill a Human while under the effects of Psycho",
-      "score_reward": 250,
-      "target": 6
-    },
-    {
-      "name": "Kill a Spooky Scorched",
+      "name": "Collect Pre-War Money",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Sell a Tesla Rifle to an NPC vendor",
+      "name": "Collect a Plunger",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Complete a Daily Operation!",
       "score_reward": 250,
       "target": null
+    },
+    {
+      "name": "Kill a Super Mutant",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Kill an Enemy with any Energy Weapon",
+      "score_reward": 250,
+      "target": 8
     }
   ],
-  "generated_at": "2026-10-25T19:05:13.734869982Z",
+  "generated_at": "2026-10-26T21:02:51.500836415Z",
   "locale": "en-US",
-  "period_start": "2026-10-25T16:00:00Z",
-  "period_start_local": "2026-10-25T12:00:00-04:00",
-  "reset_at": "2026-10-26T16:00:00Z",
-  "reset_at_local": "2026-10-26T12:00:00-04:00",
+  "period_start": "2026-10-26T16:00:00Z",
+  "period_start_local": "2026-10-26T12:00:00-04:00",
+  "reset_at": "2026-10-27T16:00:00Z",
+  "reset_at_local": "2026-10-27T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

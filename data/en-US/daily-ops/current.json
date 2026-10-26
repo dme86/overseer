@@ -1,17 +1,17 @@
 {
-  "enemies": "Pint-Sized Phantoms",
-  "generated_at": "2026-10-25T19:05:13.734869982Z",
+  "enemies": "Overgrown",
+  "generated_at": "2026-10-26T21:02:51.500836415Z",
   "locale": "en-US",
-  "location": "West Tek",
-  "mode": "Decryption",
+  "location": "The Burrows",
+  "mode": "Uplink",
   "mutations": [
-    "Savage Strike",
-    "Group Regeneration"
+    "Piercing Gaze",
+    "Active Camouflage"
   ],
-  "period_start": "2026-10-25T16:00:00Z",
-  "period_start_local": "2026-10-25T12:00:00-04:00",
-  "reset_at": "2026-10-26T16:00:00Z",
-  "reset_at_local": "2026-10-26T12:00:00-04:00",
+  "period_start": "2026-10-26T16:00:00Z",
+  "period_start_local": "2026-10-26T12:00:00-04:00",
+  "reset_at": "2026-10-27T16:00:00Z",
+  "reset_at_local": "2026-10-27T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
