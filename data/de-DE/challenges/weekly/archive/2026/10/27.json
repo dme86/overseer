@@ -1,0 +1,76 @@
+{
+  "challenges": [
+    {
+      "name": "Schließe eine tägliche Goldstern-Challenge ab.",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Wiederholbar unter Rang 100: Erhalte EP.",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Wiederholbar ab Rang 100: Schließe ein öffentliches Event ab.",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Sammle einen Treibstofftank oder Gaskanister.",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Schließe tägliche Operationen ab!",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Stelle ein beliebiges Plüschtier an einer Bastelwerkbank her.",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Verkrüppele ein Bein eines gruseligen Verbrannten.",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Trinke Nuka-Grape.",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Trinke Nuka-Orange.",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Töte eine Kreatur.",
+      "score_reward": 1000,
+      "target": 25
+    },
+    {
+      "name": "Töte eine Kreatur, während du ein Kostüm trägst.",
+      "score_reward": 1000,
+      "target": 20
+    },
+    {
+      "name": "Konsumiere ein Chem.",
+      "score_reward": 1000,
+      "target": 9
+    }
+  ],
+  "generated_at": "2026-10-27T17:58:36.359134969Z",
+  "locale": "de-DE",
+  "period_start": "2026-10-27T16:00:00Z",
+  "period_start_local": "2026-10-27T17:00:00+01:00",
+  "reset_at": "2026-11-03T17:00:00Z",
+  "reset_at_local": "2026-11-03T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

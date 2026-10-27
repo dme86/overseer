@@ -1,7 +1,7 @@
 {
   "challenges": [
     {
-      "name": "Consume an Alcoholic Beverage",
+      "name": "Scrap junk to produce Aluminum",
       "score_reward": 250,
       "target": 5
     },
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Build a Generator in a C.A.M.P. or Workshop",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Collect Pre-War Money",
+      "name": "Cripple a Spooky Scorched's Leg",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Collect a Plunger",
+      "name": "Eat a Plant-based Meal",
       "score_reward": 250,
-      "target": 3
+      "target": 10
     },
     {
-      "name": "Complete a Daily Operation!",
+      "name": "Eat a tin of Cram",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Kill a Super Mutant",
+      "name": "Gain XP",
       "score_reward": 250,
-      "target": 5
+      "target": 2500
     },
     {
-      "name": "Kill an Enemy with any Energy Weapon",
+      "name": "Scrap junk to produce Black Titanium",
       "score_reward": 250,
-      "target": 8
+      "target": 3
+    },
+    {
+      "name": "Sell Mutant Hound Chops to an NPC vendor",
+      "score_reward": 250,
+      "target": null
     }
   ],
-  "generated_at": "2026-10-26T21:02:51.500836415Z",
+  "generated_at": "2026-10-27T17:58:36.359134969Z",
   "locale": "en-US",
-  "period_start": "2026-10-26T16:00:00Z",
-  "period_start_local": "2026-10-26T12:00:00-04:00",
-  "reset_at": "2026-10-27T16:00:00Z",
-  "reset_at_local": "2026-10-27T12:00:00-04:00",
+  "period_start": "2026-10-27T16:00:00Z",
+  "period_start_local": "2026-10-27T12:00:00-04:00",
+  "reset_at": "2026-10-28T16:00:00Z",
+  "reset_at_local": "2026-10-28T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

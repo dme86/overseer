@@ -16,52 +16,57 @@
       "target": 3
     },
     {
-      "name": "Sammle Kronkorken.",
-      "score_reward": 1000,
-      "target": 2500
-    },
-    {
-      "name": "Sammle einen Gartenzwerg.",
+      "name": "Sammle einen Treibstofftank oder Gaskanister.",
       "score_reward": 1000,
       "target": 5
     },
     {
-      "name": "Schließe tägliche Operationen in einem öffentlichen Team ab!",
+      "name": "Schließe tägliche Operationen ab!",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Stelle ein beliebiges Plüschtier an einer Bastelwerkbank her.",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Verkrüppele ein Bein eines gruseligen Verbrannten.",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Trinke Nuka-Grape.",
       "score_reward": 1000,
       "target": 5
     },
     {
-      "name": "Schließe eine Routinejagd ab.",
+      "name": "Trinke Nuka-Orange.",
       "score_reward": 1000,
-      "target": 10
+      "target": 5
     },
     {
-      "name": "Zerstöre einen Roboter.",
+      "name": "Töte eine Kreatur.",
       "score_reward": 1000,
-      "target": 30
+      "target": 25
     },
     {
-      "name": "Ernte eine Wildpflanze oder einen Pilz.",
+      "name": "Töte eine Kreatur, während du ein Kostüm trägst.",
       "score_reward": 1000,
-      "target": 30
+      "target": 20
     },
     {
-      "name": "Töte ein Westentaschenphantom, während du ein Kostüm trägst.",
+      "name": "Konsumiere ein Chem.",
       "score_reward": 1000,
-      "target": 18
-    },
-    {
-      "name": "Töte einen Verbrannten.",
-      "score_reward": 1000,
-      "target": 30
+      "target": 9
     }
   ],
-  "generated_at": "2026-10-20T20:00:37.490352856Z",
+  "generated_at": "2026-10-27T17:58:36.359134969Z",
   "locale": "de-DE",
-  "period_start": "2026-10-20T16:00:00Z",
-  "period_start_local": "2026-10-20T18:00:00+02:00",
-  "reset_at": "2026-10-27T16:00:00Z",
-  "reset_at_local": "2026-10-27T17:00:00+01:00",
+  "period_start": "2026-10-27T16:00:00Z",
+  "period_start_local": "2026-10-27T17:00:00+01:00",
+  "reset_at": "2026-11-03T17:00:00Z",
+  "reset_at_local": "2026-11-03T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

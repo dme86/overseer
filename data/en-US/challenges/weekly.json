@@ -16,52 +16,57 @@
       "target": 3
     },
     {
-      "name": "Collect Caps",
-      "score_reward": 1000,
-      "target": 2500
-    },
-    {
-      "name": "Collect a Garden Gnome",
+      "name": "Collect a Fuel Tank or Gas Canister",
       "score_reward": 1000,
       "target": 5
     },
     {
-      "name": "Complete Daily Operations on a Public Team!",
+      "name": "Complete Daily Operations!",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Craft any Plushie at a Tinkerer's Bench",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Cripple a Spooky Scorched's Leg",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Drink Nuka-Grape",
       "score_reward": 1000,
       "target": 5
     },
     {
-      "name": "Complete a Grunt Hunt",
+      "name": "Drink Nuka-Orange",
       "score_reward": 1000,
-      "target": 10
+      "target": 5
     },
     {
-      "name": "Destroy a Robot",
+      "name": "Kill a Creature",
       "score_reward": 1000,
-      "target": 30
+      "target": 25
     },
     {
-      "name": "Harvest a Wild Plant or Fungi",
+      "name": "Kill a Creature while Wearing a Costume",
       "score_reward": 1000,
-      "target": 30
+      "target": 20
     },
     {
-      "name": "Kill a Pint-Sized Phantom while wearing a Costume",
+      "name": "Take a Chem",
       "score_reward": 1000,
-      "target": 18
-    },
-    {
-      "name": "Kill a Scorched",
-      "score_reward": 1000,
-      "target": 30
+      "target": 9
     }
   ],
-  "generated_at": "2026-10-20T20:00:37.490352856Z",
+  "generated_at": "2026-10-27T17:58:36.359134969Z",
   "locale": "en-US",
-  "period_start": "2026-10-20T16:00:00Z",
-  "period_start_local": "2026-10-20T12:00:00-04:00",
-  "reset_at": "2026-10-27T16:00:00Z",
-  "reset_at_local": "2026-10-27T12:00:00-04:00",
+  "period_start": "2026-10-27T16:00:00Z",
+  "period_start_local": "2026-10-27T12:00:00-04:00",
+  "reset_at": "2026-11-03T17:00:00Z",
+  "reset_at_local": "2026-11-03T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

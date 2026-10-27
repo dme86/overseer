@@ -15,8 +15,8 @@
     },
     {
       "active": true,
-      "ends_at": "2026-10-28T17:00:00Z",
-      "ends_at_local": "2026-10-28T13:00:00-04:00",
+      "ends_at": "2026-10-28T16:00:00Z",
+      "ends_at_local": "2026-10-28T12:00:00-04:00",
       "starts_at": "2026-10-26T17:00:00Z",
       "starts_at_local": "2026-10-26T13:00:00-04:00",
       "tags": [
@@ -26,7 +26,7 @@
       "url": "https://nukaknights.com/events/6260987344018967/minerva-list-6/"
     }
   ],
-  "generated_at": "2026-10-27T12:07:06.761813975Z",
+  "generated_at": "2026-10-27T17:58:36.359134969Z",
   "locale": "en-US",
   "schema_version": 1,
   "source": {
@@ -39,8 +39,8 @@
       "active": false,
       "ends_at": "2026-11-02T17:00:00Z",
       "ends_at_local": "2026-11-02T12:00:00-05:00",
-      "starts_at": "2026-10-29T17:00:00Z",
-      "starts_at_local": "2026-10-29T13:00:00-04:00",
+      "starts_at": "2026-10-29T16:00:00Z",
+      "starts_at_local": "2026-10-29T12:00:00-04:00",
       "tags": [
         "seasonal_event",
         "seasonal_fish"

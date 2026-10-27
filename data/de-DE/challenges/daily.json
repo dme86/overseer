@@ -1,7 +1,7 @@
 {
   "challenges": [
     {
-      "name": "Trinke ein alkoholisches Getränk.",
+      "name": "Verwerte Schrott, um Aluminium herzustellen.",
       "score_reward": 250,
       "target": 5
     },
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Baue einen Generator in einem C.A.M.P. oder einer Werkstatt.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Sammle Vorkriegsgeld auf.",
+      "name": "Verkrüppele ein Bein eines gruseligen Verbrannten.",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Sammle einen Pümpel auf.",
+      "name": "Iss ein vegetarisches Gericht.",
       "score_reward": 250,
-      "target": 3
+      "target": 10
     },
     {
-      "name": "Schließe eine tägliche Operation ab!",
+      "name": "Iss eine Dose Cram.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Töte einen Supermutanten.",
+      "name": "Erhalte EP.",
       "score_reward": 250,
-      "target": 5
+      "target": 2500
     },
     {
-      "name": "Töte einen Gegner mit einer Energiewaffe.",
+      "name": "Verwerte Schrott, um schwarzes Titan herzustellen.",
       "score_reward": 250,
-      "target": 8
+      "target": 3
+    },
+    {
+      "name": "Verkaufe Mutantenhundkeulen an NPC-Verkäufer.",
+      "score_reward": 250,
+      "target": null
     }
   ],
-  "generated_at": "2026-10-26T21:02:51.500836415Z",
+  "generated_at": "2026-10-27T17:58:36.359134969Z",
   "locale": "de-DE",
-  "period_start": "2026-10-26T16:00:00Z",
-  "period_start_local": "2026-10-26T17:00:00+01:00",
-  "reset_at": "2026-10-27T16:00:00Z",
-  "reset_at_local": "2026-10-27T17:00:00+01:00",
+  "period_start": "2026-10-27T16:00:00Z",
+  "period_start_local": "2026-10-27T17:00:00+01:00",
+  "reset_at": "2026-10-28T16:00:00Z",
+  "reset_at_local": "2026-10-28T17:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

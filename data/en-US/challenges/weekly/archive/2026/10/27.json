@@ -1,0 +1,76 @@
+{
+  "challenges": [
+    {
+      "name": "Complete a Gold Star Daily Challenge!",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Repeatable Under Rank 100: Gain XP",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Repeatable at Rank 100 or above: Complete a Public Event",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Collect a Fuel Tank or Gas Canister",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Complete Daily Operations!",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Craft any Plushie at a Tinkerer's Bench",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Cripple a Spooky Scorched's Leg",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Drink Nuka-Grape",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Drink Nuka-Orange",
+      "score_reward": 1000,
+      "target": 5
+    },
+    {
+      "name": "Kill a Creature",
+      "score_reward": 1000,
+      "target": 25
+    },
+    {
+      "name": "Kill a Creature while Wearing a Costume",
+      "score_reward": 1000,
+      "target": 20
+    },
+    {
+      "name": "Take a Chem",
+      "score_reward": 1000,
+      "target": 9
+    }
+  ],
+  "generated_at": "2026-10-27T17:58:36.359134969Z",
+  "locale": "en-US",
+  "period_start": "2026-10-27T16:00:00Z",
+  "period_start_local": "2026-10-27T12:00:00-04:00",
+  "reset_at": "2026-11-03T17:00:00Z",
+  "reset_at_local": "2026-11-03T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}
