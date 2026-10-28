@@ -1,17 +1,17 @@
 {
-  "enemies": "Pint-Sized Phantoms",
-  "generated_at": "2026-10-27T17:58:36.359134969Z",
+  "enemies": "Scorched",
+  "generated_at": "2026-10-28T21:08:34.916790355Z",
   "locale": "en-US",
-  "location": "The Burning Mine",
-  "mode": "Decryption",
+  "location": "Valley Galeria",
+  "mode": "Uplink",
   "mutations": [
-    "Savage Strike",
-    "Reflective Skin"
+    "Piercing Gaze",
+    "Resilient"
   ],
-  "period_start": "2026-10-27T16:00:00Z",
-  "period_start_local": "2026-10-27T12:00:00-04:00",
-  "reset_at": "2026-10-28T16:00:00Z",
-  "reset_at_local": "2026-10-28T12:00:00-04:00",
+  "period_start": "2026-10-28T16:00:00Z",
+  "period_start_local": "2026-10-28T12:00:00-04:00",
+  "reset_at": "2026-10-29T16:00:00Z",
+  "reset_at_local": "2026-10-29T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

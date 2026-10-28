@@ -12,21 +12,9 @@
       ],
       "title": "Gruselige Verbrannte",
       "url": "https://nukaknights.com/event/6260987344018983/gruselige-verbrannte/"
-    },
-    {
-      "active": true,
-      "ends_at": "2026-10-28T16:00:00Z",
-      "ends_at_local": "2026-10-28T17:00:00+01:00",
-      "starts_at": "2026-10-26T17:00:00Z",
-      "starts_at_local": "2026-10-26T18:00:00+01:00",
-      "tags": [
-        "minerva"
-      ],
-      "title": "Minerva (Liste 6)",
-      "url": "https://nukaknights.com/event/6260987344018967/minerva-liste-6/"
     }
   ],
-  "generated_at": "2026-10-27T17:58:36.359134969Z",
+  "generated_at": "2026-10-28T21:08:34.916790355Z",
   "locale": "de-DE",
   "schema_version": 1,
   "source": {
@@ -47,6 +35,18 @@
       ],
       "title": "Saisonale Fischwanderung",
       "url": "https://nukaknights.com/event/6260987344018996/saisonale-fischwanderung/"
+    },
+    {
+      "active": false,
+      "ends_at": "2026-11-04T17:00:00Z",
+      "ends_at_local": "2026-11-04T18:00:00+01:00",
+      "starts_at": "2026-11-02T17:00:00Z",
+      "starts_at_local": "2026-11-02T18:00:00+01:00",
+      "tags": [
+        "minerva"
+      ],
+      "title": "Minerva (Liste 7)",
+      "url": "https://nukaknights.com/event/6260987344018968/minerva-liste-7/"
     },
     {
       "active": false,

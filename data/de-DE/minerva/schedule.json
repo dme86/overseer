@@ -1,75 +1,71 @@
 {
-  "generated_at": "2026-10-27T17:58:36.359134969Z",
+  "generated_at": "2026-10-28T21:08:34.916790355Z",
   "locale": "de-DE",
   "schedule": [
-    {
-      "active": true,
-      "big_sale": false,
-      "ends_at": "2026-10-28T16:00:00Z",
-      "ends_at_local": "2026-10-28T17:00:00+01:00",
-      "inventory_complete": true,
-      "items": [
-        {
-          "name": "Bauplan: Secret-Service-Rüstung - Körperteile (Leichtbau)",
-          "price_gold": 188
-        },
-        {
-          "name": "Bauplan: Plasmawerfer",
-          "price_gold": 563
-        },
-        {
-          "name": "Bauplan: Secret-Service-Unterrüstung",
-          "price_gold": 188
-        },
-        {
-          "name": "Bauplan: T-65 - Kalibrierte Stoßdämpfer",
-          "price_gold": 563
-        },
-        {
-          "name": "Bauplan: T-65 - Rostige Schlagringe",
-          "price_gold": 188
-        },
-        {
-          "name": "Bauplan: T-65 - Jetpack",
-          "price_gold": 1500
-        },
-        {
-          "name": "Bauplan: Ausweider",
-          "price_gold": 1000
-        },
-        {
-          "name": "Bauplan: Secret-Service-Rüstung - Körperteile (Ultraleichtbau)",
-          "price_gold": 375
-        },
-        {
-          "name": "Bauplan: Kriegsglefe (Flammen-Klinge)",
-          "price_gold": 150
-        },
-        {
-          "name": "Bauplan: Kriegsglefe (Schock-Klinge)",
-          "price_gold": 150
-        },
-        {
-          "name": "Bauplan: Wasserquelle",
-          "price_gold": 563
-        },
-        {
-          "name": "Bauplan: Pfeifen im Dunkeln",
-          "price_gold": 1000
-        }
-      ],
-      "list": 6,
-      "location": "Crater",
-      "starts_at": "2026-10-26T17:00:00Z",
-      "starts_at_local": "2026-10-26T18:00:00+01:00"
-    },
     {
       "active": false,
       "big_sale": false,
       "ends_at": "2026-11-04T17:00:00Z",
       "ends_at_local": "2026-11-04T18:00:00+01:00",
-      "inventory_complete": false,
-      "items": [],
+      "inventory_complete": true,
+      "items": [
+        {
+          "name": "Bauplan: Munitionsumwandler",
+          "price_gold": 938
+        },
+        {
+          "name": "Bauplan: Feuer-Floater-Granate",
+          "price_gold": 113
+        },
+        {
+          "name": "Bauplan: Gauss-Schrotflinte",
+          "price_gold": 375
+        },
+        {
+          "name": "Bauplan: Gauss-Schrotflinte (erweiterter Lauf)",
+          "price_gold": 113
+        },
+        {
+          "name": "Bauplan: Gauss-Schrotflinte (erweitertes Magazin)",
+          "price_gold": 75
+        },
+        {
+          "name": "Bauplan: Gauss-Schrotflinte (gehärteter Verschluss)",
+          "price_gold": 150
+        },
+        {
+          "name": "Bauplan: Bruderschaft-Aufklärungsrüstung - Brustteil",
+          "price_gold": 1500
+        },
+        {
+          "name": "Bauplan: Bruderschafts-Aufklärungsrüstung - Helm",
+          "price_gold": 2000
+        },
+        {
+          "name": "Bauplan: Bruderschafts-Aufklärungsrüstung - linker Arm",
+          "price_gold": 1000
+        },
+        {
+          "name": "Bauplan: Bruderschafts-Aufklärungsrüstung - linkes Bein",
+          "price_gold": 1000
+        },
+        {
+          "name": "Bauplan: Bruderschafts-Aufklärungsrüstung - rechter Arm",
+          "price_gold": 1000
+        },
+        {
+          "name": "Bauplan: Bruderschafts-Aufklärungsrüstung - rechtes Bein",
+          "price_gold": 1000
+        },
+        {
+          "name": "Bauplan: Kinder-Truckbett",
+          "price_gold": 375
+        },
+        {
+          "name": "Bauplan: Regenschirm-Hut",
+          "price_gold": 75
+        }
+      ],
       "list": 7,
       "location": "Fort Atlas",
       "starts_at": "2026-11-02T17:00:00Z",

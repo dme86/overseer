@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Verwerte Schrott, um Aluminium herzustellen.",
+      "name": "Stelle Munition an einer Werkbank her.",
       "score_reward": 250,
-      "target": 5
+      "target": 50
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Verkrüppele ein Bein eines gruseligen Verbrannten.",
+      "name": "Baue eine Falle in einer Werkstatt oder einem C.A.M.P.",
       "score_reward": 250,
-      "target": 10
+      "target": 5
     },
     {
-      "name": "Iss ein vegetarisches Gericht.",
+      "name": "Sammle Seife.",
       "score_reward": 250,
-      "target": 10
+      "target": 2
     },
     {
-      "name": "Iss eine Dose Cram.",
+      "name": "Stelle eine Nahkampfwaffe her oder verwerte sie.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Lande bei einer RAD-Kröte im V.A.T.S. einen kritischen Treffer.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Erhalte EP.",
+      "name": "Iss eine Packung Zuckerbomben.",
       "score_reward": 250,
-      "target": 2500
+      "target": null
     },
     {
-      "name": "Verwerte Schrott, um schwarzes Titan herzustellen.",
-      "score_reward": 250,
-      "target": 3
-    },
-    {
-      "name": "Verkaufe Mutantenhundkeulen an NPC-Verkäufer.",
+      "name": "Schieße mit deiner Kamera ein Foto eines Supermutanten.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-10-27T17:58:36.359134969Z",
+  "generated_at": "2026-10-28T21:08:34.916790355Z",
   "locale": "de-DE",
-  "period_start": "2026-10-27T16:00:00Z",
-  "period_start_local": "2026-10-27T17:00:00+01:00",
-  "reset_at": "2026-10-28T16:00:00Z",
-  "reset_at_local": "2026-10-28T17:00:00+01:00",
+  "period_start": "2026-10-28T16:00:00Z",
+  "period_start_local": "2026-10-28T17:00:00+01:00",
+  "reset_at": "2026-10-29T16:00:00Z",
+  "reset_at_local": "2026-10-29T17:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

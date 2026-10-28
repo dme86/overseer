@@ -1,13 +1,70 @@
 {
-  "generated_at": "2026-10-26T21:02:51.500836415Z",
+  "generated_at": "2026-10-28T21:08:34.916790355Z",
   "locale": "en-US",
   "sale": {
     "active": false,
     "big_sale": false,
     "ends_at": "2026-11-04T17:00:00Z",
     "ends_at_local": "2026-11-04T12:00:00-05:00",
-    "inventory_complete": false,
-    "items": [],
+    "inventory_complete": true,
+    "items": [
+      {
+        "name": "Plan: Ammo Converter",
+        "price_gold": 938
+      },
+      {
+        "name": "Plan: Floater flamer grenade",
+        "price_gold": 113
+      },
+      {
+        "name": "Plan: Gauss shotgun",
+        "price_gold": 375
+      },
+      {
+        "name": "Plan: Gauss shotgun extended barrel",
+        "price_gold": 113
+      },
+      {
+        "name": "Plan: Gauss shotgun extended magazine",
+        "price_gold": 75
+      },
+      {
+        "name": "Plan: Gauss shotgun hardened receiver",
+        "price_gold": 150
+      },
+      {
+        "name": "Plan: Brotherhood recon chest piece",
+        "price_gold": 1500
+      },
+      {
+        "name": "Plan: Brotherhood recon helmet",
+        "price_gold": 2000
+      },
+      {
+        "name": "Plan: Brotherhood recon left arm",
+        "price_gold": 1000
+      },
+      {
+        "name": "Plan: Brotherhood recon left leg",
+        "price_gold": 1000
+      },
+      {
+        "name": "Plan: Brotherhood recon right arm",
+        "price_gold": 1000
+      },
+      {
+        "name": "Plan: Brotherhood recon right leg",
+        "price_gold": 1000
+      },
+      {
+        "name": "Plan: Kids truck bed",
+        "price_gold": 375
+      },
+      {
+        "name": "Plan: Umbrella hat",
+        "price_gold": 75
+      }
+    ],
     "list": 7,
     "location": "Fort Atlas",
     "starts_at": "2026-11-02T17:00:00Z",

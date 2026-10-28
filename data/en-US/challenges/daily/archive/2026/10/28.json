@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Craft Ammo at a Workbench",
+      "score_reward": 250,
+      "target": 50
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Build a Trap in a Workshop or C.A.M.P.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Collect Soap",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Craft or Scrap a Melee Weapon",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Deal a Critical Hit to a Radtoad in VATS",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Eat a box of Sugar Bombs",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Take a Camera Picture of a Super Mutant",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-10-28T21:08:34.916790355Z",
+  "locale": "en-US",
+  "period_start": "2026-10-28T16:00:00Z",
+  "period_start_local": "2026-10-28T12:00:00-04:00",
+  "reset_at": "2026-10-29T16:00:00Z",
+  "reset_at_local": "2026-10-29T12:00:00-04:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

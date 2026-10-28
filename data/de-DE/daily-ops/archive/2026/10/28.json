@@ -1,0 +1,21 @@
+{
+  "enemies": "Verbrannte",
+  "generated_at": "2026-10-28T21:08:34.916790355Z",
+  "locale": "de-DE",
+  "location": "Valley Galeria",
+  "mode": "Verbindungsgerät",
+  "mutations": [
+    "Tödlicher Blick",
+    "Abgehärtet"
+  ],
+  "period_start": "2026-10-28T16:00:00Z",
+  "period_start_local": "2026-10-28T17:00:00+01:00",
+  "reset_at": "2026-10-29T16:00:00Z",
+  "reset_at_local": "2026-10-29T17:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}
