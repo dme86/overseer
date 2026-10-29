@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Stelle Munition an einer Werkbank her.",
+      "name": "Iss einen rohen Fisch.",
       "score_reward": 250,
-      "target": 50
+      "target": 5
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Baue eine Falle in einer Werkstatt oder einem C.A.M.P.",
+      "name": "Fange einen Fisch.",
       "score_reward": 250,
-      "target": 5
+      "target": 3
     },
     {
-      "name": "Sammle Seife.",
+      "name": "Schließe eine Tagesquest ab.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Gegrillten Fisch kochen",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Stelle eine Nahkampfwaffe her oder verwerte sie.",
+      "name": "Töte einen Menschen, während du ein Kostüm trägst.",
       "score_reward": 250,
-      "target": 5
+      "target": 10
     },
     {
-      "name": "Lande bei einer RAD-Kröte im V.A.T.S. einen kritischen Treffer.",
+      "name": "Töte einen gruseligen Verbrannten.",
       "score_reward": 250,
-      "target": null
+      "target": 10
     },
     {
-      "name": "Iss eine Packung Zuckerbomben.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Schieße mit deiner Kamera ein Foto eines Supermutanten.",
+      "name": "Verkaufe gegrillten Fisch an einen NPC-Händler.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-10-28T21:08:34.916790355Z",
+  "generated_at": "2026-10-29T21:10:56.847516862Z",
   "locale": "de-DE",
-  "period_start": "2026-10-28T16:00:00Z",
-  "period_start_local": "2026-10-28T17:00:00+01:00",
-  "reset_at": "2026-10-29T16:00:00Z",
-  "reset_at_local": "2026-10-29T17:00:00+01:00",
+  "period_start": "2026-10-29T16:00:00Z",
+  "period_start_local": "2026-10-29T17:00:00+01:00",
+  "reset_at": "2026-10-30T16:00:00Z",
+  "reset_at_local": "2026-10-30T17:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

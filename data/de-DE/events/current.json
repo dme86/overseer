@@ -12,19 +12,9 @@
       ],
       "title": "Gruselige Verbrannte",
       "url": "https://nukaknights.com/event/6260987344018983/gruselige-verbrannte/"
-    }
-  ],
-  "generated_at": "2026-10-28T21:08:34.916790355Z",
-  "locale": "de-DE",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-kalender.html"
-  },
-  "timezone": "Europe/Berlin",
-  "upcoming": [
+    },
     {
-      "active": false,
+      "active": true,
       "ends_at": "2026-11-02T17:00:00Z",
       "ends_at_local": "2026-11-02T18:00:00+01:00",
       "starts_at": "2026-10-29T16:00:00Z",
@@ -35,7 +25,17 @@
       ],
       "title": "Saisonale Fischwanderung",
       "url": "https://nukaknights.com/event/6260987344018996/saisonale-fischwanderung/"
-    },
+    }
+  ],
+  "generated_at": "2026-10-29T21:10:56.847516862Z",
+  "locale": "de-DE",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-kalender.html"
+  },
+  "timezone": "Europe/Berlin",
+  "upcoming": [
     {
       "active": false,
       "ends_at": "2026-11-04T17:00:00Z",

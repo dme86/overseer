@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Craft Ammo at a Workbench",
+      "name": "Eat a Raw Fish",
       "score_reward": 250,
-      "target": 50
+      "target": 5
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Build a Trap in a Workshop or C.A.M.P.",
+      "name": "Catch a Fish",
       "score_reward": 250,
-      "target": 5
+      "target": 3
     },
     {
-      "name": "Collect Soap",
+      "name": "Complete a Daily Quest",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Cook Grilled Fish",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Craft or Scrap a Melee Weapon",
+      "name": "Kill a Human while Wearing a Costume",
       "score_reward": 250,
-      "target": 5
+      "target": 10
     },
     {
-      "name": "Deal a Critical Hit to a Radtoad in VATS",
+      "name": "Kill a Spooky Scorched",
       "score_reward": 250,
-      "target": null
+      "target": 10
     },
     {
-      "name": "Eat a box of Sugar Bombs",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Take a Camera Picture of a Super Mutant",
+      "name": "Sell Grilled Fish to an NPC vendor",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-10-28T21:08:34.916790355Z",
+  "generated_at": "2026-10-29T21:10:56.847516862Z",
   "locale": "en-US",
-  "period_start": "2026-10-28T16:00:00Z",
-  "period_start_local": "2026-10-28T12:00:00-04:00",
-  "reset_at": "2026-10-29T16:00:00Z",
-  "reset_at_local": "2026-10-29T12:00:00-04:00",
+  "period_start": "2026-10-29T16:00:00Z",
+  "period_start_local": "2026-10-29T12:00:00-04:00",
+  "reset_at": "2026-10-30T16:00:00Z",
+  "reset_at_local": "2026-10-30T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
