@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Eat a Raw Fish",
+      "name": "Eat a Fish Bit",
       "score_reward": 250,
-      "target": 5
+      "target": 6
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Catch a Fish",
-      "score_reward": 250,
-      "target": 3
-    },
-    {
-      "name": "Complete a Daily Quest",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Cook Grilled Fish",
+      "name": "Catch a Fish in the Forest Region",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Kill a Human while Wearing a Costume",
+      "name": "Complete an Event or Activity while in a Team",
       "score_reward": 250,
-      "target": 10
+      "target": null
     },
     {
-      "name": "Kill a Spooky Scorched",
+      "name": "Cripple a Protectron or a Robobrain's Arm",
       "score_reward": 250,
-      "target": 10
+      "target": 2
     },
     {
-      "name": "Sell Grilled Fish to an NPC vendor",
+      "name": "Eat a Cobbler, which is not a Pie.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill an Enemy with any Pistol",
+      "score_reward": 250,
+      "target": 8
+    },
+    {
+      "name": "Sell Bloatfly Meat to an NPC vendor",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-10-29T21:10:56.847516862Z",
+  "generated_at": "2026-10-30T20:50:06.364771383Z",
   "locale": "en-US",
-  "period_start": "2026-10-29T16:00:00Z",
-  "period_start_local": "2026-10-29T12:00:00-04:00",
-  "reset_at": "2026-10-30T16:00:00Z",
-  "reset_at_local": "2026-10-30T12:00:00-04:00",
+  "period_start": "2026-10-30T16:00:00Z",
+  "period_start_local": "2026-10-30T12:00:00-04:00",
+  "reset_at": "2026-10-31T16:00:00Z",
+  "reset_at_local": "2026-10-31T12:00:00-04:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

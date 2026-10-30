@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Iss einen Fischhappen.",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Fange einen Fisch in der Wald-Region.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Schließe ein Event oder eine Aktivität ab, während du in einem Team bist.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Verkrüppele einen Protektron- oder Robohirn-Arm.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Iss einen Auflauf.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Töte einen Gegner mit einer Pistole.",
+      "score_reward": 250,
+      "target": 8
+    },
+    {
+      "name": "Verkaufe Blähfliegenfleisch an einen NPC-Händler.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-10-30T20:50:06.364771383Z",
+  "locale": "de-DE",
+  "period_start": "2026-10-30T16:00:00Z",
+  "period_start_local": "2026-10-30T17:00:00+01:00",
+  "reset_at": "2026-10-31T16:00:00Z",
+  "reset_at_local": "2026-10-31T17:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}
