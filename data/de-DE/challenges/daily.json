@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Iss einen Fischhappen.",
+      "name": "Trinke Nuka-Cola Quantum.",
       "score_reward": 250,
-      "target": 6
+      "target": 2
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Fange einen Fisch in der Wald-Region.",
+      "name": "Fange einen Fisch in der Moor-Region.",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Schließe ein Event oder eine Aktivität ab, während du in einem Team bist.",
+      "name": "Schließe ein Event oder eine Aktivität ab, während du ein Kostüm trägst.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Verkrüppele einen Protektron- oder Robohirn-Arm.",
+      "name": "Verkrüppele ein Bein eines gruseligen Verbrannten.",
       "score_reward": 250,
-      "target": 2
+      "target": 10
     },
     {
-      "name": "Iss einen Auflauf.",
+      "name": "Iss geheimnisvolle Süßigkeiten.",
       "score_reward": 250,
-      "target": null
+      "target": 3
     },
     {
-      "name": "Töte einen Gegner mit einer Pistole.",
+      "name": "Töte einen gruseligen Verbrannten.",
       "score_reward": 250,
-      "target": 8
+      "target": 10
     },
     {
-      "name": "Verkaufe Blähfliegenfleisch an einen NPC-Händler.",
+      "name": "Gehe zu Fuß (km).",
       "score_reward": 250,
-      "target": null
+      "target": 10
     }
   ],
-  "generated_at": "2026-10-30T20:50:06.364771383Z",
+  "generated_at": "2026-10-31T20:00:22.460052946Z",
   "locale": "de-DE",
-  "period_start": "2026-10-30T16:00:00Z",
-  "period_start_local": "2026-10-30T17:00:00+01:00",
-  "reset_at": "2026-10-31T16:00:00Z",
-  "reset_at_local": "2026-10-31T17:00:00+01:00",
+  "period_start": "2026-10-31T16:00:00Z",
+  "period_start_local": "2026-10-31T17:00:00+01:00",
+  "reset_at": "2026-11-01T16:00:00Z",
+  "reset_at_local": "2026-11-01T17:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

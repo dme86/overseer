@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Eat a Fish Bit",
+      "name": "Drink Nuka-Cola Quantum",
       "score_reward": 250,
-      "target": 6
+      "target": 2
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Catch a Fish in the Forest Region",
+      "name": "Catch a Fish in the Mire Region",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Complete an Event or Activity while in a Team",
+      "name": "Complete an Event or Activity while Wearing a Costume",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Cripple a Protectron or a Robobrain's Arm",
+      "name": "Cripple a Spooky Scorched's Leg",
       "score_reward": 250,
-      "target": 2
+      "target": 10
     },
     {
-      "name": "Eat a Cobbler, which is not a Pie.",
+      "name": "Eat Mystery Candy",
       "score_reward": 250,
-      "target": null
+      "target": 3
     },
     {
-      "name": "Kill an Enemy with any Pistol",
+      "name": "Kill a Spooky Scorched",
       "score_reward": 250,
-      "target": 8
+      "target": 10
     },
     {
-      "name": "Sell Bloatfly Meat to an NPC vendor",
+      "name": "Travel on foot (KM)",
       "score_reward": 250,
-      "target": null
+      "target": 10
     }
   ],
-  "generated_at": "2026-10-30T20:50:06.364771383Z",
+  "generated_at": "2026-10-31T20:00:22.460052946Z",
   "locale": "en-US",
-  "period_start": "2026-10-30T16:00:00Z",
-  "period_start_local": "2026-10-30T12:00:00-04:00",
-  "reset_at": "2026-10-31T16:00:00Z",
-  "reset_at_local": "2026-10-31T12:00:00-04:00",
+  "period_start": "2026-10-31T16:00:00Z",
+  "period_start_local": "2026-10-31T12:00:00-04:00",
+  "reset_at": "2026-11-01T17:00:00Z",
+  "reset_at_local": "2026-11-01T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
