@@ -1,6 +1,6 @@
 {
   "enemies": "Pint-Sized Phantoms",
-  "generated_at": "2026-10-31T20:00:22.460052946Z",
+  "generated_at": "2026-11-01T13:17:31.925437029Z",
   "locale": "en-US",
   "location": "Garrahan Mining Headquarter",
   "mode": "Decryption",
@@ -8,10 +8,10 @@
     "Savage Strike",
     "Swift-Footed + Volatile"
   ],
-  "period_start": "2026-10-31T16:00:00Z",
-  "period_start_local": "2026-10-31T12:00:00-04:00",
-  "reset_at": "2026-11-01T17:00:00Z",
-  "reset_at_local": "2026-11-01T12:00:00-05:00",
+  "period_start": "2026-10-31T17:00:00Z",
+  "period_start_local": "2026-10-31T13:00:00-04:00",
+  "reset_at": "2026-11-01T18:00:00Z",
+  "reset_at_local": "2026-11-01T13:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
