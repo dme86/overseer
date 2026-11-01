@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Iss einen Fischhappen.",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Sammle Holz.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Schließe eine tägliche Operation in einem öffentlichen Team ab!",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Lande im V.A.T.S. bei einem Gegner einen kritischen Treffer.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte eine Maulwurfsratte.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Töte ein Westentaschenphantom, während du einem Team angehörst und ein Kostüm trägst.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Benutze den Fotomodus, während du in einem Team bist.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-01T21:12:52.772928602Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-01T17:00:00Z",
+  "period_start_local": "2026-11-01T18:00:00+01:00",
+  "reset_at": "2026-11-02T17:00:00Z",
+  "reset_at_local": "2026-11-02T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

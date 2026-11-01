@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Trinke Nuka-Cola Quantum.",
+      "name": "Iss einen Fischhappen.",
       "score_reward": 250,
-      "target": 2
+      "target": 6
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Fange einen Fisch in der Moor-Region.",
+      "name": "Sammle Holz.",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
-      "name": "Schließe ein Event oder eine Aktivität ab, während du ein Kostüm trägst.",
+      "name": "Schließe eine tägliche Operation in einem öffentlichen Team ab!",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Verkrüppele ein Bein eines gruseligen Verbrannten.",
+      "name": "Lande im V.A.T.S. bei einem Gegner einen kritischen Treffer.",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Iss geheimnisvolle Süßigkeiten.",
+      "name": "Töte eine Maulwurfsratte.",
       "score_reward": 250,
-      "target": 3
+      "target": 5
     },
     {
-      "name": "Töte einen gruseligen Verbrannten.",
+      "name": "Töte ein Westentaschenphantom, während du einem Team angehörst und ein Kostüm trägst.",
       "score_reward": 250,
-      "target": 10
+      "target": 5
     },
     {
-      "name": "Gehe zu Fuß (km).",
+      "name": "Benutze den Fotomodus, während du in einem Team bist.",
       "score_reward": 250,
-      "target": 10
+      "target": null
     }
   ],
-  "generated_at": "2026-11-01T13:17:31.925437029Z",
+  "generated_at": "2026-11-01T21:12:52.772928602Z",
   "locale": "de-DE",
-  "period_start": "2026-10-31T17:00:00Z",
-  "period_start_local": "2026-10-31T18:00:00+01:00",
-  "reset_at": "2026-11-01T17:00:00Z",
-  "reset_at_local": "2026-11-01T18:00:00+01:00",
+  "period_start": "2026-11-01T17:00:00Z",
+  "period_start_local": "2026-11-01T18:00:00+01:00",
+  "reset_at": "2026-11-02T17:00:00Z",
+  "reset_at_local": "2026-11-02T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

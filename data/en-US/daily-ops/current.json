@@ -1,17 +1,17 @@
 {
-  "enemies": "Pint-Sized Phantoms",
-  "generated_at": "2026-11-01T13:17:31.925437029Z",
+  "enemies": "Robots",
+  "generated_at": "2026-11-01T21:12:52.772928602Z",
   "locale": "en-US",
-  "location": "Garrahan Mining Headquarter",
-  "mode": "Decryption",
+  "location": "Vault 96",
+  "mode": "Uplink",
   "mutations": [
-    "Savage Strike",
-    "Swift-Footed + Volatile"
+    "Piercing Gaze",
+    "Active Camouflage + Swift-Footed"
   ],
-  "period_start": "2026-10-31T17:00:00Z",
-  "period_start_local": "2026-10-31T13:00:00-04:00",
-  "reset_at": "2026-11-01T18:00:00Z",
-  "reset_at_local": "2026-11-01T13:00:00-05:00",
+  "period_start": "2026-11-01T17:00:00Z",
+  "period_start_local": "2026-11-01T12:00:00-05:00",
+  "reset_at": "2026-11-02T17:00:00Z",
+  "reset_at_local": "2026-11-02T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

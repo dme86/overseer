@@ -1,17 +1,17 @@
 {
-  "enemies": "Westentaschenphantome",
-  "generated_at": "2026-11-01T13:17:31.925437029Z",
+  "enemies": "Roboter",
+  "generated_at": "2026-11-01T21:12:52.772928602Z",
   "locale": "de-DE",
-  "location": "Garrahan Mining Hauptquartier",
-  "mode": "Entschlüsselung",
+  "location": "Vault 96",
+  "mode": "Verbindungsgerät",
   "mutations": [
-    "Wilder Schlag",
-    "Flink + Explosiv"
+    "Tödlicher Blick",
+    "Aktive Tarnung + Flink"
   ],
-  "period_start": "2026-10-31T17:00:00Z",
-  "period_start_local": "2026-10-31T18:00:00+01:00",
-  "reset_at": "2026-11-01T17:00:00Z",
-  "reset_at_local": "2026-11-01T18:00:00+01:00",
+  "period_start": "2026-11-01T17:00:00Z",
+  "period_start_local": "2026-11-01T18:00:00+01:00",
+  "reset_at": "2026-11-02T17:00:00Z",
+  "reset_at_local": "2026-11-02T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

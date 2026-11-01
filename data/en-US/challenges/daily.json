@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Drink Nuka-Cola Quantum",
+      "name": "Eat a Fish Bit",
       "score_reward": 250,
-      "target": 2
+      "target": 6
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Catch a Fish in the Mire Region",
+      "name": "Collect Wood",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
-      "name": "Complete an Event or Activity while Wearing a Costume",
+      "name": "Complete a Daily Operation on a Public Team!",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Cripple a Spooky Scorched's Leg",
+      "name": "Deal a Critical Hit to an Enemy in VATS",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Eat Mystery Candy",
+      "name": "Kill a Mole Rat",
       "score_reward": 250,
-      "target": 3
+      "target": 5
     },
     {
-      "name": "Kill a Spooky Scorched",
+      "name": "Kill a Pint-Sized Phantom while on a Team and wearing a Costume",
       "score_reward": 250,
-      "target": 10
+      "target": 5
     },
     {
-      "name": "Travel on foot (KM)",
+      "name": "Use Photomode while in a Team",
       "score_reward": 250,
-      "target": 10
+      "target": null
     }
   ],
-  "generated_at": "2026-11-01T13:17:31.925437029Z",
+  "generated_at": "2026-11-01T21:12:52.772928602Z",
   "locale": "en-US",
-  "period_start": "2026-10-31T17:00:00Z",
-  "period_start_local": "2026-10-31T13:00:00-04:00",
-  "reset_at": "2026-11-01T18:00:00Z",
-  "reset_at_local": "2026-11-01T13:00:00-05:00",
+  "period_start": "2026-11-01T17:00:00Z",
+  "period_start_local": "2026-11-01T12:00:00-05:00",
+  "reset_at": "2026-11-02T17:00:00Z",
+  "reset_at_local": "2026-11-02T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
