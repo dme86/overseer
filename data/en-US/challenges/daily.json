@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Eat a Fish Bit",
+      "name": "Collect Gold Bullion",
       "score_reward": 250,
-      "target": 6
+      "target": 20
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Collect Wood",
+      "name": "Build a Decoration in a Workshop or C.A.M.P.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Complete a Daily Operation on a Public Team!",
+      "name": "Catch a Fish in the Toxic Valley Region",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Complete an Event or Activity",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Deal a Critical Hit to an Enemy in VATS",
+      "name": "Cripple a Super Mutant's Head",
       "score_reward": 250,
-      "target": 10
+      "target": 2
     },
     {
-      "name": "Kill a Mole Rat",
+      "name": "Kill an Enemy in the Skyline Valley Region",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Kill a Pint-Sized Phantom while on a Team and wearing a Costume",
+      "name": "Scrap junk to produce Bone",
       "score_reward": 250,
       "target": 5
-    },
-    {
-      "name": "Use Photomode while in a Team",
-      "score_reward": 250,
-      "target": null
     }
   ],
-  "generated_at": "2026-11-01T21:12:52.772928602Z",
+  "generated_at": "2026-11-02T23:53:26.503856250Z",
   "locale": "en-US",
-  "period_start": "2026-11-01T17:00:00Z",
-  "period_start_local": "2026-11-01T12:00:00-05:00",
-  "reset_at": "2026-11-02T17:00:00Z",
-  "reset_at_local": "2026-11-02T12:00:00-05:00",
+  "period_start": "2026-11-02T17:00:00Z",
+  "period_start_local": "2026-11-02T12:00:00-05:00",
+  "reset_at": "2026-11-03T17:00:00Z",
+  "reset_at_local": "2026-11-03T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

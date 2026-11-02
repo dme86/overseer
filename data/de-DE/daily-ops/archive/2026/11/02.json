@@ -1,0 +1,21 @@
+{
+  "enemies": "Westentaschenphantome",
+  "generated_at": "2026-11-02T23:53:26.503856250Z",
+  "locale": "de-DE",
+  "location": "Verglaste Höhle",
+  "mode": "Entschlüsselung",
+  "mutations": [
+    "Wilder Schlag",
+    "Aktive Tarnung + Explosiv"
+  ],
+  "period_start": "2026-11-02T17:00:00Z",
+  "period_start_local": "2026-11-02T18:00:00+01:00",
+  "reset_at": "2026-11-03T17:00:00Z",
+  "reset_at_local": "2026-11-03T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

@@ -1,17 +1,17 @@
 {
-  "enemies": "Roboter",
-  "generated_at": "2026-11-01T21:12:52.772928602Z",
+  "enemies": "Westentaschenphantome",
+  "generated_at": "2026-11-02T23:53:26.503856250Z",
   "locale": "de-DE",
-  "location": "Vault 96",
-  "mode": "Verbindungsgerät",
+  "location": "Verglaste Höhle",
+  "mode": "Entschlüsselung",
   "mutations": [
-    "Tödlicher Blick",
-    "Aktive Tarnung + Flink"
+    "Wilder Schlag",
+    "Aktive Tarnung + Explosiv"
   ],
-  "period_start": "2026-11-01T17:00:00Z",
-  "period_start_local": "2026-11-01T18:00:00+01:00",
-  "reset_at": "2026-11-02T17:00:00Z",
-  "reset_at_local": "2026-11-02T18:00:00+01:00",
+  "period_start": "2026-11-02T17:00:00Z",
+  "period_start_local": "2026-11-02T18:00:00+01:00",
+  "reset_at": "2026-11-03T17:00:00Z",
+  "reset_at_local": "2026-11-03T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

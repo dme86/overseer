@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Sammle Goldbarren.",
+      "score_reward": 250,
+      "target": 20
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Baue eine Dekoration in einer Werkstatt oder einem C.A.M.P.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Fange einen Fisch in der Toxic-Valley-Region.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Schließe ein Event oder eine Aktivität ab.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Verkrüppele einen Supermutanten-Kopf.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Töte einen Gegner in der Skyline-Valley-Region.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Verwerte Schrott, um Knochen herzustellen.",
+      "score_reward": 250,
+      "target": 5
+    }
+  ],
+  "generated_at": "2026-11-02T23:53:26.503856250Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-02T17:00:00Z",
+  "period_start_local": "2026-11-02T18:00:00+01:00",
+  "reset_at": "2026-11-03T17:00:00Z",
+  "reset_at_local": "2026-11-03T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

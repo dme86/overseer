@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T21:08:34.916790355Z",
+  "generated_at": "2026-11-02T23:53:26.503856250Z",
   "locale": "de-DE",
   "schedule": [
     {
-      "active": false,
+      "active": true,
       "big_sale": false,
       "ends_at": "2026-11-04T17:00:00Z",
       "ends_at_local": "2026-11-04T18:00:00+01:00",
