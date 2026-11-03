@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Sammle Goldbarren.",
+      "name": "Verwerte Schrott, um Blei herzustellen.",
       "score_reward": 250,
-      "target": 20
+      "target": 10
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Baue eine Dekoration in einer Werkstatt oder einem C.A.M.P.",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Fange einen Fisch in der Toxic-Valley-Region.",
+      "name": "Sammle ein Mikroskop oder einen biometrischen Scanner.",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Schließe ein Event oder eine Aktivität ab.",
+      "name": "Stelle einen beliebigen Skin an einer Bastelwerkbank her.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Verkrüppele einen Supermutanten-Kopf.",
+      "name": "Töte einen Blutadler.",
       "score_reward": 250,
-      "target": 2
+      "target": 10
     },
     {
-      "name": "Töte einen Gegner in der Skyline-Valley-Region.",
+      "name": "Töte eine Honigbestie.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Töte ein Westentaschenphantom, während du ein Kostüm trägst.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Verwerte Schrott, um Knochen herzustellen.",
+      "name": "Schieße am Super Duper Mart in Burning Springs ein Foto mit deiner Kamera.",
       "score_reward": 250,
-      "target": 5
+      "target": null
     }
   ],
-  "generated_at": "2026-11-02T23:53:26.503856250Z",
+  "generated_at": "2026-11-03T22:19:50.308902158Z",
   "locale": "de-DE",
-  "period_start": "2026-11-02T17:00:00Z",
-  "period_start_local": "2026-11-02T18:00:00+01:00",
-  "reset_at": "2026-11-03T17:00:00Z",
-  "reset_at_local": "2026-11-03T18:00:00+01:00",
+  "period_start": "2026-11-03T17:00:00Z",
+  "period_start_local": "2026-11-03T18:00:00+01:00",
+  "reset_at": "2026-11-04T17:00:00Z",
+  "reset_at_local": "2026-11-04T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

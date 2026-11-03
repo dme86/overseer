@@ -1,0 +1,76 @@
+{
+  "challenges": [
+    {
+      "name": "Schließe eine tägliche Goldstern-Challenge ab.",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Wiederholbar unter Rang 100: Erhalte EP.",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Wiederholbar ab Rang 100: Schließe ein öffentliches Event ab.",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Baue etwas in Werkstätten oder C.A.M.P.s.",
+      "score_reward": 1000,
+      "target": 25
+    },
+    {
+      "name": "Sammle ballistische Munition.",
+      "score_reward": 1000,
+      "target": 60
+    },
+    {
+      "name": "Stelle eine große Menge Stahlschrott her.",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Stelle eine große Menge Holz her.",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Verkrüppele ein Supermutanten-Körperteil.",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Töte während einer Kopfjagd einen Gegner mit einer scharfen oder durchbohrenden Waffe.",
+      "score_reward": 1000,
+      "target": 18
+    },
+    {
+      "name": "Verwerte Schrott, um schwarzes Titan herzustellen.",
+      "score_reward": 1000,
+      "target": 10
+    },
+    {
+      "name": "Verkaufe eine Waffe an einen NPC-Händler.",
+      "score_reward": 1000,
+      "target": 15
+    },
+    {
+      "name": "Töten einen Grubenhauer.",
+      "score_reward": 1000,
+      "target": 30
+    }
+  ],
+  "generated_at": "2026-11-03T22:19:50.308902158Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-03T17:00:00Z",
+  "period_start_local": "2026-11-03T18:00:00+01:00",
+  "reset_at": "2026-11-10T17:00:00Z",
+  "reset_at_local": "2026-11-10T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

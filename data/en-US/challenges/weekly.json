@@ -16,57 +16,57 @@
       "target": 3
     },
     {
-      "name": "Collect a Fuel Tank or Gas Canister",
-      "score_reward": 1000,
-      "target": 5
-    },
-    {
-      "name": "Complete Daily Operations!",
-      "score_reward": 1000,
-      "target": 3
-    },
-    {
-      "name": "Craft any Plushie at a Tinkerer's Bench",
-      "score_reward": 1000,
-      "target": 3
-    },
-    {
-      "name": "Cripple a Spooky Scorched's Leg",
-      "score_reward": 1000,
-      "target": 30
-    },
-    {
-      "name": "Drink Nuka-Grape",
-      "score_reward": 1000,
-      "target": 5
-    },
-    {
-      "name": "Drink Nuka-Orange",
-      "score_reward": 1000,
-      "target": 5
-    },
-    {
-      "name": "Kill a Creature",
+      "name": "Build Anything in a Workshop or C.A.M.P.",
       "score_reward": 1000,
       "target": 25
     },
     {
-      "name": "Kill a Creature while Wearing a Costume",
+      "name": "Collect Ballistic Ammo",
       "score_reward": 1000,
-      "target": 20
+      "target": 60
     },
     {
-      "name": "Take a Chem",
+      "name": "Craft Bulk Steel",
       "score_reward": 1000,
-      "target": 9
+      "target": 3
+    },
+    {
+      "name": "Craft Bulk Wood",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Cripple a Super Mutant's Limb",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
+      "score_reward": 1000,
+      "target": 18
+    },
+    {
+      "name": "Scrap junk to produce Black Titanium",
+      "score_reward": 1000,
+      "target": 10
+    },
+    {
+      "name": "Sell a Weapon to an NPC vendor",
+      "score_reward": 1000,
+      "target": 15
+    },
+    {
+      "name": "Kill a Mole Miner",
+      "score_reward": 1000,
+      "target": 30
     }
   ],
-  "generated_at": "2026-10-27T17:58:36.359134969Z",
+  "generated_at": "2026-11-03T22:19:50.308902158Z",
   "locale": "en-US",
-  "period_start": "2026-10-27T16:00:00Z",
-  "period_start_local": "2026-10-27T12:00:00-04:00",
-  "reset_at": "2026-11-03T17:00:00Z",
-  "reset_at_local": "2026-11-03T12:00:00-05:00",
+  "period_start": "2026-11-03T17:00:00Z",
+  "period_start_local": "2026-11-03T12:00:00-05:00",
+  "reset_at": "2026-11-10T17:00:00Z",
+  "reset_at_local": "2026-11-10T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

@@ -2,19 +2,6 @@
   "active": [
     {
       "active": true,
-      "ends_at": "2026-11-03T17:00:00Z",
-      "ends_at_local": "2026-11-03T12:00:00-05:00",
-      "starts_at": "2026-10-20T16:00:00Z",
-      "starts_at_local": "2026-10-20T12:00:00-04:00",
-      "tags": [
-        "seasonal_event",
-        "spooky_scorched"
-      ],
-      "title": "Spooky Scorched",
-      "url": "https://nukaknights.com/events/6260987344018983/spooky-scorched/"
-    },
-    {
-      "active": true,
       "ends_at": "2026-11-04T17:00:00Z",
       "ends_at_local": "2026-11-04T12:00:00-05:00",
       "starts_at": "2026-11-02T17:00:00Z",
@@ -26,7 +13,7 @@
       "url": "https://nukaknights.com/events/6260987344018968/minerva-list-7/"
     }
   ],
-  "generated_at": "2026-11-02T23:53:26.503856250Z",
+  "generated_at": "2026-11-03T22:19:50.308902158Z",
   "locale": "en-US",
   "schema_version": 1,
   "source": {

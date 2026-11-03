@@ -1,17 +1,17 @@
 {
-  "enemies": "Westentaschenphantome",
-  "generated_at": "2026-11-02T23:53:26.503856250Z",
+  "enemies": "Überwucherte",
+  "generated_at": "2026-11-03T22:19:50.308902158Z",
   "locale": "de-DE",
-  "location": "Verglaste Höhle",
-  "mode": "Entschlüsselung",
+  "location": "Das brennende Bergwerk",
+  "mode": "Verbindungsgerät",
   "mutations": [
-    "Wilder Schlag",
-    "Aktive Tarnung + Explosiv"
+    "Tödlicher Blick",
+    "Giftiges Blut"
   ],
-  "period_start": "2026-11-02T17:00:00Z",
-  "period_start_local": "2026-11-02T18:00:00+01:00",
-  "reset_at": "2026-11-03T17:00:00Z",
-  "reset_at_local": "2026-11-03T18:00:00+01:00",
+  "period_start": "2026-11-03T17:00:00Z",
+  "period_start_local": "2026-11-03T18:00:00+01:00",
+  "reset_at": "2026-11-04T17:00:00Z",
+  "reset_at_local": "2026-11-04T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

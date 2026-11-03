@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Verwerte Schrott, um Blei herzustellen.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Sammle ein Mikroskop oder einen biometrischen Scanner.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Stelle einen beliebigen Skin an einer Bastelwerkbank her.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Töte einen Blutadler.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte eine Honigbestie.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Töte ein Westentaschenphantom, während du ein Kostüm trägst.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Schieße am Super Duper Mart in Burning Springs ein Foto mit deiner Kamera.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-03T22:19:50.308902158Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-03T17:00:00Z",
+  "period_start_local": "2026-11-03T18:00:00+01:00",
+  "reset_at": "2026-11-04T17:00:00Z",
+  "reset_at_local": "2026-11-04T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}
