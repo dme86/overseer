@@ -1,14 +1,106 @@
 {
-  "generated_at": "2026-11-02T23:53:26.503856250Z",
+  "generated_at": "2026-11-04T22:39:01.648838659Z",
   "locale": "en-US",
   "schedule": [
     {
-      "active": true,
-      "big_sale": false,
-      "ends_at": "2026-11-04T17:00:00Z",
-      "ends_at_local": "2026-11-04T12:00:00-05:00",
+      "active": false,
+      "big_sale": true,
+      "ends_at": "2026-11-16T17:00:00Z",
+      "ends_at_local": "2026-11-16T12:00:00-05:00",
       "inventory_complete": true,
       "items": [
+        {
+          "name": "Plan: Gauss minigun",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: Gauss pistol aligned short barrel",
+          "price_gold": 113
+        },
+        {
+          "name": "Plan: Gauss Pistol Drum Magazine",
+          "price_gold": 75
+        },
+        {
+          "name": "Plan: Gauss pistol refined receiver",
+          "price_gold": 150
+        },
+        {
+          "name": "Plan: Protective lining Secret Service underarmor",
+          "price_gold": 113
+        },
+        {
+          "name": "Plan: Shielded lining Secret Service underarmor",
+          "price_gold": 150
+        },
+        {
+          "name": "Plan: Thorn armor chest piece",
+          "price_gold": 750
+        },
+        {
+          "name": "Plan: Thorn armor left arm",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: Thorn armor left leg",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: Thorn armor right arm",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: Thorn armor right leg",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: Lighter build Secret Service armor limbs",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: Plasma caster",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: Secret Service underarmor",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: T-65 calibrated shocks",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: T-65 rusty knuckles",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: T-65 jet pack",
+          "price_gold": 1500
+        },
+        {
+          "name": "Plan: The Gutter",
+          "price_gold": 1000
+        },
+        {
+          "name": "Plan: Ultra-light build Secret Service armor limbs",
+          "price_gold": 375
+        },
+        {
+          "name": "Plan: War glaive flaming blade",
+          "price_gold": 150
+        },
+        {
+          "name": "Plan: War glaive shock blade",
+          "price_gold": 150
+        },
+        {
+          "name": "Plan: Water well",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: Whistle in the Dark",
+          "price_gold": 1000
+        },
         {
           "name": "Plan: Ammo Converter",
           "price_gold": 938
@@ -66,18 +158,6 @@
           "price_gold": 75
         }
       ],
-      "list": 7,
-      "location": "Fort Atlas",
-      "starts_at": "2026-11-02T17:00:00Z",
-      "starts_at_local": "2026-11-02T12:00:00-05:00"
-    },
-    {
-      "active": false,
-      "big_sale": true,
-      "ends_at": "2026-11-16T17:00:00Z",
-      "ends_at_local": "2026-11-16T12:00:00-05:00",
-      "inventory_complete": false,
-      "items": [],
       "list": 8,
       "location": "Whitespring",
       "starts_at": "2026-11-12T17:00:00Z",

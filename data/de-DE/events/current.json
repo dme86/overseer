@@ -1,19 +1,6 @@
 {
-  "active": [
-    {
-      "active": true,
-      "ends_at": "2026-11-04T17:00:00Z",
-      "ends_at_local": "2026-11-04T18:00:00+01:00",
-      "starts_at": "2026-11-02T17:00:00Z",
-      "starts_at_local": "2026-11-02T18:00:00+01:00",
-      "tags": [
-        "minerva"
-      ],
-      "title": "Minerva (Liste 7)",
-      "url": "https://nukaknights.com/event/6260987344018968/minerva-liste-7/"
-    }
-  ],
-  "generated_at": "2026-11-03T22:19:50.308902158Z",
+  "active": [],
+  "generated_at": "2026-11-04T22:39:01.648838659Z",
   "locale": "de-DE",
   "schema_version": 1,
   "source": {

@@ -1,7 +1,7 @@
 {
   "challenges": [
     {
-      "name": "Verwerte Schrott, um Blei herzustellen.",
+      "name": "Iss eine gekochte Mahlzeit.",
       "score_reward": 250,
       "target": 10
     },
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Sammle ein Mikroskop oder einen biometrischen Scanner.",
-      "score_reward": 250,
-      "target": 2
-    },
-    {
-      "name": "Stelle einen beliebigen Skin an einer Bastelwerkbank her.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Töte einen Blutadler.",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Töte eine Honigbestie.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Töte ein Westentaschenphantom, während du ein Kostüm trägst.",
+      "name": "Beschaffe ein Feuerzeug, eine Zigarette oder Zigarre.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Schieße am Super Duper Mart in Burning Springs ein Foto mit deiner Kamera.",
+      "name": "Sammle einen Knochen auf.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Töte ein Westentaschenphantom, während du einem Team angehörst.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte während einer Routinejagd einen Gegner mit einer scharfen oder durchbohrenden Waffe.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Töte einen Gegner während der Quest \"Geschändete Gräber\" mit einer Schaufel.",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Benutze den Fotomodus, während du in einem Team bist.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-11-03T22:19:50.308902158Z",
+  "generated_at": "2026-11-04T22:39:01.648838659Z",
   "locale": "de-DE",
-  "period_start": "2026-11-03T17:00:00Z",
-  "period_start_local": "2026-11-03T18:00:00+01:00",
-  "reset_at": "2026-11-04T17:00:00Z",
-  "reset_at_local": "2026-11-04T18:00:00+01:00",
+  "period_start": "2026-11-04T17:00:00Z",
+  "period_start_local": "2026-11-04T18:00:00+01:00",
+  "reset_at": "2026-11-05T17:00:00Z",
+  "reset_at_local": "2026-11-05T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

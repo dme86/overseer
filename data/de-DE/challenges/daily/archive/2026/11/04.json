@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Iss eine gekochte Mahlzeit.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Beschaffe ein Feuerzeug, eine Zigarette oder Zigarre.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Sammle einen Knochen auf.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Töte ein Westentaschenphantom, während du einem Team angehörst.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte während einer Routinejagd einen Gegner mit einer scharfen oder durchbohrenden Waffe.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Töte einen Gegner während der Quest \"Geschändete Gräber\" mit einer Schaufel.",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Benutze den Fotomodus, während du in einem Team bist.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-04T22:39:01.648838659Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-04T17:00:00Z",
+  "period_start_local": "2026-11-04T18:00:00+01:00",
+  "reset_at": "2026-11-05T17:00:00Z",
+  "reset_at_local": "2026-11-05T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

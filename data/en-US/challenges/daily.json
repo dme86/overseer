@@ -1,7 +1,7 @@
 {
   "challenges": [
     {
-      "name": "Scrap junk to produce Lead",
+      "name": "Eat a Cooked Meal",
       "score_reward": 250,
       "target": 10
     },
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Collect a Microscope or Biometric Scanner",
-      "score_reward": 250,
-      "target": 2
-    },
-    {
-      "name": "Craft any Flair at a Tinkerer's Bench",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Kill a Blood Eagle",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Kill a Honey Beast",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Kill a Pint-Sized Phantom while wearing a Costume",
+      "name": "Collect a Lighter, Cigarette or Cigar",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Take a Camera Picture at the Super Duper Mart in the Burning Springs",
+      "name": "Collect a piece of Bone",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom while in a Team",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Kill an Enemy with a Sharp or Piercing Weapon during a Grunt Hunt",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Use Photomode while in a Team",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-11-03T22:19:50.308902158Z",
+  "generated_at": "2026-11-04T22:39:01.648838659Z",
   "locale": "en-US",
-  "period_start": "2026-11-03T17:00:00Z",
-  "period_start_local": "2026-11-03T12:00:00-05:00",
-  "reset_at": "2026-11-04T17:00:00Z",
-  "reset_at_local": "2026-11-04T12:00:00-05:00",
+  "period_start": "2026-11-04T17:00:00Z",
+  "period_start_local": "2026-11-04T12:00:00-05:00",
+  "reset_at": "2026-11-05T17:00:00Z",
+  "reset_at_local": "2026-11-05T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
