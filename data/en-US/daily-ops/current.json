@@ -1,17 +1,17 @@
 {
-  "enemies": "Pint-Sized Phantoms",
-  "generated_at": "2026-11-04T22:39:01.648838659Z",
+  "enemies": "Mole Miners",
+  "generated_at": "2026-11-05T19:55:03.526976304Z",
   "locale": "en-US",
-  "location": "Glassed Cavern",
-  "mode": "Decryption",
+  "location": "Vault 94",
+  "mode": "Uplink",
   "mutations": [
-    "Savage Strike",
-    "Swift-Footed"
+    "Piercing Gaze",
+    "Active Camouflage"
   ],
-  "period_start": "2026-11-04T17:00:00Z",
-  "period_start_local": "2026-11-04T12:00:00-05:00",
-  "reset_at": "2026-11-05T17:00:00Z",
-  "reset_at_local": "2026-11-05T12:00:00-05:00",
+  "period_start": "2026-11-05T17:00:00Z",
+  "period_start_local": "2026-11-05T12:00:00-05:00",
+  "reset_at": "2026-11-06T17:00:00Z",
+  "reset_at_local": "2026-11-06T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

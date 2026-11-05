@@ -1,21 +1,7 @@
 {
-  "generated_at": "2026-11-04T22:39:01.648838659Z",
+  "generated_at": "2026-11-05T19:55:03.526976304Z",
   "locale": "de-DE",
   "offers": [
-    {
-      "active": false,
-      "discount_percent": 50,
-      "ends_at": "2026-11-06T17:00:00Z",
-      "ends_at_local": "2026-11-06T18:00:00+01:00",
-      "item": "Winter Elm Tress",
-      "offer_type": "daily",
-      "price_atoms": 100,
-      "price_text": "100 (50% off!)",
-      "section": "",
-      "starts_at": "2026-11-05T17:00:00Z",
-      "starts_at_local": "2026-11-05T18:00:00+01:00",
-      "subsection": "Week of November 3"
-    },
     {
       "active": false,
       "discount_percent": 50,

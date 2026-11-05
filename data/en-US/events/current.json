@@ -1,16 +1,7 @@
 {
-  "active": [],
-  "generated_at": "2026-11-04T22:39:01.648838659Z",
-  "locale": "en-US",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-calendar.html"
-  },
-  "timezone": "America/New_York",
-  "upcoming": [
+  "active": [
     {
-      "active": false,
+      "active": true,
       "ends_at": "2026-11-09T17:00:00Z",
       "ends_at_local": "2026-11-09T12:00:00-05:00",
       "starts_at": "2026-11-05T17:00:00Z",
@@ -21,7 +12,17 @@
       ],
       "title": "Double SCORE and Caps-A-Plenty",
       "url": "https://nukaknights.com/events/6260987344018985/double-score-and-caps-a-plenty/"
-    },
+    }
+  ],
+  "generated_at": "2026-11-05T19:55:03.526976304Z",
+  "locale": "en-US",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-calendar.html"
+  },
+  "timezone": "America/New_York",
+  "upcoming": [
     {
       "active": false,
       "ends_at": "2026-11-17T17:00:00Z",

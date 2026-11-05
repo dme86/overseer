@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Sell a Ski Sword to an NPC vendor",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 2000,
+      "target": 6
+    },
+    {
+      "name": "Collect a Burnt Book",
+      "score_reward": 500,
+      "target": 10
+    },
+    {
+      "name": "Complete a Daily Operation on a Public Team!",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Cripple a Human's Head",
+      "score_reward": 500,
+      "target": 2
+    },
+    {
+      "name": "Hack a Terminal",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Kill a Human while Wearing a Costume",
+      "score_reward": 500,
+      "target": 10
+    },
+    {
+      "name": "Visit another Player's Shelter",
+      "score_reward": 500,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-05T19:55:03.526976304Z",
+  "locale": "en-US",
+  "period_start": "2026-11-05T17:00:00Z",
+  "period_start_local": "2026-11-05T12:00:00-05:00",
+  "reset_at": "2026-11-06T17:00:00Z",
+  "reset_at_local": "2026-11-06T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

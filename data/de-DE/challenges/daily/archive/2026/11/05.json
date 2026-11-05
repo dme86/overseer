@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Verkaufe ein Skischwert an einen NPC-Händler.",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 2000,
+      "target": 6
+    },
+    {
+      "name": "Beschaffe ein verbranntes Buch.",
+      "score_reward": 500,
+      "target": 10
+    },
+    {
+      "name": "Schließe eine tägliche Operation in einem öffentlichen Team ab!",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Verkrüppele einen menschlichen Kopf.",
+      "score_reward": 500,
+      "target": 2
+    },
+    {
+      "name": "Hacke ein Terminal.",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Töte einen Menschen, während du ein Kostüm trägst.",
+      "score_reward": 500,
+      "target": 10
+    },
+    {
+      "name": "Besuche die Unterkunft eines anderen Spielers.",
+      "score_reward": 500,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-05T19:55:03.526976304Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-05T17:00:00Z",
+  "period_start_local": "2026-11-05T18:00:00+01:00",
+  "reset_at": "2026-11-06T17:00:00Z",
+  "reset_at_local": "2026-11-06T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

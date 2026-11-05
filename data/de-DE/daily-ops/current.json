@@ -1,17 +1,17 @@
 {
-  "enemies": "Westentaschenphantome",
-  "generated_at": "2026-11-04T22:39:01.648838659Z",
+  "enemies": "Grubenhauer",
+  "generated_at": "2026-11-05T19:55:03.526976304Z",
   "locale": "de-DE",
-  "location": "Verglaste Höhle",
-  "mode": "Entschlüsselung",
+  "location": "Vault 94",
+  "mode": "Verbindungsgerät",
   "mutations": [
-    "Wilder Schlag",
-    "Flink"
+    "Tödlicher Blick",
+    "Aktive Tarnung"
   ],
-  "period_start": "2026-11-04T17:00:00Z",
-  "period_start_local": "2026-11-04T18:00:00+01:00",
-  "reset_at": "2026-11-05T17:00:00Z",
-  "reset_at_local": "2026-11-05T18:00:00+01:00",
+  "period_start": "2026-11-05T17:00:00Z",
+  "period_start_local": "2026-11-05T18:00:00+01:00",
+  "reset_at": "2026-11-06T17:00:00Z",
+  "reset_at_local": "2026-11-06T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
