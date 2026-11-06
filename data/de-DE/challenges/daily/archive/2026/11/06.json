@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Sammle ein Blutpaket auf.",
+      "score_reward": 500,
+      "target": 3
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 2000,
+      "target": 6
+    },
+    {
+      "name": "Baue im Freie-Kamera-Modus etwas in einer Unterkunft.",
+      "score_reward": 500,
+      "target": 10
+    },
+    {
+      "name": "Sammle Mirelurk-Eier.",
+      "score_reward": 500,
+      "target": 3
+    },
+    {
+      "name": "Töte einen Mirelurk.",
+      "score_reward": 500,
+      "target": 5
+    },
+    {
+      "name": "Töte einen Gegner in der Ash-Heap-Region.",
+      "score_reward": 500,
+      "target": 5
+    },
+    {
+      "name": "Töte einen Gegner mit einer Schrotflinte.",
+      "score_reward": 500,
+      "target": 8
+    },
+    {
+      "name": "Verkaufe eine Schwarzpulver-Pistole an einen NPC-Händler.",
+      "score_reward": 500,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-06T19:21:58.041045731Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-06T17:00:00Z",
+  "period_start_local": "2026-11-06T18:00:00+01:00",
+  "reset_at": "2026-11-07T17:00:00Z",
+  "reset_at_local": "2026-11-07T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

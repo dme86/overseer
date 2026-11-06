@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Sell a Ski Sword to an NPC vendor",
+      "name": "Collect a Blood pack",
       "score_reward": 500,
-      "target": null
+      "target": 3
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Collect a Burnt Book",
+      "name": "Build Anything in a Shelter in Free Cam",
       "score_reward": 500,
       "target": 10
     },
     {
-      "name": "Complete a Daily Operation on a Public Team!",
+      "name": "Collect Mirelurk Eggs",
       "score_reward": 500,
-      "target": null
+      "target": 3
     },
     {
-      "name": "Cripple a Human's Head",
+      "name": "Kill a Mirelurk",
       "score_reward": 500,
-      "target": 2
+      "target": 5
     },
     {
-      "name": "Hack a Terminal",
+      "name": "Kill an Enemy in the Ash Heap Region",
       "score_reward": 500,
-      "target": null
+      "target": 5
     },
     {
-      "name": "Kill a Human while Wearing a Costume",
+      "name": "Kill an Enemy with any Shotgun",
       "score_reward": 500,
-      "target": 10
+      "target": 8
     },
     {
-      "name": "Visit another Player's Shelter",
+      "name": "Sell a Black Powder Pistol to an NPC vendor",
       "score_reward": 500,
       "target": null
     }
   ],
-  "generated_at": "2026-11-05T19:55:03.526976304Z",
+  "generated_at": "2026-11-06T19:21:58.041045731Z",
   "locale": "en-US",
-  "period_start": "2026-11-05T17:00:00Z",
-  "period_start_local": "2026-11-05T12:00:00-05:00",
-  "reset_at": "2026-11-06T17:00:00Z",
-  "reset_at_local": "2026-11-06T12:00:00-05:00",
+  "period_start": "2026-11-06T17:00:00Z",
+  "period_start_local": "2026-11-06T12:00:00-05:00",
+  "reset_at": "2026-11-07T17:00:00Z",
+  "reset_at_local": "2026-11-07T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

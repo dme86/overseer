@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Verkaufe ein Skischwert an einen NPC-Händler.",
+      "name": "Sammle ein Blutpaket auf.",
       "score_reward": 500,
-      "target": null
+      "target": 3
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Beschaffe ein verbranntes Buch.",
+      "name": "Baue im Freie-Kamera-Modus etwas in einer Unterkunft.",
       "score_reward": 500,
       "target": 10
     },
     {
-      "name": "Schließe eine tägliche Operation in einem öffentlichen Team ab!",
+      "name": "Sammle Mirelurk-Eier.",
       "score_reward": 500,
-      "target": null
+      "target": 3
     },
     {
-      "name": "Verkrüppele einen menschlichen Kopf.",
+      "name": "Töte einen Mirelurk.",
       "score_reward": 500,
-      "target": 2
+      "target": 5
     },
     {
-      "name": "Hacke ein Terminal.",
+      "name": "Töte einen Gegner in der Ash-Heap-Region.",
       "score_reward": 500,
-      "target": null
+      "target": 5
     },
     {
-      "name": "Töte einen Menschen, während du ein Kostüm trägst.",
+      "name": "Töte einen Gegner mit einer Schrotflinte.",
       "score_reward": 500,
-      "target": 10
+      "target": 8
     },
     {
-      "name": "Besuche die Unterkunft eines anderen Spielers.",
+      "name": "Verkaufe eine Schwarzpulver-Pistole an einen NPC-Händler.",
       "score_reward": 500,
       "target": null
     }
   ],
-  "generated_at": "2026-11-05T19:55:03.526976304Z",
+  "generated_at": "2026-11-06T19:21:58.041045731Z",
   "locale": "de-DE",
-  "period_start": "2026-11-05T17:00:00Z",
-  "period_start_local": "2026-11-05T18:00:00+01:00",
-  "reset_at": "2026-11-06T17:00:00Z",
-  "reset_at_local": "2026-11-06T18:00:00+01:00",
+  "period_start": "2026-11-06T17:00:00Z",
+  "period_start_local": "2026-11-06T18:00:00+01:00",
+  "reset_at": "2026-11-07T17:00:00Z",
+  "reset_at_local": "2026-11-07T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
