@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Collect a Blood pack",
+      "name": "Collect an audio Holotape",
       "score_reward": 500,
-      "target": 3
+      "target": null
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Build Anything in a Shelter in Free Cam",
+      "name": "Collect Deathclaw eggs",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Collect Toilet Paper",
+      "score_reward": 500,
+      "target": 2
+    },
+    {
+      "name": "Collect a Board Game",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Kill a Legendary Enemy",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Kill a Scorched",
       "score_reward": 500,
       "target": 10
     },
     {
-      "name": "Collect Mirelurk Eggs",
-      "score_reward": 500,
-      "target": 3
-    },
-    {
-      "name": "Kill a Mirelurk",
-      "score_reward": 500,
-      "target": 5
-    },
-    {
-      "name": "Kill an Enemy in the Ash Heap Region",
-      "score_reward": 500,
-      "target": 5
-    },
-    {
-      "name": "Kill an Enemy with any Shotgun",
-      "score_reward": 500,
-      "target": 8
-    },
-    {
-      "name": "Sell a Black Powder Pistol to an NPC vendor",
+      "name": "Take a Camera Picture at Nuka-World On Tour",
       "score_reward": 500,
       "target": null
     }
   ],
-  "generated_at": "2026-11-06T19:21:58.041045731Z",
+  "generated_at": "2026-11-07T20:55:37.837817354Z",
   "locale": "en-US",
-  "period_start": "2026-11-06T17:00:00Z",
-  "period_start_local": "2026-11-06T12:00:00-05:00",
-  "reset_at": "2026-11-07T17:00:00Z",
-  "reset_at_local": "2026-11-07T12:00:00-05:00",
+  "period_start": "2026-11-07T17:00:00Z",
+  "period_start_local": "2026-11-07T12:00:00-05:00",
+  "reset_at": "2026-11-08T17:00:00Z",
+  "reset_at_local": "2026-11-08T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

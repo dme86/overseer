@@ -1,17 +1,17 @@
 {
   "enemies": "Westentaschenphantome",
-  "generated_at": "2026-11-06T19:21:58.041045731Z",
+  "generated_at": "2026-11-07T20:55:37.837817354Z",
   "locale": "de-DE",
-  "location": "Die Höhlen",
-  "mode": "Entschlüsselung",
+  "location": "Unheimliche Höhlen",
+  "mode": "Verbindungsgerät",
   "mutations": [
-    "Wilder Schlag",
-    "Explosiv"
+    "Tödlicher Blick",
+    "Giftiges Blut"
   ],
-  "period_start": "2026-11-06T17:00:00Z",
-  "period_start_local": "2026-11-06T18:00:00+01:00",
-  "reset_at": "2026-11-07T17:00:00Z",
-  "reset_at_local": "2026-11-07T18:00:00+01:00",
+  "period_start": "2026-11-07T17:00:00Z",
+  "period_start_local": "2026-11-07T18:00:00+01:00",
+  "reset_at": "2026-11-08T17:00:00Z",
+  "reset_at_local": "2026-11-08T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

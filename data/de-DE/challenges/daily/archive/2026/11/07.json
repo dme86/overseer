@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Sammle ein Audio-Holoband.",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 2000,
+      "target": 6
+    },
+    {
+      "name": "Sammle Todeskrallen-Eier.",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Sammle Toilettenpapier.",
+      "score_reward": 500,
+      "target": 2
+    },
+    {
+      "name": "Sammle ein Brettspiel.",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Töte einen legendären Gegner.",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Töte einen Verbrannten.",
+      "score_reward": 500,
+      "target": 10
+    },
+    {
+      "name": "Schieße bei Nuka-World On Tour mit deiner Kamera ein Foto.",
+      "score_reward": 500,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-07T20:55:37.837817354Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-07T17:00:00Z",
+  "period_start_local": "2026-11-07T18:00:00+01:00",
+  "reset_at": "2026-11-08T17:00:00Z",
+  "reset_at_local": "2026-11-08T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

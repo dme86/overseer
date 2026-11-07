@@ -1,17 +1,17 @@
 {
   "enemies": "Pint-Sized Phantoms",
-  "generated_at": "2026-11-06T19:21:58.041045731Z",
+  "generated_at": "2026-11-07T20:55:37.837817354Z",
   "locale": "en-US",
-  "location": "The Burrows",
-  "mode": "Decryption",
+  "location": "Uncanny Caverns",
+  "mode": "Uplink",
   "mutations": [
-    "Savage Strike",
-    "Volatile"
+    "Piercing Gaze",
+    "Toxic Blood"
   ],
-  "period_start": "2026-11-06T17:00:00Z",
-  "period_start_local": "2026-11-06T12:00:00-05:00",
-  "reset_at": "2026-11-07T17:00:00Z",
-  "reset_at_local": "2026-11-07T12:00:00-05:00",
+  "period_start": "2026-11-07T17:00:00Z",
+  "period_start_local": "2026-11-07T12:00:00-05:00",
+  "reset_at": "2026-11-08T17:00:00Z",
+  "reset_at_local": "2026-11-08T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
