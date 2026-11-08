@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Collect an audio Holotape",
+      "name": "Drink Nuka-Cola",
       "score_reward": 500,
-      "target": null
+      "target": 3
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Collect Deathclaw eggs",
-      "score_reward": 500,
-      "target": null
-    },
-    {
-      "name": "Collect Toilet Paper",
+      "name": "Collect a Teapot",
       "score_reward": 500,
       "target": 2
     },
     {
-      "name": "Collect a Board Game",
+      "name": "Cripple a Protectron or a Robobrain's Arm",
+      "score_reward": 500,
+      "target": 2
+    },
+    {
+      "name": "Kill a Cryptid",
       "score_reward": 500,
       "target": null
     },
     {
-      "name": "Kill a Legendary Enemy",
+      "name": "Sell Glowing Fungus Soup to an NPC vendor",
       "score_reward": 500,
       "target": null
     },
     {
-      "name": "Kill a Scorched",
+      "name": "Sell a Sweet Roll to an NPC vendor",
       "score_reward": 500,
-      "target": 10
+      "target": null
     },
     {
-      "name": "Take a Camera Picture at Nuka-World On Tour",
+      "name": "Use Photomode in a Teammate's C.A.M.P.",
       "score_reward": 500,
       "target": null
     }
   ],
-  "generated_at": "2026-11-07T20:55:37.837817354Z",
+  "generated_at": "2026-11-08T21:12:57.367555230Z",
   "locale": "en-US",
-  "period_start": "2026-11-07T17:00:00Z",
-  "period_start_local": "2026-11-07T12:00:00-05:00",
-  "reset_at": "2026-11-08T17:00:00Z",
-  "reset_at_local": "2026-11-08T12:00:00-05:00",
+  "period_start": "2026-11-08T17:00:00Z",
+  "period_start_local": "2026-11-08T12:00:00-05:00",
+  "reset_at": "2026-11-09T17:00:00Z",
+  "reset_at_local": "2026-11-09T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Drink Nuka-Cola",
+      "score_reward": 500,
+      "target": 3
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 2000,
+      "target": 6
+    },
+    {
+      "name": "Collect a Teapot",
+      "score_reward": 500,
+      "target": 2
+    },
+    {
+      "name": "Cripple a Protectron or a Robobrain's Arm",
+      "score_reward": 500,
+      "target": 2
+    },
+    {
+      "name": "Kill a Cryptid",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Sell Glowing Fungus Soup to an NPC vendor",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Sell a Sweet Roll to an NPC vendor",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Use Photomode in a Teammate's C.A.M.P.",
+      "score_reward": 500,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-08T21:12:57.367555230Z",
+  "locale": "en-US",
+  "period_start": "2026-11-08T17:00:00Z",
+  "period_start_local": "2026-11-08T12:00:00-05:00",
+  "reset_at": "2026-11-09T17:00:00Z",
+  "reset_at_local": "2026-11-09T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

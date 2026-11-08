@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Sammle ein Audio-Holoband.",
+      "name": "Trinke eine Nuka-Cola.",
       "score_reward": 500,
-      "target": null
+      "target": 3
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Sammle Todeskrallen-Eier.",
-      "score_reward": 500,
-      "target": null
-    },
-    {
-      "name": "Sammle Toilettenpapier.",
+      "name": "Sammle eine Teekanne.",
       "score_reward": 500,
       "target": 2
     },
     {
-      "name": "Sammle ein Brettspiel.",
+      "name": "Verkrüppele einen Protektron- oder Robohirn-Arm.",
+      "score_reward": 500,
+      "target": 2
+    },
+    {
+      "name": "Töte einen Kryptiden.",
       "score_reward": 500,
       "target": null
     },
     {
-      "name": "Töte einen legendären Gegner.",
+      "name": "Verkaufe Leuchtpilzsuppe an NPC-Verkäufer.",
       "score_reward": 500,
       "target": null
     },
     {
-      "name": "Töte einen Verbrannten.",
+      "name": "Verkaufe einen Süßkuchen an einen NPC-Händler.",
       "score_reward": 500,
-      "target": 10
+      "target": null
     },
     {
-      "name": "Schieße bei Nuka-World On Tour mit deiner Kamera ein Foto.",
+      "name": "Benutze den Fotomodus im C.A.M.P. eines Teammitglieds.",
       "score_reward": 500,
       "target": null
     }
   ],
-  "generated_at": "2026-11-07T20:55:37.837817354Z",
+  "generated_at": "2026-11-08T21:12:57.367555230Z",
   "locale": "de-DE",
-  "period_start": "2026-11-07T17:00:00Z",
-  "period_start_local": "2026-11-07T18:00:00+01:00",
-  "reset_at": "2026-11-08T17:00:00Z",
-  "reset_at_local": "2026-11-08T18:00:00+01:00",
+  "period_start": "2026-11-08T17:00:00Z",
+  "period_start_local": "2026-11-08T18:00:00+01:00",
+  "reset_at": "2026-11-09T17:00:00Z",
+  "reset_at_local": "2026-11-09T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

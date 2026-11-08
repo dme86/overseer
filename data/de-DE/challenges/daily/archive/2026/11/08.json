@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Trinke eine Nuka-Cola.",
+      "score_reward": 500,
+      "target": 3
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 2000,
+      "target": 6
+    },
+    {
+      "name": "Sammle eine Teekanne.",
+      "score_reward": 500,
+      "target": 2
+    },
+    {
+      "name": "Verkrüppele einen Protektron- oder Robohirn-Arm.",
+      "score_reward": 500,
+      "target": 2
+    },
+    {
+      "name": "Töte einen Kryptiden.",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Verkaufe Leuchtpilzsuppe an NPC-Verkäufer.",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Verkaufe einen Süßkuchen an einen NPC-Händler.",
+      "score_reward": 500,
+      "target": null
+    },
+    {
+      "name": "Benutze den Fotomodus im C.A.M.P. eines Teammitglieds.",
+      "score_reward": 500,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-08T21:12:57.367555230Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-08T17:00:00Z",
+  "period_start_local": "2026-11-08T18:00:00+01:00",
+  "reset_at": "2026-11-09T17:00:00Z",
+  "reset_at_local": "2026-11-09T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}
