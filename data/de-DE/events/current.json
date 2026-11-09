@@ -1,20 +1,6 @@
 {
-  "active": [
-    {
-      "active": true,
-      "ends_at": "2026-11-09T17:00:00Z",
-      "ends_at_local": "2026-11-09T18:00:00+01:00",
-      "starts_at": "2026-11-05T17:00:00Z",
-      "starts_at_local": "2026-11-05T18:00:00+01:00",
-      "tags": [
-        "caps_a_plenty",
-        "double_score"
-      ],
-      "title": "Doppelter SCORE und Reichlich Kronkorken",
-      "url": "https://nukaknights.com/event/6260987344018985/doppelter-score-und-reichlich-kronkorken/"
-    }
-  ],
-  "generated_at": "2026-11-05T19:55:03.526976304Z",
+  "active": [],
+  "generated_at": "2026-11-09T22:18:37.096893381Z",
   "locale": "de-DE",
   "schema_version": 1,
   "source": {

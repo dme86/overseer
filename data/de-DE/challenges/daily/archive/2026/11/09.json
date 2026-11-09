@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Töte Insekten.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Baue eine Dekoration in einer Unterkunft.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Sammle einen Knochen auf.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Iss einen Kuchen, eine Torte oder Süßigkeit.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte einen Gegner während der Quest \"Geschändete Gräber\" mit einer Schaufel.",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Verkaufe Sumpf-Tofu an einen NPC-Händler.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Verkaufe eine Schrotflinte an einen NPC-Händler.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-09T22:18:37.096893381Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-09T17:00:00Z",
+  "period_start_local": "2026-11-09T18:00:00+01:00",
+  "reset_at": "2026-11-10T17:00:00Z",
+  "reset_at_local": "2026-11-10T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

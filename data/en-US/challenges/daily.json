@@ -1,52 +1,52 @@
 {
   "challenges": [
     {
-      "name": "Drink Nuka-Cola",
-      "score_reward": 500,
-      "target": 3
+      "name": "Kill Insects",
+      "score_reward": 250,
+      "target": 5
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
-      "score_reward": 2000,
+      "score_reward": 1000,
       "target": 6
     },
     {
-      "name": "Collect a Teapot",
-      "score_reward": 500,
-      "target": 2
+      "name": "Build a Decoration in a Shelter",
+      "score_reward": 250,
+      "target": 5
     },
     {
-      "name": "Cripple a Protectron or a Robobrain's Arm",
-      "score_reward": 500,
-      "target": 2
+      "name": "Collect a piece of Bone",
+      "score_reward": 250,
+      "target": 3
     },
     {
-      "name": "Kill a Cryptid",
-      "score_reward": 500,
+      "name": "Eat a Cake, Pie, or Candy",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Sell Swamp Tofu to an NPC vendor",
+      "score_reward": 250,
       "target": null
     },
     {
-      "name": "Sell Glowing Fungus Soup to an NPC vendor",
-      "score_reward": 500,
-      "target": null
-    },
-    {
-      "name": "Sell a Sweet Roll to an NPC vendor",
-      "score_reward": 500,
-      "target": null
-    },
-    {
-      "name": "Use Photomode in a Teammate's C.A.M.P.",
-      "score_reward": 500,
+      "name": "Sell a Shotgun to an NPC vendor",
+      "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-11-08T21:12:57.367555230Z",
+  "generated_at": "2026-11-09T22:18:37.096893381Z",
   "locale": "en-US",
-  "period_start": "2026-11-08T17:00:00Z",
-  "period_start_local": "2026-11-08T12:00:00-05:00",
-  "reset_at": "2026-11-09T17:00:00Z",
-  "reset_at_local": "2026-11-09T12:00:00-05:00",
+  "period_start": "2026-11-09T17:00:00Z",
+  "period_start_local": "2026-11-09T12:00:00-05:00",
+  "reset_at": "2026-11-10T17:00:00Z",
+  "reset_at_local": "2026-11-10T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

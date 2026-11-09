@@ -1,20 +1,6 @@
 {
-  "active": [
-    {
-      "active": true,
-      "ends_at": "2026-11-09T17:00:00Z",
-      "ends_at_local": "2026-11-09T12:00:00-05:00",
-      "starts_at": "2026-11-05T17:00:00Z",
-      "starts_at_local": "2026-11-05T12:00:00-05:00",
-      "tags": [
-        "caps_a_plenty",
-        "double_score"
-      ],
-      "title": "Double SCORE and Caps-A-Plenty",
-      "url": "https://nukaknights.com/events/6260987344018985/double-score-and-caps-a-plenty/"
-    }
-  ],
-  "generated_at": "2026-11-05T19:55:03.526976304Z",
+  "active": [],
+  "generated_at": "2026-11-09T22:18:37.096893381Z",
   "locale": "en-US",
   "schema_version": 1,
   "source": {
