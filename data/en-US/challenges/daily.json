@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Kill Insects",
+      "name": "Drink Nuka-Cola Cranberry",
       "score_reward": 250,
-      "target": 5
+      "target": 2
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Build a Decoration in a Shelter",
+      "name": "Collect Ballistic Ammo",
+      "score_reward": 250,
+      "target": 20
+    },
+    {
+      "name": "Complete the Event: \"Invaders From Beyond\"",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Cripple a Blood Eagle's Arm",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Kill an Enemy in the Mire Region",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Collect a piece of Bone",
+      "name": "Scrap junk to produce Circuitry",
       "score_reward": 250,
-      "target": 3
+      "target": 5
     },
     {
-      "name": "Eat a Cake, Pie, or Candy",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
-      "score_reward": 250,
-      "target": 6
-    },
-    {
-      "name": "Sell Swamp Tofu to an NPC vendor",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Sell a Shotgun to an NPC vendor",
+      "name": "Take a Camera Picture of an Alien Enemy",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-11-09T22:18:37.096893381Z",
+  "generated_at": "2026-11-10T19:42:08.652963382Z",
   "locale": "en-US",
-  "period_start": "2026-11-09T17:00:00Z",
-  "period_start_local": "2026-11-09T12:00:00-05:00",
-  "reset_at": "2026-11-10T17:00:00Z",
-  "reset_at_local": "2026-11-10T12:00:00-05:00",
+  "period_start": "2026-11-10T17:00:00Z",
+  "period_start_local": "2026-11-10T12:00:00-05:00",
+  "reset_at": "2026-11-11T17:00:00Z",
+  "reset_at_local": "2026-11-11T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

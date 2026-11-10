@@ -1,0 +1,76 @@
+{
+  "challenges": [
+    {
+      "name": "Schließe eine tägliche Goldstern-Challenge ab.",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Wiederholbar unter Rang 100: Erhalte EP.",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Wiederholbar ab Rang 100: Schließe ein öffentliches Event ab.",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Episch - Zerstöre Roboter mit einer Energiewaffe.",
+      "score_reward": 1500,
+      "target": 15
+    },
+    {
+      "name": "Sammle Energiemunition.",
+      "score_reward": 1000,
+      "target": 40
+    },
+    {
+      "name": "Sammle ein Brettspiel.",
+      "score_reward": 1000,
+      "target": 4
+    },
+    {
+      "name": "Zerstöre einen Roboter.",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Ernte eine Wildpflanze oder einen Pilz.",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Töte die Wiedergeburt des Westentaschenschlitzers",
+      "score_reward": 1000,
+      "target": null
+    },
+    {
+      "name": "Verkaufe Kürbiskuchen an NPC-Verkäufer.",
+      "score_reward": 1000,
+      "target": null
+    },
+    {
+      "name": "Verkaufe eine Waffe an einen NPC-Händler.",
+      "score_reward": 1000,
+      "target": 15
+    },
+    {
+      "name": "Besuche die Unterkunft eines anderen Spielers.",
+      "score_reward": 1000,
+      "target": 5
+    }
+  ],
+  "generated_at": "2026-11-10T19:42:08.652963382Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-10T17:00:00Z",
+  "period_start_local": "2026-11-10T18:00:00+01:00",
+  "reset_at": "2026-11-17T17:00:00Z",
+  "reset_at_local": "2026-11-17T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

@@ -1,0 +1,76 @@
+{
+  "challenges": [
+    {
+      "name": "Complete a Gold Star Daily Challenge!",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Repeatable Under Rank 100: Gain XP",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Repeatable at Rank 100 or above: Complete a Public Event",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Epic - Destroy Robots with an Energy Weapon",
+      "score_reward": 1500,
+      "target": 15
+    },
+    {
+      "name": "Collect Energy Ammo",
+      "score_reward": 1000,
+      "target": 40
+    },
+    {
+      "name": "Collect a Board Game",
+      "score_reward": 1000,
+      "target": 4
+    },
+    {
+      "name": "Destroy a Robot",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Harvest a Wild Plant or Fungi",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Kill The Reborn Pint-Sized Slasher",
+      "score_reward": 1000,
+      "target": null
+    },
+    {
+      "name": "Sell Pumpkin Pie to an NPC vendor",
+      "score_reward": 1000,
+      "target": null
+    },
+    {
+      "name": "Sell a Weapon to an NPC vendor",
+      "score_reward": 1000,
+      "target": 15
+    },
+    {
+      "name": "Visit another Player's Shelter",
+      "score_reward": 1000,
+      "target": 5
+    }
+  ],
+  "generated_at": "2026-11-10T19:42:08.652963382Z",
+  "locale": "en-US",
+  "period_start": "2026-11-10T17:00:00Z",
+  "period_start_local": "2026-11-10T12:00:00-05:00",
+  "reset_at": "2026-11-17T17:00:00Z",
+  "reset_at_local": "2026-11-17T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

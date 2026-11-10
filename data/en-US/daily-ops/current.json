@@ -1,17 +1,17 @@
 {
-  "enemies": "Pint-Sized Phantoms",
-  "generated_at": "2026-11-09T22:18:37.096893381Z",
+  "enemies": "Overgrown",
+  "generated_at": "2026-11-10T19:42:08.652963382Z",
   "locale": "en-US",
-  "location": "Charleston Capitol Building",
-  "mode": "Uplink",
+  "location": "Uncanny Caverns",
+  "mode": "Decryption",
   "mutations": [
-    "Piercing Gaze",
-    "Group Regeneration"
+    "Savage Strike",
+    "Danger Cloud"
   ],
-  "period_start": "2026-11-09T17:00:00Z",
-  "period_start_local": "2026-11-09T12:00:00-05:00",
-  "reset_at": "2026-11-10T17:00:00Z",
-  "reset_at_local": "2026-11-10T12:00:00-05:00",
+  "period_start": "2026-11-10T17:00:00Z",
+  "period_start_local": "2026-11-10T12:00:00-05:00",
+  "reset_at": "2026-11-11T17:00:00Z",
+  "reset_at_local": "2026-11-11T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

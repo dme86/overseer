@@ -1,16 +1,7 @@
 {
-  "active": [],
-  "generated_at": "2026-11-09T22:18:37.096893381Z",
-  "locale": "en-US",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-calendar.html"
-  },
-  "timezone": "America/New_York",
-  "upcoming": [
+  "active": [
     {
-      "active": false,
+      "active": true,
       "ends_at": "2026-11-17T17:00:00Z",
       "ends_at_local": "2026-11-17T12:00:00-05:00",
       "starts_at": "2026-11-10T17:00:00Z",
@@ -20,7 +11,17 @@
       ],
       "title": "Anniversary Events",
       "url": "https://nukaknights.com/events/6260987344018986/anniversary-events/"
-    },
+    }
+  ],
+  "generated_at": "2026-11-10T19:42:08.652963382Z",
+  "locale": "en-US",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-calendar.html"
+  },
+  "timezone": "America/New_York",
+  "upcoming": [
     {
       "active": false,
       "ends_at": "2026-11-16T17:00:00Z",

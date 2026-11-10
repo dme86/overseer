@@ -16,39 +16,39 @@
       "target": 3
     },
     {
-      "name": "Build Anything in a Workshop or C.A.M.P.",
-      "score_reward": 1000,
-      "target": 25
+      "name": "Epic - Destroy Robots with an Energy Weapon",
+      "score_reward": 1500,
+      "target": 15
     },
     {
-      "name": "Collect Ballistic Ammo",
+      "name": "Collect Energy Ammo",
       "score_reward": 1000,
-      "target": 60
+      "target": 40
     },
     {
-      "name": "Craft Bulk Steel",
+      "name": "Collect a Board Game",
       "score_reward": 1000,
-      "target": 3
+      "target": 4
     },
     {
-      "name": "Craft Bulk Wood",
-      "score_reward": 1000,
-      "target": 3
-    },
-    {
-      "name": "Cripple a Super Mutant's Limb",
+      "name": "Destroy a Robot",
       "score_reward": 1000,
       "target": 30
     },
     {
-      "name": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
+      "name": "Harvest a Wild Plant or Fungi",
       "score_reward": 1000,
-      "target": 18
+      "target": 30
     },
     {
-      "name": "Scrap junk to produce Black Titanium",
+      "name": "Kill The Reborn Pint-Sized Slasher",
       "score_reward": 1000,
-      "target": 10
+      "target": null
+    },
+    {
+      "name": "Sell Pumpkin Pie to an NPC vendor",
+      "score_reward": 1000,
+      "target": null
     },
     {
       "name": "Sell a Weapon to an NPC vendor",
@@ -56,17 +56,17 @@
       "target": 15
     },
     {
-      "name": "Kill a Mole Miner",
+      "name": "Visit another Player's Shelter",
       "score_reward": 1000,
-      "target": 30
+      "target": 5
     }
   ],
-  "generated_at": "2026-11-03T22:19:50.308902158Z",
+  "generated_at": "2026-11-10T19:42:08.652963382Z",
   "locale": "en-US",
-  "period_start": "2026-11-03T17:00:00Z",
-  "period_start_local": "2026-11-03T12:00:00-05:00",
-  "reset_at": "2026-11-10T17:00:00Z",
-  "reset_at_local": "2026-11-10T12:00:00-05:00",
+  "period_start": "2026-11-10T17:00:00Z",
+  "period_start_local": "2026-11-10T12:00:00-05:00",
+  "reset_at": "2026-11-17T17:00:00Z",
+  "reset_at_local": "2026-11-17T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

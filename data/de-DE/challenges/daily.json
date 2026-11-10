@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Töte Insekten.",
+      "name": "Trinke Nuka-Cola Cranberry.",
       "score_reward": 250,
-      "target": 5
+      "target": 2
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Baue eine Dekoration in einer Unterkunft.",
+      "name": "Sammle ballistische Munition.",
+      "score_reward": 250,
+      "target": 20
+    },
+    {
+      "name": "Schließe das Event \"Angreifer aus dem All\" ab.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Verkrüppele einen Blutadler-Arm.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Töte einen Gegner in der Moor-Region.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Sammle einen Knochen auf.",
+      "name": "Verwerte Schrott, um Schaltkreise herzustellen.",
       "score_reward": 250,
-      "target": 3
+      "target": 5
     },
     {
-      "name": "Iss einen Kuchen, eine Torte oder Süßigkeit.",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Töte einen Gegner während der Quest \"Geschändete Gräber\" mit einer Schaufel.",
-      "score_reward": 250,
-      "target": 6
-    },
-    {
-      "name": "Verkaufe Sumpf-Tofu an einen NPC-Händler.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Verkaufe eine Schrotflinte an einen NPC-Händler.",
+      "name": "Schieße mit deiner Kamera ein Foto eines Aliengegners.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-11-09T22:18:37.096893381Z",
+  "generated_at": "2026-11-10T19:42:08.652963382Z",
   "locale": "de-DE",
-  "period_start": "2026-11-09T17:00:00Z",
-  "period_start_local": "2026-11-09T18:00:00+01:00",
-  "reset_at": "2026-11-10T17:00:00Z",
-  "reset_at_local": "2026-11-10T18:00:00+01:00",
+  "period_start": "2026-11-10T17:00:00Z",
+  "period_start_local": "2026-11-10T18:00:00+01:00",
+  "reset_at": "2026-11-11T17:00:00Z",
+  "reset_at_local": "2026-11-11T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

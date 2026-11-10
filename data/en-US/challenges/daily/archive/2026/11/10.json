@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Drink Nuka-Cola Cranberry",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Collect Ballistic Ammo",
+      "score_reward": 250,
+      "target": 20
+    },
+    {
+      "name": "Complete the Event: \"Invaders From Beyond\"",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Cripple a Blood Eagle's Arm",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Kill an Enemy in the Mire Region",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Scrap junk to produce Circuitry",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Take a Camera Picture of an Alien Enemy",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-10T19:42:08.652963382Z",
+  "locale": "en-US",
+  "period_start": "2026-11-10T17:00:00Z",
+  "period_start_local": "2026-11-10T12:00:00-05:00",
+  "reset_at": "2026-11-11T17:00:00Z",
+  "reset_at_local": "2026-11-11T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

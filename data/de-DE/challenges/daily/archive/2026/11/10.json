@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Trinke Nuka-Cola Cranberry.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Sammle ballistische Munition.",
+      "score_reward": 250,
+      "target": 20
+    },
+    {
+      "name": "Schließe das Event \"Angreifer aus dem All\" ab.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Verkrüppele einen Blutadler-Arm.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Töte einen Gegner in der Moor-Region.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Verwerte Schrott, um Schaltkreise herzustellen.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Schieße mit deiner Kamera ein Foto eines Aliengegners.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-10T19:42:08.652963382Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-10T17:00:00Z",
+  "period_start_local": "2026-11-10T18:00:00+01:00",
+  "reset_at": "2026-11-11T17:00:00Z",
+  "reset_at_local": "2026-11-11T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

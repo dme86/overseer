@@ -1,17 +1,17 @@
 {
-  "enemies": "Westentaschenphantome",
-  "generated_at": "2026-11-09T22:18:37.096893381Z",
+  "enemies": "Überwucherte",
+  "generated_at": "2026-11-10T19:42:08.652963382Z",
   "locale": "de-DE",
-  "location": "Charleston Capitol Building",
-  "mode": "Verbindungsgerät",
+  "location": "Unheimliche Höhlen",
+  "mode": "Entschlüsselung",
   "mutations": [
-    "Tödlicher Blick",
-    "Gruppen Regeneration"
+    "Wilder Schlag",
+    "Gefahrenwolke"
   ],
-  "period_start": "2026-11-09T17:00:00Z",
-  "period_start_local": "2026-11-09T18:00:00+01:00",
-  "reset_at": "2026-11-10T17:00:00Z",
-  "reset_at_local": "2026-11-10T18:00:00+01:00",
+  "period_start": "2026-11-10T17:00:00Z",
+  "period_start_local": "2026-11-10T18:00:00+01:00",
+  "reset_at": "2026-11-11T17:00:00Z",
+  "reset_at_local": "2026-11-11T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
