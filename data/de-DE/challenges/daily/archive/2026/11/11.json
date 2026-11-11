@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Trinke eine Nuka-Cola.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Baue eine Dekoration in einer Unterkunft.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Sammle eine Teddybären.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Iss eine gekochte Mahlzeit.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte einen festlichen Verbrannten.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte eine Honigbestie.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Töte einen RAD-Keiler.",
+      "score_reward": 250,
+      "target": 5
+    }
+  ],
+  "generated_at": "2026-11-11T23:29:00.245707945Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-11T17:00:00Z",
+  "period_start_local": "2026-11-11T18:00:00+01:00",
+  "reset_at": "2026-11-12T17:00:00Z",
+  "reset_at_local": "2026-11-12T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

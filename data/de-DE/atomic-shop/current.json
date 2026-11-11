@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:42:08.652963382Z",
+  "generated_at": "2026-11-11T23:29:00.245707945Z",
   "locale": "de-DE",
   "offers": [
     {
@@ -74,20 +74,6 @@
     },
     {
       "active": true,
-      "discount_percent": 50,
-      "ends_at": "2026-11-11T17:00:00Z",
-      "ends_at_local": "2026-11-11T18:00:00+01:00",
-      "item": "Night Terror Gauss Rifle Paint",
-      "offer_type": "daily",
-      "price_atoms": 250,
-      "price_text": "250 (50% off!)",
-      "section": "",
-      "starts_at": "2026-11-10T17:00:00Z",
-      "starts_at_local": "2026-11-10T18:00:00+01:00",
-      "subsection": "Week of November 10"
-    },
-    {
-      "active": true,
       "discount_percent": null,
       "ends_at": "2026-11-17T17:00:00Z",
       "ends_at_local": "2026-11-17T18:00:00+01:00",
@@ -140,6 +126,20 @@
       "section": "",
       "starts_at": "2026-11-10T17:00:00Z",
       "starts_at_local": "2026-11-10T18:00:00+01:00",
+      "subsection": "Week of November 10"
+    },
+    {
+      "active": true,
+      "discount_percent": 50,
+      "ends_at": "2026-11-12T17:00:00Z",
+      "ends_at_local": "2026-11-12T18:00:00+01:00",
+      "item": "Soft Serve Paint (Cryolator)",
+      "offer_type": "daily",
+      "price_atoms": 250,
+      "price_text": "250 (50% off!)",
+      "section": "",
+      "starts_at": "2026-11-11T17:00:00Z",
+      "starts_at_local": "2026-11-11T18:00:00+01:00",
       "subsection": "Week of November 10"
     }
   ],

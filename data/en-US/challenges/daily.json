@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Drink Nuka-Cola Cranberry",
+      "name": "Drink Nuka-Cola",
       "score_reward": 250,
-      "target": 2
+      "target": 3
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Collect Ballistic Ammo",
-      "score_reward": 250,
-      "target": 20
-    },
-    {
-      "name": "Complete the Event: \"Invaders From Beyond\"",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Cripple a Blood Eagle's Arm",
-      "score_reward": 250,
-      "target": 2
-    },
-    {
-      "name": "Kill an Enemy in the Mire Region",
+      "name": "Build a Decoration in a Shelter",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Scrap junk to produce Circuitry",
+      "name": "Collect a Teddy Bear",
       "score_reward": 250,
-      "target": 5
+      "target": 3
     },
     {
-      "name": "Take a Camera Picture of an Alien Enemy",
+      "name": "Eat a Cooked Meal",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Kill a Festive Scorched",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Kill a Honey Beast",
       "score_reward": 250,
       "target": null
+    },
+    {
+      "name": "Kill a Radhog",
+      "score_reward": 250,
+      "target": 5
     }
   ],
-  "generated_at": "2026-11-10T19:42:08.652963382Z",
+  "generated_at": "2026-11-11T23:29:00.245707945Z",
   "locale": "en-US",
-  "period_start": "2026-11-10T17:00:00Z",
-  "period_start_local": "2026-11-10T12:00:00-05:00",
-  "reset_at": "2026-11-11T17:00:00Z",
-  "reset_at_local": "2026-11-11T12:00:00-05:00",
+  "period_start": "2026-11-11T17:00:00Z",
+  "period_start_local": "2026-11-11T12:00:00-05:00",
+  "reset_at": "2026-11-12T17:00:00Z",
+  "reset_at_local": "2026-11-12T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

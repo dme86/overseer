@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Drink Nuka-Cola",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Build a Decoration in a Shelter",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Collect a Teddy Bear",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Eat a Cooked Meal",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Kill a Festive Scorched",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Kill a Honey Beast",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill a Radhog",
+      "score_reward": 250,
+      "target": 5
+    }
+  ],
+  "generated_at": "2026-11-11T23:29:00.245707945Z",
+  "locale": "en-US",
+  "period_start": "2026-11-11T17:00:00Z",
+  "period_start_local": "2026-11-11T12:00:00-05:00",
+  "reset_at": "2026-11-12T17:00:00Z",
+  "reset_at_local": "2026-11-12T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

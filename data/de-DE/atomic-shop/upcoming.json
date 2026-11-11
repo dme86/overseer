@@ -1,21 +1,7 @@
 {
-  "generated_at": "2026-11-10T19:42:08.652963382Z",
+  "generated_at": "2026-11-11T23:29:00.245707945Z",
   "locale": "de-DE",
   "offers": [
-    {
-      "active": false,
-      "discount_percent": 50,
-      "ends_at": "2026-11-12T17:00:00Z",
-      "ends_at_local": "2026-11-12T18:00:00+01:00",
-      "item": "Soft Serve Paint (Cryolator)",
-      "offer_type": "daily",
-      "price_atoms": 250,
-      "price_text": "250 (50% off!)",
-      "section": "",
-      "starts_at": "2026-11-11T17:00:00Z",
-      "starts_at_local": "2026-11-11T18:00:00+01:00",
-      "subsection": "Week of November 10"
-    },
     {
       "active": false,
       "discount_percent": 50,
@@ -427,10 +413,10 @@
       "discount_percent": 50,
       "ends_at": "2026-11-25T17:00:00Z",
       "ends_at_local": "2026-11-25T18:00:00+01:00",
-      "item": "Rustic Sink",
+      "item": "Rustic Ice Box",
       "offer_type": "daily",
-      "price_atoms": 150,
-      "price_text": "150 (50% off!)",
+      "price_atoms": 50,
+      "price_text": "50 (50% off!)",
       "section": "",
       "starts_at": "2026-11-24T17:00:00Z",
       "starts_at_local": "2026-11-24T18:00:00+01:00",
