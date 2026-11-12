@@ -11,19 +11,9 @@
       ],
       "title": "Anniversary Events",
       "url": "https://nukaknights.com/events/6260987344018986/anniversary-events/"
-    }
-  ],
-  "generated_at": "2026-11-10T19:42:08.652963382Z",
-  "locale": "en-US",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-calendar.html"
-  },
-  "timezone": "America/New_York",
-  "upcoming": [
+    },
     {
-      "active": false,
+      "active": true,
       "ends_at": "2026-11-16T17:00:00Z",
       "ends_at_local": "2026-11-16T12:00:00-05:00",
       "starts_at": "2026-11-12T17:00:00Z",
@@ -33,7 +23,17 @@
       ],
       "title": "Minerva`s Big Sale (List 8)",
       "url": "https://nukaknights.com/events/6260987344018969/minerva-s-big-sale-list-8/"
-    },
+    }
+  ],
+  "generated_at": "2026-11-12T22:45:49.760039647Z",
+  "locale": "en-US",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-calendar.html"
+  },
+  "timezone": "America/New_York",
+  "upcoming": [
     {
       "active": false,
       "ends_at": "2026-11-23T17:00:00Z",

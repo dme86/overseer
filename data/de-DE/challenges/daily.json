@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Trinke eine Nuka-Cola.",
+      "name": "Trinke Nuka-Cola Wild.",
       "score_reward": 250,
-      "target": 3
+      "target": 2
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Baue eine Dekoration in einer Unterkunft.",
+      "name": "Sammle Vorkriegsnahrung.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Sammle eine Teddybären.",
+      "name": "Sammle Holz.",
       "score_reward": 250,
-      "target": 3
+      "target": 5
     },
     {
-      "name": "Iss eine gekochte Mahlzeit.",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Töte einen festlichen Verbrannten.",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Töte eine Honigbestie.",
+      "name": "Schließe das Event \"Grahms Fleischhappa\" ab.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Töte einen RAD-Keiler.",
+      "name": "Koche ein Fleischgericht.",
       "score_reward": 250,
       "target": 5
+    },
+    {
+      "name": "Töte Tiere mit einem Impro-Gewehr.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Töte eine Kreatur.",
+      "score_reward": 250,
+      "target": 12
     }
   ],
-  "generated_at": "2026-11-11T23:29:00.245707945Z",
+  "generated_at": "2026-11-12T22:45:49.760039647Z",
   "locale": "de-DE",
-  "period_start": "2026-11-11T17:00:00Z",
-  "period_start_local": "2026-11-11T18:00:00+01:00",
-  "reset_at": "2026-11-12T17:00:00Z",
-  "reset_at_local": "2026-11-12T18:00:00+01:00",
+  "period_start": "2026-11-12T17:00:00Z",
+  "period_start_local": "2026-11-12T18:00:00+01:00",
+  "reset_at": "2026-11-13T17:00:00Z",
+  "reset_at_local": "2026-11-13T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

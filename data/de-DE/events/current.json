@@ -11,19 +11,9 @@
       ],
       "title": "Geburtstags Events",
       "url": "https://nukaknights.com/event/6260987344018986/geburtstags-events/"
-    }
-  ],
-  "generated_at": "2026-11-10T19:42:08.652963382Z",
-  "locale": "de-DE",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-kalender.html"
-  },
-  "timezone": "Europe/Berlin",
-  "upcoming": [
+    },
     {
-      "active": false,
+      "active": true,
       "ends_at": "2026-11-16T17:00:00Z",
       "ends_at_local": "2026-11-16T18:00:00+01:00",
       "starts_at": "2026-11-12T17:00:00Z",
@@ -33,7 +23,17 @@
       ],
       "title": "Minervas Sonderangebote (Liste 8)",
       "url": "https://nukaknights.com/event/6260987344018969/minervas-sonderangebote-liste-8/"
-    },
+    }
+  ],
+  "generated_at": "2026-11-12T22:45:49.760039647Z",
+  "locale": "de-DE",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-kalender.html"
+  },
+  "timezone": "Europe/Berlin",
+  "upcoming": [
     {
       "active": false,
       "ends_at": "2026-11-23T17:00:00Z",

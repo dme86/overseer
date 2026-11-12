@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Drink Nuka-Cola",
+      "name": "Drink Nuka-Cola Wild",
       "score_reward": 250,
-      "target": 3
+      "target": 2
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Build a Decoration in a Shelter",
+      "name": "Collect Pre-war Food",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Collect a Teddy Bear",
+      "name": "Collect Wood",
       "score_reward": 250,
-      "target": 3
+      "target": 5
     },
     {
-      "name": "Eat a Cooked Meal",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Kill a Festive Scorched",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Kill a Honey Beast",
+      "name": "Complete the Event: \"Grahm's Meat-Cook\"",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Kill a Radhog",
+      "name": "Cook a Meat-Based Meal",
       "score_reward": 250,
       "target": 5
+    },
+    {
+      "name": "Kill Animals with a Pipe Gun",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Kill a Creature",
+      "score_reward": 250,
+      "target": 12
     }
   ],
-  "generated_at": "2026-11-11T23:29:00.245707945Z",
+  "generated_at": "2026-11-12T22:45:49.760039647Z",
   "locale": "en-US",
-  "period_start": "2026-11-11T17:00:00Z",
-  "period_start_local": "2026-11-11T12:00:00-05:00",
-  "reset_at": "2026-11-12T17:00:00Z",
-  "reset_at_local": "2026-11-12T12:00:00-05:00",
+  "period_start": "2026-11-12T17:00:00Z",
+  "period_start_local": "2026-11-12T12:00:00-05:00",
+  "reset_at": "2026-11-13T17:00:00Z",
+  "reset_at_local": "2026-11-13T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

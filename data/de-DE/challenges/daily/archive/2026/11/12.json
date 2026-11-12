@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Trinke Nuka-Cola Wild.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Sammle Vorkriegsnahrung.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Sammle Holz.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Schließe das Event \"Grahms Fleischhappa\" ab.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Koche ein Fleischgericht.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Töte Tiere mit einem Impro-Gewehr.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Töte eine Kreatur.",
+      "score_reward": 250,
+      "target": 12
+    }
+  ],
+  "generated_at": "2026-11-12T22:45:49.760039647Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-12T17:00:00Z",
+  "period_start_local": "2026-11-12T18:00:00+01:00",
+  "reset_at": "2026-11-13T17:00:00Z",
+  "reset_at_local": "2026-11-13T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}
