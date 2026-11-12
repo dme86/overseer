@@ -2,16 +2,16 @@
   "alpha": "89677226",
   "bravo": "34236893",
   "charlie": "93599937",
-  "generated_at": "2026-11-06T06:38:41.772864372Z",
+  "generated_at": "2026-11-12T23:36:02.794175017Z",
   "locale": "en-US",
-  "resets_at": "2026-11-13T01:00:00Z",
-  "resets_at_local": "2026-11-12T20:00:00-05:00",
+  "resets_at": "2026-11-20T01:00:00Z",
+  "resets_at_local": "2026-11-19T20:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
     "url": "https://nukaknights.com/en/"
   },
   "timezone": "America/New_York",
-  "valid_from": "2026-11-06T01:00:00Z",
-  "valid_from_local": "2026-11-05T20:00:00-05:00"
+  "valid_from": "2026-11-13T01:00:00Z",
+  "valid_from_local": "2026-11-12T20:00:00-05:00"
 }
