@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Konsumiere ein Chem.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Sammle Mottenmann-Eier.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Schließe das Event \"Das Mottenmann-Äquinoktium\" ab.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Töte Kultisten während des \"Das Mottenmann-Äquinoktium\"-Events.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte einen Kryptiden mit einem Bogen oder einer Armbrust.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Verkaufe Mottenmann-Eieromeletts an NPC-Verkäufer.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Verkaufe Ribeye-Steak an NPC-Verkäufer.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-13T19:38:39.024463083Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-13T17:00:00Z",
+  "period_start_local": "2026-11-13T18:00:00+01:00",
+  "reset_at": "2026-11-14T17:00:00Z",
+  "reset_at_local": "2026-11-14T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

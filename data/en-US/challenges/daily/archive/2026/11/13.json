@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Take a Chem",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Collect Mothman Eggs",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Complete the Event: \"The Mothman Equinox\"",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill Cultists during The Mothman Equinox event",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Kill a Cryptid with a Bow or Crossbow",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Sell Mothman Egg Omelette to an NPC vendor",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Sell Ribeye Steak to an NPC vendor",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-13T19:38:39.024463083Z",
+  "locale": "en-US",
+  "period_start": "2026-11-13T17:00:00Z",
+  "period_start_local": "2026-11-13T12:00:00-05:00",
+  "reset_at": "2026-11-14T17:00:00Z",
+  "reset_at_local": "2026-11-14T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

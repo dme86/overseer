@@ -1,21 +1,7 @@
 {
-  "generated_at": "2026-11-12T22:45:49.760039647Z",
+  "generated_at": "2026-11-13T19:38:39.024463083Z",
   "locale": "de-DE",
   "offers": [
-    {
-      "active": false,
-      "discount_percent": 50,
-      "ends_at": "2026-11-14T17:00:00Z",
-      "ends_at_local": "2026-11-14T18:00:00+01:00",
-      "item": "Antiquated Wedding Dress Outfit",
-      "offer_type": "daily",
-      "price_atoms": 350,
-      "price_text": "350 (50% off!)",
-      "section": "",
-      "starts_at": "2026-11-13T17:00:00Z",
-      "starts_at_local": "2026-11-13T18:00:00+01:00",
-      "subsection": "Week of November 10"
-    },
     {
       "active": false,
       "discount_percent": 50,
