@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Take a Chem",
+      "name": "Scrap junk to produce Wood",
       "score_reward": 250,
-      "target": 2
+      "target": 10
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Collect Mothman Eggs",
-      "score_reward": 250,
-      "target": 3
-    },
-    {
-      "name": "Complete the Event: \"The Mothman Equinox\"",
+      "name": "Complete the Event: \"Fasnacht Day\" while wearing a Fasnacht Mask",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Kill Cultists during The Mothman Equinox event",
+      "name": "Drink Nuka-Cherry",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Eat a Cake, Pie, or Candy",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Kill a Cryptid with a Bow or Crossbow",
+      "name": "Kill a Super Mutant",
       "score_reward": 250,
-      "target": null
+      "target": 5
     },
     {
-      "name": "Sell Mothman Egg Omelette to an NPC vendor",
+      "name": "Kill an Enemy with any Pistol",
       "score_reward": 250,
-      "target": null
+      "target": 8
     },
     {
-      "name": "Sell Ribeye Steak to an NPC vendor",
+      "name": "Take a Camera Picture at The Rust Kingdom",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-11-13T19:38:39.024463083Z",
+  "generated_at": "2026-11-14T21:32:03.467818766Z",
   "locale": "en-US",
-  "period_start": "2026-11-13T17:00:00Z",
-  "period_start_local": "2026-11-13T12:00:00-05:00",
-  "reset_at": "2026-11-14T17:00:00Z",
-  "reset_at_local": "2026-11-14T12:00:00-05:00",
+  "period_start": "2026-11-14T17:00:00Z",
+  "period_start_local": "2026-11-14T12:00:00-05:00",
+  "reset_at": "2026-11-15T17:00:00Z",
+  "reset_at_local": "2026-11-15T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

@@ -1,0 +1,21 @@
+{
+  "enemies": "Scorched",
+  "generated_at": "2026-11-14T21:32:03.467818766Z",
+  "locale": "en-US",
+  "location": "Morgantown High School",
+  "mode": "Decryption",
+  "mutations": [
+    "Savage Strike",
+    "Active Camouflage"
+  ],
+  "period_start": "2026-11-14T17:00:00Z",
+  "period_start_local": "2026-11-14T12:00:00-05:00",
+  "reset_at": "2026-11-15T17:00:00Z",
+  "reset_at_local": "2026-11-15T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

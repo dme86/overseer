@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Konsumiere ein Chem.",
+      "name": "Verwerte Schrott, um Holz herzustellen.",
       "score_reward": 250,
-      "target": 2
+      "target": 10
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Sammle Mottenmann-Eier.",
-      "score_reward": 250,
-      "target": 3
-    },
-    {
-      "name": "Schließe das Event \"Das Mottenmann-Äquinoktium\" ab.",
+      "name": "Schließe das Event \"Fastnacht\" ab, während du eine Fastnachtsmaske trägst.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Töte Kultisten während des \"Das Mottenmann-Äquinoktium\"-Events.",
+      "name": "Trinke Nuka-Cherry.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Iss einen Kuchen, eine Torte oder Süßigkeit.",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Töte einen Kryptiden mit einem Bogen oder einer Armbrust.",
+      "name": "Töte einen Supermutanten.",
       "score_reward": 250,
-      "target": null
+      "target": 5
     },
     {
-      "name": "Verkaufe Mottenmann-Eieromeletts an NPC-Verkäufer.",
+      "name": "Töte einen Gegner mit einer Pistole.",
       "score_reward": 250,
-      "target": null
+      "target": 8
     },
     {
-      "name": "Verkaufe Ribeye-Steak an NPC-Verkäufer.",
+      "name": "Schieße im Rostkönigreich ein Foto mit deiner Kamera.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-11-13T19:38:39.024463083Z",
+  "generated_at": "2026-11-14T21:32:03.467818766Z",
   "locale": "de-DE",
-  "period_start": "2026-11-13T17:00:00Z",
-  "period_start_local": "2026-11-13T18:00:00+01:00",
-  "reset_at": "2026-11-14T17:00:00Z",
-  "reset_at_local": "2026-11-14T18:00:00+01:00",
+  "period_start": "2026-11-14T17:00:00Z",
+  "period_start_local": "2026-11-14T18:00:00+01:00",
+  "reset_at": "2026-11-15T17:00:00Z",
+  "reset_at_local": "2026-11-15T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

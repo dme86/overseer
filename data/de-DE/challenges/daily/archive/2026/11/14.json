@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Verwerte Schrott, um Holz herzustellen.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Schließe das Event \"Fastnacht\" ab, während du eine Fastnachtsmaske trägst.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Trinke Nuka-Cherry.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Iss einen Kuchen, eine Torte oder Süßigkeit.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte einen Supermutanten.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Töte einen Gegner mit einer Pistole.",
+      "score_reward": 250,
+      "target": 8
+    },
+    {
+      "name": "Schieße im Rostkönigreich ein Foto mit deiner Kamera.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-14T21:32:03.467818766Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-14T17:00:00Z",
+  "period_start_local": "2026-11-14T18:00:00+01:00",
+  "reset_at": "2026-11-15T17:00:00Z",
+  "reset_at_local": "2026-11-15T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

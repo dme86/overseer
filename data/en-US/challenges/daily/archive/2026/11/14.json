@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Scrap junk to produce Wood",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Complete the Event: \"Fasnacht Day\" while wearing a Fasnacht Mask",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Drink Nuka-Cherry",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Eat a Cake, Pie, or Candy",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Kill a Super Mutant",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Kill an Enemy with any Pistol",
+      "score_reward": 250,
+      "target": 8
+    },
+    {
+      "name": "Take a Camera Picture at The Rust Kingdom",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-14T21:32:03.467818766Z",
+  "locale": "en-US",
+  "period_start": "2026-11-14T17:00:00Z",
+  "period_start_local": "2026-11-14T12:00:00-05:00",
+  "reset_at": "2026-11-15T17:00:00Z",
+  "reset_at_local": "2026-11-15T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}
