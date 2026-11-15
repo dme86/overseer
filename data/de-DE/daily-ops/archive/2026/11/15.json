@@ -1,0 +1,21 @@
+{
+  "enemies": "Überwucherte",
+  "generated_at": "2026-11-15T18:49:21.920737004Z",
+  "locale": "de-DE",
+  "location": "Arktos Pharma Biome Labs",
+  "mode": "Verbindungsgerät",
+  "mutations": [
+    "Tödlicher Blick",
+    "Gruppen Regeneration"
+  ],
+  "period_start": "2026-11-15T17:00:00Z",
+  "period_start_local": "2026-11-15T18:00:00+01:00",
+  "reset_at": "2026-11-16T17:00:00Z",
+  "reset_at_local": "2026-11-16T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

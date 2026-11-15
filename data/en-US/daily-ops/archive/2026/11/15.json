@@ -1,0 +1,21 @@
+{
+  "enemies": "Overgrown",
+  "generated_at": "2026-11-15T18:49:21.920737004Z",
+  "locale": "en-US",
+  "location": "Arktos Pharma Biome Labs",
+  "mode": "Uplink",
+  "mutations": [
+    "Piercing Gaze",
+    "Group Regeneration"
+  ],
+  "period_start": "2026-11-15T17:00:00Z",
+  "period_start_local": "2026-11-15T12:00:00-05:00",
+  "reset_at": "2026-11-16T17:00:00Z",
+  "reset_at_local": "2026-11-16T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

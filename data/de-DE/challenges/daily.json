@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Verwerte Schrott, um Holz herzustellen.",
+      "name": "Stelle eine große Menge Stahlschrott her.",
       "score_reward": 250,
-      "target": 10
+      "target": null
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Schließe das Event \"Fastnacht\" ab, während du eine Fastnachtsmaske trägst.",
+      "name": "Sammle Todeskrallen-Eier.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Trinke Nuka-Cherry.",
+      "name": "Schließe das Event \"Nacht des Unfugs\" ab.",
       "score_reward": 250,
-      "target": 2
+      "target": null
     },
     {
-      "name": "Iss einen Kuchen, eine Torte oder Süßigkeit.",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Töte einen Supermutanten.",
+      "name": "Stelle eine Granate, Mine oder Wurfwaffe her.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Töte einen Gegner mit einer Pistole.",
-      "score_reward": 250,
-      "target": 8
-    },
-    {
-      "name": "Schieße im Rostkönigreich ein Foto mit deiner Kamera.",
+      "name": "Hacke ein Terminal.",
       "score_reward": 250,
       "target": null
+    },
+    {
+      "name": "Töte einen Verlorenen während des \"Nacht des Unfugs\"-Events",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Töte einen Gegner mit einer Schrotflinte.",
+      "score_reward": 250,
+      "target": 8
     }
   ],
-  "generated_at": "2026-11-14T21:32:03.467818766Z",
+  "generated_at": "2026-11-15T18:49:21.920737004Z",
   "locale": "de-DE",
-  "period_start": "2026-11-14T17:00:00Z",
-  "period_start_local": "2026-11-14T18:00:00+01:00",
-  "reset_at": "2026-11-15T17:00:00Z",
-  "reset_at_local": "2026-11-15T18:00:00+01:00",
+  "period_start": "2026-11-15T17:00:00Z",
+  "period_start_local": "2026-11-15T18:00:00+01:00",
+  "reset_at": "2026-11-16T17:00:00Z",
+  "reset_at_local": "2026-11-16T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

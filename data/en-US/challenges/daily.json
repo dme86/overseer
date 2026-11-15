@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Scrap junk to produce Wood",
+      "name": "Craft Bulk Steel",
       "score_reward": 250,
-      "target": 10
+      "target": null
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Complete the Event: \"Fasnacht Day\" while wearing a Fasnacht Mask",
+      "name": "Collect Deathclaw eggs",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Drink Nuka-Cherry",
+      "name": "Complete the Event: \"Mischief Night\"",
       "score_reward": 250,
-      "target": 2
+      "target": null
     },
     {
-      "name": "Eat a Cake, Pie, or Candy",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Kill a Super Mutant",
+      "name": "Craft a Grenade, Mine, or Thrown Weapon",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Kill an Enemy with any Pistol",
-      "score_reward": 250,
-      "target": 8
-    },
-    {
-      "name": "Take a Camera Picture at The Rust Kingdom",
+      "name": "Hack a Terminal",
       "score_reward": 250,
       "target": null
+    },
+    {
+      "name": "Kill a Lost during the \"Mischief Night\" Event",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Kill an Enemy with any Shotgun",
+      "score_reward": 250,
+      "target": 8
     }
   ],
-  "generated_at": "2026-11-14T21:32:03.467818766Z",
+  "generated_at": "2026-11-15T18:49:21.920737004Z",
   "locale": "en-US",
-  "period_start": "2026-11-14T17:00:00Z",
-  "period_start_local": "2026-11-14T12:00:00-05:00",
-  "reset_at": "2026-11-15T17:00:00Z",
-  "reset_at_local": "2026-11-15T12:00:00-05:00",
+  "period_start": "2026-11-15T17:00:00Z",
+  "period_start_local": "2026-11-15T12:00:00-05:00",
+  "reset_at": "2026-11-16T17:00:00Z",
+  "reset_at_local": "2026-11-16T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

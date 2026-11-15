@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Stelle eine große Menge Stahlschrott her.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Sammle Todeskrallen-Eier.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Schließe das Event \"Nacht des Unfugs\" ab.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Stelle eine Granate, Mine oder Wurfwaffe her.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Hacke ein Terminal.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Töte einen Verlorenen während des \"Nacht des Unfugs\"-Events",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Töte einen Gegner mit einer Schrotflinte.",
+      "score_reward": 250,
+      "target": 8
+    }
+  ],
+  "generated_at": "2026-11-15T18:49:21.920737004Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-15T17:00:00Z",
+  "period_start_local": "2026-11-15T18:00:00+01:00",
+  "reset_at": "2026-11-16T17:00:00Z",
+  "reset_at_local": "2026-11-16T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}
