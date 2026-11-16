@@ -1,7 +1,7 @@
 {
   "challenges": [
     {
-      "name": "Stelle eine große Menge Stahlschrott her.",
+      "name": "Trinke Tee.",
       "score_reward": 250,
       "target": null
     },
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Sammle Todeskrallen-Eier.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Schließe das Event \"Nacht des Unfugs\" ab.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Stelle eine Granate, Mine oder Wurfwaffe her.",
+      "name": "Sammle Hirnpilz.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Hacke ein Terminal.",
+      "name": "Schließe das Event \"Das große Blühen\" ab.",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Töte einen Verlorenen während des \"Nacht des Unfugs\"-Events",
+      "name": "Stelle einen Blumenkranz her.",
       "score_reward": 250,
-      "target": 6
+      "target": null
     },
     {
-      "name": "Töte einen Gegner mit einer Schrotflinte.",
+      "name": "Ernte eine Knallbeere.",
       "score_reward": 250,
-      "target": 8
+      "target": 5
+    },
+    {
+      "name": "Töte während des Events \"Das große Blühen\" ein Insekt.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Töte während des Events \"Das große Blühen\" einen Überwucherten, während du einen Blumenkranz trägst.",
+      "score_reward": 250,
+      "target": 3
     }
   ],
-  "generated_at": "2026-11-15T18:49:21.920737004Z",
+  "generated_at": "2026-11-16T21:58:51.525303100Z",
   "locale": "de-DE",
-  "period_start": "2026-11-15T17:00:00Z",
-  "period_start_local": "2026-11-15T18:00:00+01:00",
-  "reset_at": "2026-11-16T17:00:00Z",
-  "reset_at_local": "2026-11-16T18:00:00+01:00",
+  "period_start": "2026-11-16T17:00:00Z",
+  "period_start_local": "2026-11-16T18:00:00+01:00",
+  "reset_at": "2026-11-17T17:00:00Z",
+  "reset_at_local": "2026-11-17T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

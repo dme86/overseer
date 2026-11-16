@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Trinke Tee.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Sammle Hirnpilz.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Schließe das Event \"Das große Blühen\" ab.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Stelle einen Blumenkranz her.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Ernte eine Knallbeere.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Töte während des Events \"Das große Blühen\" ein Insekt.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Töte während des Events \"Das große Blühen\" einen Überwucherten, während du einen Blumenkranz trägst.",
+      "score_reward": 250,
+      "target": 3
+    }
+  ],
+  "generated_at": "2026-11-16T21:58:51.525303100Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-16T17:00:00Z",
+  "period_start_local": "2026-11-16T18:00:00+01:00",
+  "reset_at": "2026-11-17T17:00:00Z",
+  "reset_at_local": "2026-11-17T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

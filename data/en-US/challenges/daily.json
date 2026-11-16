@@ -1,7 +1,7 @@
 {
   "challenges": [
     {
-      "name": "Craft Bulk Steel",
+      "name": "Drink Tea",
       "score_reward": 250,
       "target": null
     },
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Collect Deathclaw eggs",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Complete the Event: \"Mischief Night\"",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Craft a Grenade, Mine, or Thrown Weapon",
+      "name": "Collect Brain Fungus",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Hack a Terminal",
+      "name": "Complete the Event: \"The Big Bloom\"",
       "score_reward": 250,
       "target": null
     },
     {
-      "name": "Kill a Lost during the \"Mischief Night\" Event",
+      "name": "Craft a Flower Crown",
       "score_reward": 250,
-      "target": 6
+      "target": null
     },
     {
-      "name": "Kill an Enemy with any Shotgun",
+      "name": "Harvest a Firecracker Berry",
       "score_reward": 250,
-      "target": 8
+      "target": 5
+    },
+    {
+      "name": "Kill an Insect during The Big Bloom Event",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Kill an Overgrown during The Big Bloom Event while wearing a Flower Crown",
+      "score_reward": 250,
+      "target": 3
     }
   ],
-  "generated_at": "2026-11-15T18:49:21.920737004Z",
+  "generated_at": "2026-11-16T21:58:51.525303100Z",
   "locale": "en-US",
-  "period_start": "2026-11-15T17:00:00Z",
-  "period_start_local": "2026-11-15T12:00:00-05:00",
-  "reset_at": "2026-11-16T17:00:00Z",
-  "reset_at_local": "2026-11-16T12:00:00-05:00",
+  "period_start": "2026-11-16T17:00:00Z",
+  "period_start_local": "2026-11-16T12:00:00-05:00",
+  "reset_at": "2026-11-17T17:00:00Z",
+  "reset_at_local": "2026-11-17T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

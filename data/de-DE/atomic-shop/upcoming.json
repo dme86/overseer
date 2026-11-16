@@ -1,21 +1,7 @@
 {
-  "generated_at": "2026-11-15T18:49:21.920737004Z",
+  "generated_at": "2026-11-16T21:58:51.525303100Z",
   "locale": "de-DE",
   "offers": [
-    {
-      "active": false,
-      "discount_percent": 50,
-      "ends_at": "2026-11-17T17:00:00Z",
-      "ends_at_local": "2026-11-17T18:00:00+01:00",
-      "item": "The Signalman Bundle",
-      "offer_type": "daily",
-      "price_atoms": 750,
-      "price_text": "750 (50% off!)",
-      "section": "",
-      "starts_at": "2026-11-16T17:00:00Z",
-      "starts_at_local": "2026-11-16T18:00:00+01:00",
-      "subsection": "Week of November 10"
-    },
     {
       "active": false,
       "discount_percent": null,

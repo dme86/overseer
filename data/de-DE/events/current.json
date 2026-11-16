@@ -11,21 +11,9 @@
       ],
       "title": "Geburtstags Events",
       "url": "https://nukaknights.com/event/6260987344018986/geburtstags-events/"
-    },
-    {
-      "active": true,
-      "ends_at": "2026-11-16T17:00:00Z",
-      "ends_at_local": "2026-11-16T18:00:00+01:00",
-      "starts_at": "2026-11-12T17:00:00Z",
-      "starts_at_local": "2026-11-12T18:00:00+01:00",
-      "tags": [
-        "minerva"
-      ],
-      "title": "Minervas Sonderangebote (Liste 8)",
-      "url": "https://nukaknights.com/event/6260987344018969/minervas-sonderangebote-liste-8/"
     }
   ],
-  "generated_at": "2026-11-12T22:45:49.760039647Z",
+  "generated_at": "2026-11-16T21:58:51.525303100Z",
   "locale": "de-DE",
   "schema_version": 1,
   "source": {
@@ -46,6 +34,18 @@
       ],
       "title": "Goldrausch und Doppelmutationen",
       "url": "https://nukaknights.com/event/6260987344018987/goldrausch-und-doppelmutationen/"
+    },
+    {
+      "active": false,
+      "ends_at": "2026-11-25T17:00:00Z",
+      "ends_at_local": "2026-11-25T18:00:00+01:00",
+      "starts_at": "2026-11-23T17:00:00Z",
+      "starts_at_local": "2026-11-23T18:00:00+01:00",
+      "tags": [
+        "minerva"
+      ],
+      "title": "Minerva (Liste 9)",
+      "url": "https://nukaknights.com/event/6260987344018971/minerva-liste-9/"
     },
     {
       "active": false,
