@@ -1,11 +1,6 @@
 {
   "challenges": [
     {
-      "name": "Schließe eine tägliche Goldstern-Challenge ab.",
-      "score_reward": 1500,
-      "target": 3
-    },
-    {
       "name": "Wiederholbar unter Rang 100: Erhalte EP.",
       "score_reward": 100,
       "target": 10000
@@ -16,27 +11,22 @@
       "target": 3
     },
     {
-      "name": "Episch - Zerstöre Roboter mit einer Energiewaffe.",
+      "name": "Schließe eine tägliche Goldstern-Challenge ab.",
       "score_reward": 1500,
-      "target": 15
+      "target": 3
     },
     {
-      "name": "Sammle Energiemunition.",
+      "name": "Baue einen Geschützturm oder eine Falle in einer Werkstatt oder einem C.A.M.P.",
       "score_reward": 1000,
-      "target": 40
+      "target": 10
     },
     {
-      "name": "Sammle ein Brettspiel.",
+      "name": "Ernte eine Stachelkastanie.",
       "score_reward": 1000,
-      "target": 4
+      "target": 25
     },
     {
-      "name": "Zerstöre einen Roboter.",
-      "score_reward": 1000,
-      "target": 30
-    },
-    {
-      "name": "Ernte eine Wildpflanze oder einen Pilz.",
+      "name": "Töte Insekten.",
       "score_reward": 1000,
       "target": 30
     },
@@ -46,27 +36,37 @@
       "target": null
     },
     {
-      "name": "Verkaufe Kürbiskuchen an NPC-Verkäufer.",
+      "name": "Töte einen Kultisten.",
       "score_reward": 1000,
-      "target": null
+      "target": 25
     },
     {
-      "name": "Verkaufe eine Waffe an einen NPC-Händler.",
+      "name": "Repariere Rüstung, Waffen oder Powerrüstung.",
+      "score_reward": 1000,
+      "target": 10
+    },
+    {
+      "name": "Verwerte Schrott, um Säure herzustellen.",
       "score_reward": 1000,
       "target": 15
     },
     {
-      "name": "Besuche die Unterkunft eines anderen Spielers.",
+      "name": "Verwerte Schrott, um Kristall herzustellen.",
       "score_reward": 1000,
-      "target": 5
+      "target": 15
+    },
+    {
+      "name": "Gehe zu Fuß (km).",
+      "score_reward": 1000,
+      "target": 50
     }
   ],
-  "generated_at": "2026-11-10T19:42:08.652963382Z",
+  "generated_at": "2026-11-17T20:52:19.848193707Z",
   "locale": "de-DE",
-  "period_start": "2026-11-10T17:00:00Z",
-  "period_start_local": "2026-11-10T18:00:00+01:00",
-  "reset_at": "2026-11-17T17:00:00Z",
-  "reset_at_local": "2026-11-17T18:00:00+01:00",
+  "period_start": "2026-11-17T17:00:00Z",
+  "period_start_local": "2026-11-17T18:00:00+01:00",
+  "reset_at": "2026-11-24T17:00:00Z",
+  "reset_at_local": "2026-11-24T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

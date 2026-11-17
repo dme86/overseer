@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Drink Tea",
+      "name": "Consume an Alcoholic Beverage",
       "score_reward": 250,
-      "target": null
+      "target": 5
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Collect Brain Fungus",
+      "name": "Collect Caps",
       "score_reward": 250,
-      "target": 5
+      "target": 250
     },
     {
-      "name": "Complete the Event: \"The Big Bloom\"",
+      "name": "Collect Energy Ammo",
       "score_reward": 250,
-      "target": null
+      "target": 10
     },
     {
-      "name": "Craft a Flower Crown",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Harvest a Firecracker Berry",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Kill an Insect during The Big Bloom Event",
-      "score_reward": 250,
-      "target": 5
-    },
-    {
-      "name": "Kill an Overgrown during The Big Bloom Event while wearing a Flower Crown",
+      "name": "Collect a Blood pack",
       "score_reward": 250,
       "target": 3
+    },
+    {
+      "name": "Kill an Enemy in the Cranberry Bog Region",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Kill an Enemy in the Toxic Valley Region",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Scrap junk to produce Concrete",
+      "score_reward": 250,
+      "target": 10
     }
   ],
-  "generated_at": "2026-11-16T21:58:51.525303100Z",
+  "generated_at": "2026-11-17T20:52:19.848193707Z",
   "locale": "en-US",
-  "period_start": "2026-11-16T17:00:00Z",
-  "period_start_local": "2026-11-16T12:00:00-05:00",
-  "reset_at": "2026-11-17T17:00:00Z",
-  "reset_at_local": "2026-11-17T12:00:00-05:00",
+  "period_start": "2026-11-17T17:00:00Z",
+  "period_start_local": "2026-11-17T12:00:00-05:00",
+  "reset_at": "2026-11-18T17:00:00Z",
+  "reset_at_local": "2026-11-18T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

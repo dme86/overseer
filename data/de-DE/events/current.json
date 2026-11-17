@@ -1,19 +1,6 @@
 {
-  "active": [
-    {
-      "active": true,
-      "ends_at": "2026-11-17T17:00:00Z",
-      "ends_at_local": "2026-11-17T18:00:00+01:00",
-      "starts_at": "2026-11-10T17:00:00Z",
-      "starts_at_local": "2026-11-10T18:00:00+01:00",
-      "tags": [
-        "anniversary"
-      ],
-      "title": "Geburtstags Events",
-      "url": "https://nukaknights.com/event/6260987344018986/geburtstags-events/"
-    }
-  ],
-  "generated_at": "2026-11-16T21:58:51.525303100Z",
+  "active": [],
+  "generated_at": "2026-11-17T20:52:19.848193707Z",
   "locale": "de-DE",
   "schema_version": 1,
   "source": {

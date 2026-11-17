@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Consume an Alcoholic Beverage",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Collect Caps",
+      "score_reward": 250,
+      "target": 250
+    },
+    {
+      "name": "Collect Energy Ammo",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Collect a Blood pack",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Kill an Enemy in the Cranberry Bog Region",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Kill an Enemy in the Toxic Valley Region",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Scrap junk to produce Concrete",
+      "score_reward": 250,
+      "target": 10
+    }
+  ],
+  "generated_at": "2026-11-17T20:52:19.848193707Z",
+  "locale": "en-US",
+  "period_start": "2026-11-17T17:00:00Z",
+  "period_start_local": "2026-11-17T12:00:00-05:00",
+  "reset_at": "2026-11-18T17:00:00Z",
+  "reset_at_local": "2026-11-18T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

@@ -1,0 +1,76 @@
+{
+  "challenges": [
+    {
+      "name": "Repeatable Under Rank 100: Gain XP",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Repeatable at Rank 100 or above: Complete a Public Event",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Complete a Gold Star Daily Challenge!",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Build a Turret or Trap in a Workshop or C.A.M.P.",
+      "score_reward": 1000,
+      "target": 10
+    },
+    {
+      "name": "Harvest a Prickeye",
+      "score_reward": 1000,
+      "target": 25
+    },
+    {
+      "name": "Kill Insects",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Kill The Reborn Pint-Sized Slasher",
+      "score_reward": 1000,
+      "target": null
+    },
+    {
+      "name": "Kill a Cultist",
+      "score_reward": 1000,
+      "target": 25
+    },
+    {
+      "name": "Repair Armor, Weapons, or Power Armor",
+      "score_reward": 1000,
+      "target": 10
+    },
+    {
+      "name": "Scrap junk to produce Acid",
+      "score_reward": 1000,
+      "target": 15
+    },
+    {
+      "name": "Scrap junk to produce Crystal",
+      "score_reward": 1000,
+      "target": 15
+    },
+    {
+      "name": "Travel on foot (KM)",
+      "score_reward": 1000,
+      "target": 50
+    }
+  ],
+  "generated_at": "2026-11-17T20:52:19.848193707Z",
+  "locale": "en-US",
+  "period_start": "2026-11-17T17:00:00Z",
+  "period_start_local": "2026-11-17T12:00:00-05:00",
+  "reset_at": "2026-11-24T17:00:00Z",
+  "reset_at_local": "2026-11-24T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}
