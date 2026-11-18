@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Sammle ein Audio-Holoband.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Baue etwas in einer Unterkunft.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Beschaffe ein verbranntes Buch.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Schließe eine tägliche Operation ab!",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Töte einen Fanatiker.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte ein Westentaschenphantom.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Knacke ein Schloss.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-18T20:28:08.020557764Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-18T17:00:00Z",
+  "period_start_local": "2026-11-18T18:00:00+01:00",
+  "reset_at": "2026-11-19T17:00:00Z",
+  "reset_at_local": "2026-11-19T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

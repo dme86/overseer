@@ -1,21 +1,7 @@
 {
-  "generated_at": "2026-11-17T20:52:19.848193707Z",
+  "generated_at": "2026-11-18T20:28:08.020557764Z",
   "locale": "en-US",
   "offers": [
-    {
-      "active": false,
-      "discount_percent": 50,
-      "ends_at": "2026-11-19T17:00:00Z",
-      "ends_at_local": "2026-11-19T12:00:00-05:00",
-      "item": "Heavy Metal Heavy Weapon Stand",
-      "offer_type": "daily",
-      "price_atoms": 250,
-      "price_text": "250 (50% off!)",
-      "section": "",
-      "starts_at": "2026-11-18T17:00:00Z",
-      "starts_at_local": "2026-11-18T12:00:00-05:00",
-      "subsection": "Week of November 17"
-    },
     {
       "active": false,
       "discount_percent": 50,

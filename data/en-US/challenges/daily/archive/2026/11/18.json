@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Collect an audio Holotape",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Build Anything in a Shelter",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Collect a Burnt Book",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Complete a Daily Operation!",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill a Fanatic",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Pick a Lock",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-18T20:28:08.020557764Z",
+  "locale": "en-US",
+  "period_start": "2026-11-18T17:00:00Z",
+  "period_start_local": "2026-11-18T12:00:00-05:00",
+  "reset_at": "2026-11-19T17:00:00Z",
+  "reset_at_local": "2026-11-19T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

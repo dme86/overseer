@@ -1,17 +1,17 @@
 {
-  "enemies": "Mole Miners",
-  "generated_at": "2026-11-17T20:52:19.848193707Z",
+  "enemies": "Mothman Cultists",
+  "generated_at": "2026-11-18T20:28:08.020557764Z",
   "locale": "en-US",
-  "location": "Watoga Raider Arena",
-  "mode": "Uplink",
+  "location": "The Burning Mine",
+  "mode": "Decryption",
   "mutations": [
-    "Piercing Gaze",
-    "Swift-Footed"
+    "Savage Strike",
+    "Group Regeneration"
   ],
-  "period_start": "2026-11-17T17:00:00Z",
-  "period_start_local": "2026-11-17T12:00:00-05:00",
-  "reset_at": "2026-11-18T17:00:00Z",
-  "reset_at_local": "2026-11-18T12:00:00-05:00",
+  "period_start": "2026-11-18T17:00:00Z",
+  "period_start_local": "2026-11-18T12:00:00-05:00",
+  "reset_at": "2026-11-19T17:00:00Z",
+  "reset_at_local": "2026-11-19T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
