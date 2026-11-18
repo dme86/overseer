@@ -1,6 +1,21 @@
 {
-  "active": [],
-  "generated_at": "2026-11-17T20:52:19.848193707Z",
+  "active": [
+    {
+      "active": true,
+      "ends_at": "2026-11-19T17:00:00Z",
+      "ends_at_local": "2026-11-19T12:00:00-05:00",
+      "starts_at": "2026-11-17T17:00:00Z",
+      "starts_at_local": "2026-11-17T12:00:00-05:00",
+      "tags": [
+        "anniversary",
+        "mothman_equinox",
+        "seasonal_event"
+      ],
+      "title": "Mothman Equinox (Anniversary Events Extension)",
+      "url": "https://nukaknights.com/events/6260987344018999/mothman-equinox-anniversary-events-extension/"
+    }
+  ],
+  "generated_at": "2026-11-18T07:23:11.809500596Z",
   "locale": "en-US",
   "schema_version": 1,
   "source": {
