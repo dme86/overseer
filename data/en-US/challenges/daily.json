@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Collect an audio Holotape",
+      "name": "Gain XP",
       "score_reward": 250,
-      "target": null
+      "target": 2500
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Build Anything in a Shelter",
+      "name": "Collect Legendary Scrip",
+      "score_reward": 250,
+      "target": 50
+    },
+    {
+      "name": "Drink Nuka-Grape",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Kill a Rust Raider",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Kill an Enemy during a Daily Operation!",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Collect a Burnt Book",
+      "name": "Sell a Weapon to an NPC vendor",
       "score_reward": 250,
-      "target": 10
+      "target": 5
     },
     {
-      "name": "Complete a Daily Operation!",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Kill a Fanatic",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Kill a Pint-Sized Phantom",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Pick a Lock",
+      "name": "Use Photomode in a Teammate's C.A.M.P.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-11-18T20:28:08.020557764Z",
+  "generated_at": "2026-11-19T20:32:02.225612954Z",
   "locale": "en-US",
-  "period_start": "2026-11-18T17:00:00Z",
-  "period_start_local": "2026-11-18T12:00:00-05:00",
-  "reset_at": "2026-11-19T17:00:00Z",
-  "reset_at_local": "2026-11-19T12:00:00-05:00",
+  "period_start": "2026-11-19T17:00:00Z",
+  "period_start_local": "2026-11-19T12:00:00-05:00",
+  "reset_at": "2026-11-20T17:00:00Z",
+  "reset_at_local": "2026-11-20T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

@@ -1,17 +1,17 @@
 {
-  "enemies": "Mottenmann Kultisten",
-  "generated_at": "2026-11-18T20:28:08.020557764Z",
+  "enemies": "Westentaschenphantome",
+  "generated_at": "2026-11-19T20:32:02.225612954Z",
   "locale": "de-DE",
-  "location": "Das brennende Bergwerk",
-  "mode": "Entschlüsselung",
+  "location": "Morgantown High School",
+  "mode": "Verbindungsgerät",
   "mutations": [
-    "Wilder Schlag",
-    "Gruppen Regeneration"
+    "Tödlicher Blick",
+    "Reflektierende Haut"
   ],
-  "period_start": "2026-11-18T17:00:00Z",
-  "period_start_local": "2026-11-18T18:00:00+01:00",
-  "reset_at": "2026-11-19T17:00:00Z",
-  "reset_at_local": "2026-11-19T18:00:00+01:00",
+  "period_start": "2026-11-19T17:00:00Z",
+  "period_start_local": "2026-11-19T18:00:00+01:00",
+  "reset_at": "2026-11-20T17:00:00Z",
+  "reset_at_local": "2026-11-20T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

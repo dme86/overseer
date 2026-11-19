@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Sammle ein Audio-Holoband.",
+      "name": "Erhalte EP.",
       "score_reward": 250,
-      "target": null
+      "target": 2500
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Baue etwas in einer Unterkunft.",
+      "name": "Sammle einen Legendär-Schein ein.",
+      "score_reward": 250,
+      "target": 50
+    },
+    {
+      "name": "Trinke Nuka-Grape.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Töte einen Rost-Raider.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Töte einen Gegner während einer täglichen Operation!",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Beschaffe ein verbranntes Buch.",
+      "name": "Verkaufe eine Waffe an einen NPC-Händler.",
       "score_reward": 250,
-      "target": 10
+      "target": 5
     },
     {
-      "name": "Schließe eine tägliche Operation ab!",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Töte einen Fanatiker.",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Töte ein Westentaschenphantom.",
-      "score_reward": 250,
-      "target": 10
-    },
-    {
-      "name": "Knacke ein Schloss.",
+      "name": "Benutze den Fotomodus im C.A.M.P. eines Teammitglieds.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-11-18T20:28:08.020557764Z",
+  "generated_at": "2026-11-19T20:32:02.225612954Z",
   "locale": "de-DE",
-  "period_start": "2026-11-18T17:00:00Z",
-  "period_start_local": "2026-11-18T18:00:00+01:00",
-  "reset_at": "2026-11-19T17:00:00Z",
-  "reset_at_local": "2026-11-19T18:00:00+01:00",
+  "period_start": "2026-11-19T17:00:00Z",
+  "period_start_local": "2026-11-19T18:00:00+01:00",
+  "reset_at": "2026-11-20T17:00:00Z",
+  "reset_at_local": "2026-11-20T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

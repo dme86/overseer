@@ -2,28 +2,6 @@
   "active": [
     {
       "active": true,
-      "ends_at": "2026-11-19T17:00:00Z",
-      "ends_at_local": "2026-11-19T18:00:00+01:00",
-      "starts_at": "2026-11-17T17:00:00Z",
-      "starts_at_local": "2026-11-17T18:00:00+01:00",
-      "tags": [
-        "anniversary"
-      ],
-      "title": "Mottenmann Äquiniktium (Geburtstags Events Verlängerung)",
-      "url": "https://nukaknights.com/event/6260987344018999/mottenmann-aequiniktium-geburtstags-events-verlaengerung/"
-    }
-  ],
-  "generated_at": "2026-11-18T07:23:11.809500596Z",
-  "locale": "de-DE",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-kalender.html"
-  },
-  "timezone": "Europe/Berlin",
-  "upcoming": [
-    {
-      "active": false,
       "ends_at": "2026-11-23T17:00:00Z",
       "ends_at_local": "2026-11-23T18:00:00+01:00",
       "starts_at": "2026-11-19T17:00:00Z",
@@ -34,7 +12,17 @@
       ],
       "title": "Goldrausch und Doppelmutationen",
       "url": "https://nukaknights.com/event/6260987344018987/goldrausch-und-doppelmutationen/"
-    },
+    }
+  ],
+  "generated_at": "2026-11-19T20:32:02.225612954Z",
+  "locale": "de-DE",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-kalender.html"
+  },
+  "timezone": "Europe/Berlin",
+  "upcoming": [
     {
       "active": false,
       "ends_at": "2026-11-25T17:00:00Z",
