@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Erhalte EP.",
+      "name": "Trinke aufbereitetes Wasser.",
       "score_reward": 250,
-      "target": 2500
+      "target": 2
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Sammle einen Legendär-Schein ein.",
+      "name": "Sammle Stimpaks oder Chems.",
       "score_reward": 250,
-      "target": 50
+      "target": 5
     },
     {
-      "name": "Trinke Nuka-Grape.",
+      "name": "Verkrüppele ein Ghul-Bein.",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Töte einen Rost-Raider.",
+      "name": "Trinke Nuka-Orange.",
       "score_reward": 250,
-      "target": 5
+      "target": 2
     },
     {
-      "name": "Töte einen Gegner während einer täglichen Operation!",
+      "name": "Töte ein Westentaschenphantom, während du einem Team angehörst.",
       "score_reward": 250,
       "target": 10
     },
     {
-      "name": "Verkaufe eine Waffe an einen NPC-Händler.",
+      "name": "Schieße mit deiner Kamera ein Foto eines RAD-Skorpions.",
       "score_reward": 250,
-      "target": 5
+      "target": null
     },
     {
-      "name": "Benutze den Fotomodus im C.A.M.P. eines Teammitglieds.",
+      "name": "Besuche deine Unterkunft.",
       "score_reward": 250,
       "target": null
     }
   ],
-  "generated_at": "2026-11-19T20:32:02.225612954Z",
+  "generated_at": "2026-11-20T20:11:50.680030311Z",
   "locale": "de-DE",
-  "period_start": "2026-11-19T17:00:00Z",
-  "period_start_local": "2026-11-19T18:00:00+01:00",
-  "reset_at": "2026-11-20T17:00:00Z",
-  "reset_at_local": "2026-11-20T18:00:00+01:00",
+  "period_start": "2026-11-20T17:00:00Z",
+  "period_start_local": "2026-11-20T18:00:00+01:00",
+  "reset_at": "2026-11-21T17:00:00Z",
+  "reset_at_local": "2026-11-21T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

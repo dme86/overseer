@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Trinke aufbereitetes Wasser.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Sammle Stimpaks oder Chems.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Verkrüppele ein Ghul-Bein.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Trinke Nuka-Orange.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Töte ein Westentaschenphantom, während du einem Team angehörst.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Schieße mit deiner Kamera ein Foto eines RAD-Skorpions.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Besuche deine Unterkunft.",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-20T20:11:50.680030311Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-20T17:00:00Z",
+  "period_start_local": "2026-11-20T18:00:00+01:00",
+  "reset_at": "2026-11-21T17:00:00Z",
+  "reset_at_local": "2026-11-21T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

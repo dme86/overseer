@@ -1,17 +1,17 @@
 {
-  "enemies": "Westentaschenphantome",
-  "generated_at": "2026-11-19T20:32:02.225612954Z",
+  "enemies": "Kommunisten",
+  "generated_at": "2026-11-20T20:11:50.680030311Z",
   "locale": "de-DE",
-  "location": "Morgantown High School",
-  "mode": "Verbindungsgerät",
+  "location": "Das brennende Bergwerk",
+  "mode": "Entschlüsselung",
   "mutations": [
-    "Tödlicher Blick",
-    "Reflektierende Haut"
+    "Wilder Schlag",
+    "Gruppen Regeneration + Eisige Berührung"
   ],
-  "period_start": "2026-11-19T17:00:00Z",
-  "period_start_local": "2026-11-19T18:00:00+01:00",
-  "reset_at": "2026-11-20T17:00:00Z",
-  "reset_at_local": "2026-11-20T18:00:00+01:00",
+  "period_start": "2026-11-20T17:00:00Z",
+  "period_start_local": "2026-11-20T18:00:00+01:00",
+  "reset_at": "2026-11-21T17:00:00Z",
+  "reset_at_local": "2026-11-21T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

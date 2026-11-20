@@ -1,0 +1,21 @@
+{
+  "enemies": "Communists",
+  "generated_at": "2026-11-20T20:11:50.680030311Z",
+  "locale": "en-US",
+  "location": "The Burning Mine",
+  "mode": "Decryption",
+  "mutations": [
+    "Savage Strike",
+    "Group Regeneration + Freezing Touch"
+  ],
+  "period_start": "2026-11-20T17:00:00Z",
+  "period_start_local": "2026-11-20T12:00:00-05:00",
+  "reset_at": "2026-11-21T17:00:00Z",
+  "reset_at_local": "2026-11-21T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

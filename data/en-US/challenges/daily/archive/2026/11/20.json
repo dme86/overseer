@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Drink Purified Water",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Collect Stimpaks or Chems",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Cripple a Ghoul's Leg",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Drink Nuka-Orange",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom while in a Team",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Take a Camera Picture of a Radscorpion",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Visit your Shelter",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-20T20:11:50.680030311Z",
+  "locale": "en-US",
+  "period_start": "2026-11-20T17:00:00Z",
+  "period_start_local": "2026-11-20T12:00:00-05:00",
+  "reset_at": "2026-11-21T17:00:00Z",
+  "reset_at_local": "2026-11-21T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

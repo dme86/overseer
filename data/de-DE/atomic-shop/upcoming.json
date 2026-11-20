@@ -1,21 +1,7 @@
 {
-  "generated_at": "2026-11-19T20:32:02.225612954Z",
+  "generated_at": "2026-11-20T20:11:50.680030311Z",
   "locale": "de-DE",
   "offers": [
-    {
-      "active": false,
-      "discount_percent": 50,
-      "ends_at": "2026-11-21T17:00:00Z",
-      "ends_at_local": "2026-11-21T18:00:00+01:00",
-      "item": "Nuka-Cola Friendship Display",
-      "offer_type": "daily",
-      "price_atoms": 250,
-      "price_text": "250 (50% off!)",
-      "section": "",
-      "starts_at": "2026-11-20T17:00:00Z",
-      "starts_at_local": "2026-11-20T18:00:00+01:00",
-      "subsection": "Week of November 17"
-    },
     {
       "active": false,
       "discount_percent": 50,

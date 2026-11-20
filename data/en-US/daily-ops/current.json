@@ -1,17 +1,17 @@
 {
-  "enemies": "Pint-Sized Phantoms",
-  "generated_at": "2026-11-19T20:32:02.225612954Z",
+  "enemies": "Communists",
+  "generated_at": "2026-11-20T20:11:50.680030311Z",
   "locale": "en-US",
-  "location": "Morgantown High School",
-  "mode": "Uplink",
+  "location": "The Burning Mine",
+  "mode": "Decryption",
   "mutations": [
-    "Piercing Gaze",
-    "Reflective Skin"
+    "Savage Strike",
+    "Group Regeneration + Freezing Touch"
   ],
-  "period_start": "2026-11-19T17:00:00Z",
-  "period_start_local": "2026-11-19T12:00:00-05:00",
-  "reset_at": "2026-11-20T17:00:00Z",
-  "reset_at_local": "2026-11-20T12:00:00-05:00",
+  "period_start": "2026-11-20T17:00:00Z",
+  "period_start_local": "2026-11-20T12:00:00-05:00",
+  "reset_at": "2026-11-21T17:00:00Z",
+  "reset_at_local": "2026-11-21T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
