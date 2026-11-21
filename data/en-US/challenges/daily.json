@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Drink Purified Water",
+      "name": "Eat Dog Food",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
       "name": "Gold Star: Complete a Daily Challenge",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Collect Stimpaks or Chems",
+      "name": "Build a Trap in a Workshop or C.A.M.P.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Cripple a Ghoul's Leg",
+      "name": "Collect a Fuel Tank or Gas Canister",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Drink Nuka-Orange",
+      "name": "Collect a Teddy Bear",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Cripple a Mirelurk's Limb",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Kill a Pint-Sized Phantom while in a Team",
+      "name": "Cripple enemy limbs",
       "score_reward": 250,
-      "target": 10
+      "target": 6
     },
     {
-      "name": "Take a Camera Picture of a Radscorpion",
+      "name": "Scrap junk to produce Circuitry",
       "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Visit your Shelter",
-      "score_reward": 250,
-      "target": null
+      "target": 5
     }
   ],
-  "generated_at": "2026-11-20T20:11:50.680030311Z",
+  "generated_at": "2026-11-21T19:13:13.204801690Z",
   "locale": "en-US",
-  "period_start": "2026-11-20T17:00:00Z",
-  "period_start_local": "2026-11-20T12:00:00-05:00",
-  "reset_at": "2026-11-21T17:00:00Z",
-  "reset_at_local": "2026-11-21T12:00:00-05:00",
+  "period_start": "2026-11-21T17:00:00Z",
+  "period_start_local": "2026-11-21T12:00:00-05:00",
+  "reset_at": "2026-11-22T17:00:00Z",
+  "reset_at_local": "2026-11-22T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

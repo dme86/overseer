@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Trinke aufbereitetes Wasser.",
+      "name": "Iss Hundefutter.",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Sammle Stimpaks oder Chems.",
+      "name": "Baue eine Falle in einer Werkstatt oder einem C.A.M.P.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Verkrüppele ein Ghul-Bein.",
+      "name": "Sammle einen Treibstofftank oder Gaskanister.",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Trinke Nuka-Orange.",
+      "name": "Sammle eine Teddybären.",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Verkrüppele ein Mirelurk-Körperteil.",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Töte ein Westentaschenphantom, während du einem Team angehörst.",
+      "name": "Verkrüppelt Körperteile von Gegnern.",
       "score_reward": 250,
-      "target": 10
+      "target": 6
     },
     {
-      "name": "Schieße mit deiner Kamera ein Foto eines RAD-Skorpions.",
+      "name": "Verwerte Schrott, um Schaltkreise herzustellen.",
       "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Besuche deine Unterkunft.",
-      "score_reward": 250,
-      "target": null
+      "target": 5
     }
   ],
-  "generated_at": "2026-11-20T20:11:50.680030311Z",
+  "generated_at": "2026-11-21T19:13:13.204801690Z",
   "locale": "de-DE",
-  "period_start": "2026-11-20T17:00:00Z",
-  "period_start_local": "2026-11-20T18:00:00+01:00",
-  "reset_at": "2026-11-21T17:00:00Z",
-  "reset_at_local": "2026-11-21T18:00:00+01:00",
+  "period_start": "2026-11-21T17:00:00Z",
+  "period_start_local": "2026-11-21T18:00:00+01:00",
+  "reset_at": "2026-11-22T17:00:00Z",
+  "reset_at_local": "2026-11-22T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
