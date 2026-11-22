@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Kaue Kaugummi.",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Goldstern: Schließe eine tägliche Challenge ab.",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Baue einen Boden, eine Wand oder ein Dach in Werkstätten oder C.A.M.P.s.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Sammle aufbereitetes Wasser.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Schließe eine tägliche Operation in einem öffentlichen Team ab!",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Verkrüppele einen Blutadler-Arm.",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Töte ein Westentaschenphantom.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte einen Gegner in der Skyline-Valley-Region.",
+      "score_reward": 250,
+      "target": 5
+    }
+  ],
+  "generated_at": "2026-11-22T19:33:41.469820990Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-22T17:00:00Z",
+  "period_start_local": "2026-11-22T18:00:00+01:00",
+  "reset_at": "2026-11-23T17:00:00Z",
+  "reset_at_local": "2026-11-23T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}

@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Chew some Bubblegum",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Collect Purified Water",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Complete a Daily Operation on a Public Team!",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Cripple a Blood Eagle's Arm",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Kill a Pint-Sized Phantom",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Kill an Enemy in the Skyline Valley Region",
+      "score_reward": 250,
+      "target": 5
+    }
+  ],
+  "generated_at": "2026-11-22T19:33:41.469820990Z",
+  "locale": "en-US",
+  "period_start": "2026-11-22T17:00:00Z",
+  "period_start_local": "2026-11-22T12:00:00-05:00",
+  "reset_at": "2026-11-23T17:00:00Z",
+  "reset_at_local": "2026-11-23T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

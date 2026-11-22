@@ -1,17 +1,17 @@
 {
-  "enemies": "Westentaschenphantome",
-  "generated_at": "2026-11-21T19:13:13.204801690Z",
+  "enemies": "Fanatiker",
+  "generated_at": "2026-11-22T19:33:41.469820990Z",
   "locale": "de-DE",
-  "location": "Vault 94",
-  "mode": "Verbindungsgerät",
+  "location": "Garrahan Mining Hauptquartier",
+  "mode": "Entschlüsselung",
   "mutations": [
-    "Tödlicher Blick",
-    "Aktive Tarnung + Explosiv"
+    "Wilder Schlag",
+    "Aktive Tarnung + Flink"
   ],
-  "period_start": "2026-11-21T17:00:00Z",
-  "period_start_local": "2026-11-21T18:00:00+01:00",
-  "reset_at": "2026-11-22T17:00:00Z",
-  "reset_at_local": "2026-11-22T18:00:00+01:00",
+  "period_start": "2026-11-22T17:00:00Z",
+  "period_start_local": "2026-11-22T18:00:00+01:00",
+  "reset_at": "2026-11-23T17:00:00Z",
+  "reset_at_local": "2026-11-23T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

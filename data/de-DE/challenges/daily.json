@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Iss Hundefutter.",
+      "name": "Kaue Kaugummi.",
       "score_reward": 250,
-      "target": 5
+      "target": null
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Baue eine Falle in einer Werkstatt oder einem C.A.M.P.",
+      "name": "Baue einen Boden, eine Wand oder ein Dach in Werkstätten oder C.A.M.P.s.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Sammle einen Treibstofftank oder Gaskanister.",
+      "name": "Sammle aufbereitetes Wasser.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Schließe eine tägliche Operation in einem öffentlichen Team ab!",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Verkrüppele einen Blutadler-Arm.",
       "score_reward": 250,
       "target": 2
     },
     {
-      "name": "Sammle eine Teddybären.",
+      "name": "Töte ein Westentaschenphantom.",
       "score_reward": 250,
-      "target": 3
+      "target": 10
     },
     {
-      "name": "Verkrüppele ein Mirelurk-Körperteil.",
-      "score_reward": 250,
-      "target": 2
-    },
-    {
-      "name": "Verkrüppelt Körperteile von Gegnern.",
-      "score_reward": 250,
-      "target": 6
-    },
-    {
-      "name": "Verwerte Schrott, um Schaltkreise herzustellen.",
+      "name": "Töte einen Gegner in der Skyline-Valley-Region.",
       "score_reward": 250,
       "target": 5
     }
   ],
-  "generated_at": "2026-11-21T19:13:13.204801690Z",
+  "generated_at": "2026-11-22T19:33:41.469820990Z",
   "locale": "de-DE",
-  "period_start": "2026-11-21T17:00:00Z",
-  "period_start_local": "2026-11-21T18:00:00+01:00",
-  "reset_at": "2026-11-22T17:00:00Z",
-  "reset_at_local": "2026-11-22T18:00:00+01:00",
+  "period_start": "2026-11-22T17:00:00Z",
+  "period_start_local": "2026-11-22T18:00:00+01:00",
+  "reset_at": "2026-11-23T17:00:00Z",
+  "reset_at_local": "2026-11-23T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
