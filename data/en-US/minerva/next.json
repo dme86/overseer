@@ -1,78 +1,17 @@
 {
-  "generated_at": "2026-11-16T21:58:51.525303100Z",
+  "generated_at": "2026-11-23T23:50:40.198225141Z",
   "locale": "en-US",
   "sale": {
     "active": false,
     "big_sale": false,
-    "ends_at": "2026-11-25T17:00:00Z",
-    "ends_at_local": "2026-11-25T12:00:00-05:00",
-    "inventory_complete": true,
-    "items": [
-      {
-        "name": "Plan: Asylum light",
-        "price_gold": 750
-      },
-      {
-        "name": "Plan: Crusader pistol",
-        "price_gold": 2000
-      },
-      {
-        "name": "Plan: Dynamite bundle",
-        "price_gold": 150
-      },
-      {
-        "name": "Plan: Meat bag stash box",
-        "price_gold": 750
-      },
-      {
-        "name": "Plan: Plasma caster aligned sniper barrel",
-        "price_gold": 113
-      },
-      {
-        "name": "Plan: Plasma caster calibrated capacitor",
-        "price_gold": 150
-      },
-      {
-        "name": "Plan: Plasma caster pulse capacitor",
-        "price_gold": 150
-      },
-      {
-        "name": "Plan: T-65 helm",
-        "price_gold": 1238
-      },
-      {
-        "name": "Plan: T-65 left arm",
-        "price_gold": 750
-      },
-      {
-        "name": "Plan: T-65 left leg",
-        "price_gold": 750
-      },
-      {
-        "name": "Plan: T-65 right arm",
-        "price_gold": 750
-      },
-      {
-        "name": "Plan: T-65 right leg",
-        "price_gold": 750
-      },
-      {
-        "name": "Plan: T-65 torso",
-        "price_gold": 938
-      },
-      {
-        "name": "Plan: Ghoul chair",
-        "price_gold": 375
-      },
-      {
-        "name": "Plan: Gorilla chair",
-        "price_gold": 375
-      }
-    ],
-    "list": 9,
-    "location": "Foundation",
-    "starts_at": "2026-11-23T17:00:00Z",
-    "starts_at_local": "2026-11-23T12:00:00-05:00"
+    "ends_at": "2026-12-02T17:00:00Z",
+    "ends_at_local": "2026-12-02T12:00:00-05:00",
+    "inventory_complete": false,
+    "items": [],
+    "list": 10,
+    "location": "Crater",
+    "starts_at": "2026-11-30T17:00:00Z",
+    "starts_at_local": "2026-11-30T12:00:00-05:00"
   },
   "schema_version": 1,
   "source": {

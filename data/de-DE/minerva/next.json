@@ -1,78 +1,17 @@
 {
-  "generated_at": "2026-11-16T21:58:51.525303100Z",
+  "generated_at": "2026-11-23T23:50:40.198225141Z",
   "locale": "de-DE",
   "sale": {
     "active": false,
     "big_sale": false,
-    "ends_at": "2026-11-25T17:00:00Z",
-    "ends_at_local": "2026-11-25T18:00:00+01:00",
-    "inventory_complete": true,
-    "items": [
-      {
-        "name": "Bauplan: Anstaltslicht",
-        "price_gold": 750
-      },
-      {
-        "name": "Bauplan: Kreuzritterpistole",
-        "price_gold": 2000
-      },
-      {
-        "name": "Bauplan: Dynamitpaket",
-        "price_gold": 150
-      },
-      {
-        "name": "Bauplan: Fleischsack-Lagerkiste",
-        "price_gold": 750
-      },
-      {
-        "name": "Bauplan: Plasmawerfer (justierter Scharfschützenlauf)",
-        "price_gold": 113
-      },
-      {
-        "name": "Bauplan: Plasmawerfer (kalibrierter Kondensator)",
-        "price_gold": 150
-      },
-      {
-        "name": "Bauplan: Plasmawerfer (Impuls-Kondensator)",
-        "price_gold": 150
-      },
-      {
-        "name": "Bauplan: T-65-Helm",
-        "price_gold": 1238
-      },
-      {
-        "name": "Bauplan: Linker T-65-Arm",
-        "price_gold": 750
-      },
-      {
-        "name": "Bauplan: Linkes T-65-Bein",
-        "price_gold": 750
-      },
-      {
-        "name": "Bauplan: Rechter T65-Arm",
-        "price_gold": 750
-      },
-      {
-        "name": "Bauplan: Rechtes T-65-Bein",
-        "price_gold": 750
-      },
-      {
-        "name": "Bauplan: T65-Torso",
-        "price_gold": 938
-      },
-      {
-        "name": "Bauplan: Ghul-Stuhl",
-        "price_gold": 375
-      },
-      {
-        "name": "Bauplan: Gorillastuhl",
-        "price_gold": 375
-      }
-    ],
-    "list": 9,
-    "location": "Foundation",
-    "starts_at": "2026-11-23T17:00:00Z",
-    "starts_at_local": "2026-11-23T18:00:00+01:00"
+    "ends_at": "2026-12-02T17:00:00Z",
+    "ends_at_local": "2026-12-02T18:00:00+01:00",
+    "inventory_complete": false,
+    "items": [],
+    "list": 10,
+    "location": "Crater",
+    "starts_at": "2026-11-30T17:00:00Z",
+    "starts_at_local": "2026-11-30T18:00:00+01:00"
   },
   "schema_version": 1,
   "source": {

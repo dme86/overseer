@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Drink Nuka-Cola Wild",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Collect Toilet Paper",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Craft any Flair at a Tinkerer's Bench",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill a Cryptid",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill an Enemy with any Energy Weapon",
+      "score_reward": 250,
+      "target": 8
+    },
+    {
+      "name": "Mod a Weapon",
+      "score_reward": 250,
+      "target": 3
+    },
+    {
+      "name": "Scrap junk to produce Cork",
+      "score_reward": 250,
+      "target": 5
+    }
+  ],
+  "generated_at": "2026-11-23T23:50:40.198225141Z",
+  "locale": "en-US",
+  "period_start": "2026-11-23T17:00:00Z",
+  "period_start_local": "2026-11-23T12:00:00-05:00",
+  "reset_at": "2026-11-24T17:00:00Z",
+  "reset_at_local": "2026-11-24T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

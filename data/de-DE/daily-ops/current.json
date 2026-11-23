@@ -1,17 +1,17 @@
 {
-  "enemies": "Fanatiker",
-  "generated_at": "2026-11-22T19:33:41.469820990Z",
+  "enemies": "Überwucherte",
+  "generated_at": "2026-11-23T23:50:40.198225141Z",
   "locale": "de-DE",
-  "location": "Garrahan Mining Hauptquartier",
-  "mode": "Entschlüsselung",
+  "location": "Die Höhlen",
+  "mode": "Verbindungsgerät",
   "mutations": [
-    "Wilder Schlag",
-    "Aktive Tarnung + Flink"
+    "Tödlicher Blick",
+    "Gruppen Regeneration + Eisige Berührung"
   ],
-  "period_start": "2026-11-22T17:00:00Z",
-  "period_start_local": "2026-11-22T18:00:00+01:00",
-  "reset_at": "2026-11-23T17:00:00Z",
-  "reset_at_local": "2026-11-23T18:00:00+01:00",
+  "period_start": "2026-11-23T17:00:00Z",
+  "period_start_local": "2026-11-23T18:00:00+01:00",
+  "reset_at": "2026-11-24T17:00:00Z",
+  "reset_at_local": "2026-11-24T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

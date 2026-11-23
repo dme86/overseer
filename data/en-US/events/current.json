@@ -2,29 +2,6 @@
   "active": [
     {
       "active": true,
-      "ends_at": "2026-11-23T17:00:00Z",
-      "ends_at_local": "2026-11-23T12:00:00-05:00",
-      "starts_at": "2026-11-19T17:00:00Z",
-      "starts_at_local": "2026-11-19T12:00:00-05:00",
-      "tags": [
-        "double_mutations",
-        "gold_rush"
-      ],
-      "title": "Gold Rush and Double Mutations",
-      "url": "https://nukaknights.com/events/6260987344018987/gold-rush-and-double-mutations/"
-    }
-  ],
-  "generated_at": "2026-11-19T20:32:02.225612954Z",
-  "locale": "en-US",
-  "schema_version": 1,
-  "source": {
-    "provider": "Nuka Knights",
-    "url": "https://nukaknights.com/events-calendar.html"
-  },
-  "timezone": "America/New_York",
-  "upcoming": [
-    {
-      "active": false,
       "ends_at": "2026-11-25T17:00:00Z",
       "ends_at_local": "2026-11-25T12:00:00-05:00",
       "starts_at": "2026-11-23T17:00:00Z",
@@ -34,7 +11,17 @@
       ],
       "title": "Minerva (List 9)",
       "url": "https://nukaknights.com/events/6260987344018971/minerva-list-9/"
-    },
+    }
+  ],
+  "generated_at": "2026-11-23T23:50:40.198225141Z",
+  "locale": "en-US",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/events-calendar.html"
+  },
+  "timezone": "America/New_York",
+  "upcoming": [
     {
       "active": false,
       "ends_at": "2026-12-01T17:00:00Z",
