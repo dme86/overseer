@@ -1,17 +1,17 @@
 {
-  "enemies": "Overgrown",
-  "generated_at": "2026-11-23T23:50:40.198225141Z",
+  "enemies": "Pint-Sized Phantoms",
+  "generated_at": "2026-11-24T22:23:24.707225278Z",
   "locale": "en-US",
-  "location": "The Burrows",
-  "mode": "Uplink",
+  "location": "Garrahan Mining Headquarter",
+  "mode": "Decryption",
   "mutations": [
-    "Piercing Gaze",
-    "Group Regeneration + Freezing Touch"
+    "Savage Strike",
+    "Freezing Touch"
   ],
-  "period_start": "2026-11-23T17:00:00Z",
-  "period_start_local": "2026-11-23T12:00:00-05:00",
-  "reset_at": "2026-11-24T17:00:00Z",
-  "reset_at_local": "2026-11-24T12:00:00-05:00",
+  "period_start": "2026-11-24T17:00:00Z",
+  "period_start_local": "2026-11-24T12:00:00-05:00",
+  "reset_at": "2026-11-25T17:00:00Z",
+  "reset_at_local": "2026-11-25T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Scrap junk to produce Steel",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Build a Decoration in a Workshop or C.A.M.P.",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Collect Legendary Scrip",
+      "score_reward": 250,
+      "target": 50
+    },
+    {
+      "name": "Complete a Mutated Public Event",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Complete an Infestation",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill a Wendigo",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill an Enemy during an Infestation",
+      "score_reward": 250,
+      "target": 3
+    }
+  ],
+  "generated_at": "2026-11-24T22:23:24.707225278Z",
+  "locale": "en-US",
+  "period_start": "2026-11-24T17:00:00Z",
+  "period_start_local": "2026-11-24T12:00:00-05:00",
+  "reset_at": "2026-11-25T17:00:00Z",
+  "reset_at_local": "2026-11-25T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

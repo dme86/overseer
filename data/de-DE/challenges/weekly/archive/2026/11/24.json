@@ -1,0 +1,76 @@
+{
+  "challenges": [
+    {
+      "name": "Schließe eine tägliche Goldstern-Challenge ab.",
+      "score_reward": 1500,
+      "target": 3
+    },
+    {
+      "name": "Wiederholbar unter Rang 100: Erhalte EP.",
+      "score_reward": 100,
+      "target": 10000
+    },
+    {
+      "name": "Wiederholbar ab Rang 100: Schließe ein öffentliches Event ab.",
+      "score_reward": 300,
+      "target": 3
+    },
+    {
+      "name": "Baue eine Dekoration in einer Unterkunft.",
+      "score_reward": 1000,
+      "target": 15
+    },
+    {
+      "name": "Von einem anderen Spieler kaufen oder an ihn verkaufen.",
+      "score_reward": 1000,
+      "target": 15
+    },
+    {
+      "name": "Sammle Kronkorken.",
+      "score_reward": 1000,
+      "target": 2500
+    },
+    {
+      "name": "Schließe ein Event oder eine Aktivität ab.",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Schließe einen Befall ab.",
+      "score_reward": 1000,
+      "target": 3
+    },
+    {
+      "name": "Töte die Wiedergeburt des Westentaschenschlitzers",
+      "score_reward": 1000,
+      "target": null
+    },
+    {
+      "name": "Töte einen mutierten Gegner.",
+      "score_reward": 1000,
+      "target": 30
+    },
+    {
+      "name": "Töte ein Westentaschenphantom während eines Befalls.",
+      "score_reward": 1000,
+      "target": 20
+    },
+    {
+      "name": "Töte eine legendäre Kreatur.",
+      "score_reward": 1000,
+      "target": 5
+    }
+  ],
+  "generated_at": "2026-11-24T22:23:24.707225278Z",
+  "locale": "de-DE",
+  "period_start": "2026-11-24T17:00:00Z",
+  "period_start_local": "2026-11-24T18:00:00+01:00",
+  "reset_at": "2026-12-01T17:00:00Z",
+  "reset_at_local": "2026-12-01T18:00:00+01:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/"
+  },
+  "timezone": "Europe/Berlin"
+}
