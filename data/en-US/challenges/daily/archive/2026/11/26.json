@@ -1,0 +1,56 @@
+{
+  "challenges": [
+    {
+      "name": "Drink Nuka-Cola Quantum",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Gold Star: Complete a Daily Challenge",
+      "score_reward": 1000,
+      "target": 6
+    },
+    {
+      "name": "Build a Generator in a C.A.M.P. or Workshop",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Collect Caps",
+      "score_reward": 250,
+      "target": 250
+    },
+    {
+      "name": "Cripple a Super Mutant's Leg",
+      "score_reward": 250,
+      "target": 2
+    },
+    {
+      "name": "Eat a box of Blamco Brand Mac and Cheese",
+      "score_reward": 250,
+      "target": null
+    },
+    {
+      "name": "Kill a Super Mutant",
+      "score_reward": 250,
+      "target": 5
+    },
+    {
+      "name": "Take a Camera Picture of a Super Mutant",
+      "score_reward": 250,
+      "target": null
+    }
+  ],
+  "generated_at": "2026-11-26T21:27:48.917348200Z",
+  "locale": "en-US",
+  "period_start": "2026-11-26T17:00:00Z",
+  "period_start_local": "2026-11-26T12:00:00-05:00",
+  "reset_at": "2026-11-27T17:00:00Z",
+  "reset_at_local": "2026-11-27T12:00:00-05:00",
+  "schema_version": 1,
+  "source": {
+    "provider": "Nuka Knights",
+    "url": "https://nukaknights.com/en/"
+  },
+  "timezone": "America/New_York"
+}

@@ -1,17 +1,17 @@
 {
   "enemies": "Pint-Sized Phantoms",
-  "generated_at": "2026-11-24T22:23:24.707225278Z",
+  "generated_at": "2026-11-26T21:27:48.917348200Z",
   "locale": "en-US",
-  "location": "Garrahan Mining Headquarter",
+  "location": "Glassed Cavern",
   "mode": "Decryption",
   "mutations": [
     "Savage Strike",
-    "Freezing Touch"
+    "Toxic Blood"
   ],
-  "period_start": "2026-11-24T17:00:00Z",
-  "period_start_local": "2026-11-24T12:00:00-05:00",
-  "reset_at": "2026-11-25T17:00:00Z",
-  "reset_at_local": "2026-11-25T12:00:00-05:00",
+  "period_start": "2026-11-26T17:00:00Z",
+  "period_start_local": "2026-11-26T12:00:00-05:00",
+  "reset_at": "2026-11-27T17:00:00Z",
+  "reset_at_local": "2026-11-27T12:00:00-05:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

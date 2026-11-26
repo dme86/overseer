@@ -1,13 +1,70 @@
 {
-  "generated_at": "2026-11-23T23:50:40.198225141Z",
+  "generated_at": "2026-11-26T21:27:48.917348200Z",
   "locale": "de-DE",
   "sale": {
     "active": false,
     "big_sale": false,
     "ends_at": "2026-12-02T17:00:00Z",
     "ends_at_local": "2026-12-02T18:00:00+01:00",
-    "inventory_complete": false,
-    "items": [],
+    "inventory_complete": true,
+    "items": [
+      {
+        "name": "Bauplan: Handschuh",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: Gauss-Schrotflinte (präzisierter Verschluss)",
+        "price_gold": 75
+      },
+      {
+        "name": "Bauplan: Gauss-Schrotflinte (brutaler Verschluss)",
+        "price_gold": 150
+      },
+      {
+        "name": "Bauplan: Gauss-Schrotflinte (präzisierter Verschluss)",
+        "price_gold": 150
+      },
+      {
+        "name": "Bauplan: Gauss-Minigun (Dreifachlauf)",
+        "price_gold": 113
+      },
+      {
+        "name": "Bauplan: Leuchtfackel",
+        "price_gold": 38
+      },
+      {
+        "name": "Bauplan: Bruderschafts-Aufklärungsrüstung - Körperteile (mit Taschen)",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: Bruderschafts-Aufklärungsrüstung - Torso (mit Taschen)",
+        "price_gold": 188
+      },
+      {
+        "name": "Bauplan: Turbo-Dünger",
+        "price_gold": 563
+      },
+      {
+        "name": "Bauplan: Hellstorm-Raketenwerfer",
+        "price_gold": 2000
+      },
+      {
+        "name": "Bauplan: Unaufhaltsames Monster",
+        "price_gold": 1000
+      },
+      {
+        "name": "Bauplan: Cowboy-Überhosen",
+        "price_gold": 113
+      },
+      {
+        "name": "Bauplan: Cowboy-Staubmantel",
+        "price_gold": 113
+      },
+      {
+        "name": "Bauplan: Cowboyhut",
+        "price_gold": 75
+      }
+    ],
     "list": 10,
     "location": "Crater",
     "starts_at": "2026-11-30T17:00:00Z",

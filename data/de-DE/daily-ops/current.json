@@ -1,17 +1,17 @@
 {
   "enemies": "Westentaschenphantome",
-  "generated_at": "2026-11-24T22:23:24.707225278Z",
+  "generated_at": "2026-11-26T21:27:48.917348200Z",
   "locale": "de-DE",
-  "location": "Garrahan Mining Hauptquartier",
+  "location": "Verglaste Höhle",
   "mode": "Entschlüsselung",
   "mutations": [
     "Wilder Schlag",
-    "Eisige Berührung"
+    "Giftiges Blut"
   ],
-  "period_start": "2026-11-24T17:00:00Z",
-  "period_start_local": "2026-11-24T18:00:00+01:00",
-  "reset_at": "2026-11-25T17:00:00Z",
-  "reset_at_local": "2026-11-25T18:00:00+01:00",
+  "period_start": "2026-11-26T17:00:00Z",
+  "period_start_local": "2026-11-26T18:00:00+01:00",
+  "reset_at": "2026-11-27T17:00:00Z",
+  "reset_at_local": "2026-11-27T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",

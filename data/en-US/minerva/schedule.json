@@ -1,87 +1,71 @@
 {
-  "generated_at": "2026-11-23T23:50:40.198225141Z",
+  "generated_at": "2026-11-26T21:27:48.917348200Z",
   "locale": "en-US",
   "schedule": [
-    {
-      "active": true,
-      "big_sale": false,
-      "ends_at": "2026-11-25T17:00:00Z",
-      "ends_at_local": "2026-11-25T12:00:00-05:00",
-      "inventory_complete": true,
-      "items": [
-        {
-          "name": "Plan: Asylum light",
-          "price_gold": 750
-        },
-        {
-          "name": "Plan: Crusader pistol",
-          "price_gold": 2000
-        },
-        {
-          "name": "Plan: Dynamite bundle",
-          "price_gold": 150
-        },
-        {
-          "name": "Plan: Meat bag stash box",
-          "price_gold": 750
-        },
-        {
-          "name": "Plan: Plasma caster aligned sniper barrel",
-          "price_gold": 113
-        },
-        {
-          "name": "Plan: Plasma caster calibrated capacitor",
-          "price_gold": 150
-        },
-        {
-          "name": "Plan: Plasma caster pulse capacitor",
-          "price_gold": 150
-        },
-        {
-          "name": "Plan: T-65 helm",
-          "price_gold": 1238
-        },
-        {
-          "name": "Plan: T-65 left arm",
-          "price_gold": 750
-        },
-        {
-          "name": "Plan: T-65 left leg",
-          "price_gold": 750
-        },
-        {
-          "name": "Plan: T-65 right arm",
-          "price_gold": 750
-        },
-        {
-          "name": "Plan: T-65 right leg",
-          "price_gold": 750
-        },
-        {
-          "name": "Plan: T-65 torso",
-          "price_gold": 938
-        },
-        {
-          "name": "Plan: Ghoul chair",
-          "price_gold": 375
-        },
-        {
-          "name": "Plan: Gorilla chair",
-          "price_gold": 375
-        }
-      ],
-      "list": 9,
-      "location": "Foundation",
-      "starts_at": "2026-11-23T17:00:00Z",
-      "starts_at_local": "2026-11-23T12:00:00-05:00"
-    },
     {
       "active": false,
       "big_sale": false,
       "ends_at": "2026-12-02T17:00:00Z",
       "ends_at_local": "2026-12-02T12:00:00-05:00",
-      "inventory_complete": false,
-      "items": [],
+      "inventory_complete": true,
+      "items": [
+        {
+          "name": "Plan: Gauntlet",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: Gauss shotgun precise stock",
+          "price_gold": 75
+        },
+        {
+          "name": "Plan: Gauss shotgun vicious receiver",
+          "price_gold": 150
+        },
+        {
+          "name": "Plan: Gauss shotgun refined receiver",
+          "price_gold": 150
+        },
+        {
+          "name": "Plan: Gauss minigun triple barrel",
+          "price_gold": 113
+        },
+        {
+          "name": "Plan: Flare",
+          "price_gold": 38
+        },
+        {
+          "name": "Plan: Brotherhood recon pocketed armor limb",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: Brotherhood recon pocketed armor torso",
+          "price_gold": 188
+        },
+        {
+          "name": "Plan: Turbo-Fert fertilizer",
+          "price_gold": 563
+        },
+        {
+          "name": "Plan: Hellstorm missile launcher",
+          "price_gold": 2000
+        },
+        {
+          "name": "Plan: Unstoppable Monster",
+          "price_gold": 1000
+        },
+        {
+          "name": "Bauplan: Cowboy Chaps",
+          "price_gold": 113
+        },
+        {
+          "name": "Plan: Cowboy Duster",
+          "price_gold": 113
+        },
+        {
+          "name": "Bauplan: Cowboy Hat",
+          "price_gold": 75
+        }
+      ],
       "list": 10,
       "location": "Crater",
       "starts_at": "2026-11-30T17:00:00Z",
