@@ -1,9 +1,9 @@
 {
   "challenges": [
     {
-      "name": "Trinke Nuka-Cola Quantum.",
+      "name": "Iss Vorkriegsnahrung.",
       "score_reward": 250,
-      "target": 2
+      "target": 5
     },
     {
       "name": "Goldstern: Schließe eine tägliche Challenge ab.",
@@ -11,42 +11,42 @@
       "target": 6
     },
     {
-      "name": "Baue einen Generator in einem C.A.M.P. oder einer Werkstatt.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Sammle Kronkorken.",
-      "score_reward": 250,
-      "target": 250
-    },
-    {
-      "name": "Verkrüppele ein Supermutanten-Bein.",
-      "score_reward": 250,
-      "target": 2
-    },
-    {
-      "name": "Iss eine Packung Blamco Mac and Cheese.",
-      "score_reward": 250,
-      "target": null
-    },
-    {
-      "name": "Töte einen Supermutanten.",
+      "name": "Baue im Freie-Kamera-Modus eine Dekoration in einer Unterkunft.",
       "score_reward": 250,
       "target": 5
     },
     {
-      "name": "Schieße mit deiner Kamera ein Foto eines Supermutanten.",
+      "name": "Iss ein vegetarisches Gericht.",
       "score_reward": 250,
-      "target": null
+      "target": 10
+    },
+    {
+      "name": "Ernte eine Wildpflanze oder einen Pilz.",
+      "score_reward": 250,
+      "target": 12
+    },
+    {
+      "name": "Töte eine Kreatur, während du in einem Team bist.",
+      "score_reward": 250,
+      "target": 10
+    },
+    {
+      "name": "Töte während eines Befalls ein Westentaschenphantom, während du einem Team angehörst.",
+      "score_reward": 250,
+      "target": 6
+    },
+    {
+      "name": "Töte während einer Routinejagd einen Gegner mit einer scharfen oder durchbohrenden Waffe.",
+      "score_reward": 250,
+      "target": 5
     }
   ],
-  "generated_at": "2026-11-26T21:27:48.917348200Z",
+  "generated_at": "2026-11-27T21:13:42.565279838Z",
   "locale": "de-DE",
-  "period_start": "2026-11-26T17:00:00Z",
-  "period_start_local": "2026-11-26T18:00:00+01:00",
-  "reset_at": "2026-11-27T17:00:00Z",
-  "reset_at_local": "2026-11-27T18:00:00+01:00",
+  "period_start": "2026-11-27T17:00:00Z",
+  "period_start_local": "2026-11-27T18:00:00+01:00",
+  "reset_at": "2026-11-28T17:00:00Z",
+  "reset_at_local": "2026-11-28T18:00:00+01:00",
   "schema_version": 1,
   "source": {
     "provider": "Nuka Knights",
